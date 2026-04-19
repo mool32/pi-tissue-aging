@@ -246,7 +246,13 @@ Bootstrap confidence intervals come from 100 resamples of donors (for GTEx tissu
 
 ### 5.14 Code and data availability
 
-All analysis code is released at [GitHub repository URL]. GTEx data from dbGaP (phs000424.v8). Tabula Muris Senis FACS and Droplet from GEO (GSE132040) and Figshare. Calico rat atlas from GEO (GSE141784). Macaque data from Figshare (26963386).
+All analysis code, intermediate CSVs, and figures are released at
+https://github.com/vaika-inc/pi-tissue-aging (a local git repository
+accompanies this submission and will be pushed to GitHub on preprint
+deposit). Raw upstream data must be obtained separately: GTEx v8 from
+dbGaP (phs000424.v8, requires approval); Tabula Muris Senis FACS and
+Droplet from GEO (GSE132040) and figshare (doi:10.6084/m9.figshare.12654728);
+Calico rat atlas from GEO (GSE141784); macaque data from figshare (26963386).
 
 ---
 
