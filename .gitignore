@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Raw upstream data (obtain separately; do not redistribute)
+*.h5ad
+*.h5
+*.mtx
+*.loom
+*.gct.gz
+*.gct
+data/gtex/*.txt
+data/gtex/*.gct.gz
+data/tms_facs/
+data/tms_bulk/
+data/tcga/
+data/macaque/extracted/*.csv.gz
+data/tyshkovskiy/
+data/killifish/
+data/nmr/
+data/dmr/
+data/flyatlas/
+data/guinea_pig/
+data/elegans/
+data/arabidopsis/
+data/shavlakadze/fastq/
+data/shavlakadze/quant/
+data/shavlakadze/index/
+data/shavlakadze/salmon_index/
+
+# Old manuscript versions
+manuscript/manuscript_v1.md
+manuscript/uploaded_v1.md
+manuscript/pi_tissue_paper_v2.md
+manuscript/pi_tissue_paper_v3.md
+manuscript/pi_tissue_paper_v3.docx
+manuscript/pi_tissue_paper_v3.pdf
+
+# Large intermediates
+results/**/*.h5ad
+
+# Logs
+*.log
+/tmp/

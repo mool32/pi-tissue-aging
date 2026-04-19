@@ -1,0 +1,13 @@
+cell_type,age_group,pi_tissue,pi_std,n_tissues,n_cells,platform,balanced
+B cell,young,0.5306120173908426,0.0,5,5918,10x_Chromium,True
+B cell,old,0.2514703192801639,0.010765838672532873,5,16618,10x_Chromium,True
+T cell,young,1.0,0.0,5,3643,10x_Chromium,True
+T cell,old,0.2780726594746262,0.00796040517885721,5,4795,10x_Chromium,True
+endothelial cell,young,0.5993005825769093,0.0,3,998,10x_Chromium,True
+endothelial cell,old,0.28805078047096105,0.009759760865095751,3,4087,10x_Chromium,True
+macrophage,young,0.8130722176259697,0.0034269911389529324,5,933,10x_Chromium,True
+macrophage,old,0.559813207503366,0.022157677435553698,5,3874,10x_Chromium,True
+NK cell,young,1.0,0.0,5,717,10x_Chromium,True
+NK cell,old,0.4976420252470469,0.020578386671359233,5,891,10x_Chromium,True
+plasma cell,young,0.33363883060196947,0.0,3,67,10x_Chromium,True
+plasma cell,old,0.22776494492646424,0.003903853118976788,3,597,10x_Chromium,True

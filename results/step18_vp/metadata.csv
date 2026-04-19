@@ -1,0 +1,1579 @@
+sample,sample,donor,tissue,age_mid,age_bin,sex
+GTEX-1122O_Muscle - S,GTEX-1122O_Muscle - S,GTEX-1122O,Muscle - Skeletal,64.5,60-79,female
+GTEX-1122O_Whole Bloo,GTEX-1122O_Whole Bloo,GTEX-1122O,Whole Blood,64.5,60-79,female
+GTEX-1122O_Skin - Sun,GTEX-1122O_Skin - Sun,GTEX-1122O,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1122O_Adipose - ,GTEX-1122O_Adipose - ,GTEX-1122O,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1122O_Artery - T,GTEX-1122O_Artery - T,GTEX-1122O,Artery - Tibial,64.5,60-79,female
+GTEX-1122O_Thyroid,GTEX-1122O_Thyroid,GTEX-1122O,Thyroid,64.5,60-79,female
+GTEX-1128S_Muscle - S,GTEX-1128S_Muscle - S,GTEX-1128S,Muscle - Skeletal,64.5,60-79,female
+GTEX-1128S_Whole Bloo,GTEX-1128S_Whole Bloo,GTEX-1128S,Whole Blood,64.5,60-79,female
+GTEX-1128S_Skin - Sun,GTEX-1128S_Skin - Sun,GTEX-1128S,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1128S_Adipose - ,GTEX-1128S_Adipose - ,GTEX-1128S,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1128S_Artery - T,GTEX-1128S_Artery - T,GTEX-1128S,Artery - Tibial,64.5,60-79,female
+GTEX-1128S_Thyroid,GTEX-1128S_Thyroid,GTEX-1128S,Thyroid,64.5,60-79,female
+GTEX-11DXX_Muscle - S,GTEX-11DXX_Muscle - S,GTEX-11DXX,Muscle - Skeletal,64.5,60-79,female
+GTEX-11DXX_Whole Bloo,GTEX-11DXX_Whole Bloo,GTEX-11DXX,Whole Blood,64.5,60-79,female
+GTEX-11DXX_Skin - Sun,GTEX-11DXX_Skin - Sun,GTEX-11DXX,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-11DXX_Adipose - ,GTEX-11DXX_Adipose - ,GTEX-11DXX,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-11DXX_Artery - T,GTEX-11DXX_Artery - T,GTEX-11DXX,Artery - Tibial,64.5,60-79,female
+GTEX-11DXX_Thyroid,GTEX-11DXX_Thyroid,GTEX-11DXX,Thyroid,64.5,60-79,female
+GTEX-11EI6_Muscle - S,GTEX-11EI6_Muscle - S,GTEX-11EI6,Muscle - Skeletal,64.5,60-79,male
+GTEX-11EI6_Whole Bloo,GTEX-11EI6_Whole Bloo,GTEX-11EI6,Whole Blood,64.5,60-79,male
+GTEX-11EI6_Skin - Sun,GTEX-11EI6_Skin - Sun,GTEX-11EI6,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-11EI6_Adipose - ,GTEX-11EI6_Adipose - ,GTEX-11EI6,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-11EI6_Artery - T,GTEX-11EI6_Artery - T,GTEX-11EI6,Artery - Tibial,64.5,60-79,male
+GTEX-11EI6_Thyroid,GTEX-11EI6_Thyroid,GTEX-11EI6,Thyroid,64.5,60-79,male
+GTEX-11EM3_Muscle - S,GTEX-11EM3_Muscle - S,GTEX-11EM3,Muscle - Skeletal,24.5,20-39,female
+GTEX-11EM3_Whole Bloo,GTEX-11EM3_Whole Bloo,GTEX-11EM3,Whole Blood,24.5,20-39,female
+GTEX-11EM3_Skin - Sun,GTEX-11EM3_Skin - Sun,GTEX-11EM3,Skin - Sun Exposed (Lower leg),24.5,20-39,female
+GTEX-11EM3_Adipose - ,GTEX-11EM3_Adipose - ,GTEX-11EM3,Adipose - Subcutaneous,24.5,20-39,female
+GTEX-11EM3_Artery - T,GTEX-11EM3_Artery - T,GTEX-11EM3,Artery - Tibial,24.5,20-39,female
+GTEX-11EM3_Thyroid,GTEX-11EM3_Thyroid,GTEX-11EM3,Thyroid,24.5,20-39,female
+GTEX-11EMC_Muscle - S,GTEX-11EMC_Muscle - S,GTEX-11EMC,Muscle - Skeletal,64.5,60-79,female
+GTEX-11EMC_Whole Bloo,GTEX-11EMC_Whole Bloo,GTEX-11EMC,Whole Blood,64.5,60-79,female
+GTEX-11EMC_Skin - Sun,GTEX-11EMC_Skin - Sun,GTEX-11EMC,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-11EMC_Adipose - ,GTEX-11EMC_Adipose - ,GTEX-11EMC,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-11EMC_Artery - T,GTEX-11EMC_Artery - T,GTEX-11EMC,Artery - Tibial,64.5,60-79,female
+GTEX-11EMC_Thyroid,GTEX-11EMC_Thyroid,GTEX-11EMC,Thyroid,64.5,60-79,female
+GTEX-11EQ9_Muscle - S,GTEX-11EQ9_Muscle - S,GTEX-11EQ9,Muscle - Skeletal,34.5,20-39,male
+GTEX-11EQ9_Whole Bloo,GTEX-11EQ9_Whole Bloo,GTEX-11EQ9,Whole Blood,34.5,20-39,male
+GTEX-11EQ9_Skin - Sun,GTEX-11EQ9_Skin - Sun,GTEX-11EQ9,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-11EQ9_Adipose - ,GTEX-11EQ9_Adipose - ,GTEX-11EQ9,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-11EQ9_Artery - T,GTEX-11EQ9_Artery - T,GTEX-11EQ9,Artery - Tibial,34.5,20-39,male
+GTEX-11EQ9_Thyroid,GTEX-11EQ9_Thyroid,GTEX-11EQ9,Thyroid,34.5,20-39,male
+GTEX-11GS4_Muscle - S,GTEX-11GS4_Muscle - S,GTEX-11GS4,Muscle - Skeletal,64.5,60-79,male
+GTEX-11GS4_Whole Bloo,GTEX-11GS4_Whole Bloo,GTEX-11GS4,Whole Blood,64.5,60-79,male
+GTEX-11GS4_Skin - Sun,GTEX-11GS4_Skin - Sun,GTEX-11GS4,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-11GS4_Adipose - ,GTEX-11GS4_Adipose - ,GTEX-11GS4,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-11GS4_Artery - T,GTEX-11GS4_Artery - T,GTEX-11GS4,Artery - Tibial,64.5,60-79,male
+GTEX-11GS4_Thyroid,GTEX-11GS4_Thyroid,GTEX-11GS4,Thyroid,64.5,60-79,male
+GTEX-11LCK_Muscle - S,GTEX-11LCK_Muscle - S,GTEX-11LCK,Muscle - Skeletal,34.5,20-39,male
+GTEX-11LCK_Whole Bloo,GTEX-11LCK_Whole Bloo,GTEX-11LCK,Whole Blood,34.5,20-39,male
+GTEX-11LCK_Skin - Sun,GTEX-11LCK_Skin - Sun,GTEX-11LCK,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-11LCK_Adipose - ,GTEX-11LCK_Adipose - ,GTEX-11LCK,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-11LCK_Artery - T,GTEX-11LCK_Artery - T,GTEX-11LCK,Artery - Tibial,34.5,20-39,male
+GTEX-11LCK_Thyroid,GTEX-11LCK_Thyroid,GTEX-11LCK,Thyroid,34.5,20-39,male
+GTEX-11NUK_Muscle - S,GTEX-11NUK_Muscle - S,GTEX-11NUK,Muscle - Skeletal,54.5,50-59,male
+GTEX-11NUK_Whole Bloo,GTEX-11NUK_Whole Bloo,GTEX-11NUK,Whole Blood,54.5,50-59,male
+GTEX-11NUK_Skin - Sun,GTEX-11NUK_Skin - Sun,GTEX-11NUK,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-11NUK_Adipose - ,GTEX-11NUK_Adipose - ,GTEX-11NUK,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-11NUK_Artery - T,GTEX-11NUK_Artery - T,GTEX-11NUK,Artery - Tibial,54.5,50-59,male
+GTEX-11NUK_Thyroid,GTEX-11NUK_Thyroid,GTEX-11NUK,Thyroid,54.5,50-59,male
+GTEX-11O72_Muscle - S,GTEX-11O72_Muscle - S,GTEX-11O72,Muscle - Skeletal,44.5,40-49,male
+GTEX-11O72_Whole Bloo,GTEX-11O72_Whole Bloo,GTEX-11O72,Whole Blood,44.5,40-49,male
+GTEX-11O72_Skin - Sun,GTEX-11O72_Skin - Sun,GTEX-11O72,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-11O72_Adipose - ,GTEX-11O72_Adipose - ,GTEX-11O72,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-11O72_Artery - T,GTEX-11O72_Artery - T,GTEX-11O72,Artery - Tibial,44.5,40-49,male
+GTEX-11O72_Thyroid,GTEX-11O72_Thyroid,GTEX-11O72,Thyroid,44.5,40-49,male
+GTEX-11P7K_Muscle - S,GTEX-11P7K_Muscle - S,GTEX-11P7K,Muscle - Skeletal,34.5,20-39,male
+GTEX-11P7K_Whole Bloo,GTEX-11P7K_Whole Bloo,GTEX-11P7K,Whole Blood,34.5,20-39,male
+GTEX-11P7K_Skin - Sun,GTEX-11P7K_Skin - Sun,GTEX-11P7K,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-11P7K_Adipose - ,GTEX-11P7K_Adipose - ,GTEX-11P7K,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-11P7K_Artery - T,GTEX-11P7K_Artery - T,GTEX-11P7K,Artery - Tibial,34.5,20-39,male
+GTEX-11P7K_Thyroid,GTEX-11P7K_Thyroid,GTEX-11P7K,Thyroid,34.5,20-39,male
+GTEX-11P81_Muscle - S,GTEX-11P81_Muscle - S,GTEX-11P81,Muscle - Skeletal,34.5,20-39,female
+GTEX-11P81_Whole Bloo,GTEX-11P81_Whole Bloo,GTEX-11P81,Whole Blood,34.5,20-39,female
+GTEX-11P81_Skin - Sun,GTEX-11P81_Skin - Sun,GTEX-11P81,Skin - Sun Exposed (Lower leg),34.5,20-39,female
+GTEX-11P81_Adipose - ,GTEX-11P81_Adipose - ,GTEX-11P81,Adipose - Subcutaneous,34.5,20-39,female
+GTEX-11P81_Artery - T,GTEX-11P81_Artery - T,GTEX-11P81,Artery - Tibial,34.5,20-39,female
+GTEX-11P81_Thyroid,GTEX-11P81_Thyroid,GTEX-11P81,Thyroid,34.5,20-39,female
+GTEX-11TT1_Muscle - S,GTEX-11TT1_Muscle - S,GTEX-11TT1,Muscle - Skeletal,24.5,20-39,male
+GTEX-11TT1_Whole Bloo,GTEX-11TT1_Whole Bloo,GTEX-11TT1,Whole Blood,24.5,20-39,male
+GTEX-11TT1_Skin - Sun,GTEX-11TT1_Skin - Sun,GTEX-11TT1,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-11TT1_Adipose - ,GTEX-11TT1_Adipose - ,GTEX-11TT1,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-11TT1_Artery - T,GTEX-11TT1_Artery - T,GTEX-11TT1,Artery - Tibial,24.5,20-39,male
+GTEX-11TT1_Thyroid,GTEX-11TT1_Thyroid,GTEX-11TT1,Thyroid,24.5,20-39,male
+GTEX-11TUW_Muscle - S,GTEX-11TUW_Muscle - S,GTEX-11TUW,Muscle - Skeletal,64.5,60-79,male
+GTEX-11TUW_Whole Bloo,GTEX-11TUW_Whole Bloo,GTEX-11TUW,Whole Blood,64.5,60-79,male
+GTEX-11TUW_Skin - Sun,GTEX-11TUW_Skin - Sun,GTEX-11TUW,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-11TUW_Adipose - ,GTEX-11TUW_Adipose - ,GTEX-11TUW,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-11TUW_Artery - T,GTEX-11TUW_Artery - T,GTEX-11TUW,Artery - Tibial,64.5,60-79,male
+GTEX-11TUW_Thyroid,GTEX-11TUW_Thyroid,GTEX-11TUW,Thyroid,64.5,60-79,male
+GTEX-11UD2_Muscle - S,GTEX-11UD2_Muscle - S,GTEX-11UD2,Muscle - Skeletal,54.5,50-59,male
+GTEX-11UD2_Whole Bloo,GTEX-11UD2_Whole Bloo,GTEX-11UD2,Whole Blood,54.5,50-59,male
+GTEX-11UD2_Skin - Sun,GTEX-11UD2_Skin - Sun,GTEX-11UD2,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-11UD2_Adipose - ,GTEX-11UD2_Adipose - ,GTEX-11UD2,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-11UD2_Artery - T,GTEX-11UD2_Artery - T,GTEX-11UD2,Artery - Tibial,54.5,50-59,male
+GTEX-11UD2_Thyroid,GTEX-11UD2_Thyroid,GTEX-11UD2,Thyroid,54.5,50-59,male
+GTEX-11XUK_Muscle - S,GTEX-11XUK_Muscle - S,GTEX-11XUK,Muscle - Skeletal,44.5,40-49,female
+GTEX-11XUK_Whole Bloo,GTEX-11XUK_Whole Bloo,GTEX-11XUK,Whole Blood,44.5,40-49,female
+GTEX-11XUK_Skin - Sun,GTEX-11XUK_Skin - Sun,GTEX-11XUK,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-11XUK_Adipose - ,GTEX-11XUK_Adipose - ,GTEX-11XUK,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-11XUK_Artery - T,GTEX-11XUK_Artery - T,GTEX-11XUK,Artery - Tibial,44.5,40-49,female
+GTEX-11XUK_Thyroid,GTEX-11XUK_Thyroid,GTEX-11XUK,Thyroid,44.5,40-49,female
+GTEX-11ZTS_Muscle - S,GTEX-11ZTS_Muscle - S,GTEX-11ZTS,Muscle - Skeletal,64.5,60-79,female
+GTEX-11ZTS_Whole Bloo,GTEX-11ZTS_Whole Bloo,GTEX-11ZTS,Whole Blood,64.5,60-79,female
+GTEX-11ZTS_Skin - Sun,GTEX-11ZTS_Skin - Sun,GTEX-11ZTS,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-11ZTS_Adipose - ,GTEX-11ZTS_Adipose - ,GTEX-11ZTS,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-11ZTS_Artery - T,GTEX-11ZTS_Artery - T,GTEX-11ZTS,Artery - Tibial,64.5,60-79,female
+GTEX-11ZTS_Thyroid,GTEX-11ZTS_Thyroid,GTEX-11ZTS,Thyroid,64.5,60-79,female
+GTEX-11ZVC_Muscle - S,GTEX-11ZVC_Muscle - S,GTEX-11ZVC,Muscle - Skeletal,54.5,50-59,female
+GTEX-11ZVC_Whole Bloo,GTEX-11ZVC_Whole Bloo,GTEX-11ZVC,Whole Blood,54.5,50-59,female
+GTEX-11ZVC_Skin - Sun,GTEX-11ZVC_Skin - Sun,GTEX-11ZVC,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-11ZVC_Adipose - ,GTEX-11ZVC_Adipose - ,GTEX-11ZVC,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-11ZVC_Artery - T,GTEX-11ZVC_Artery - T,GTEX-11ZVC,Artery - Tibial,54.5,50-59,female
+GTEX-11ZVC_Thyroid,GTEX-11ZVC_Thyroid,GTEX-11ZVC,Thyroid,54.5,50-59,female
+GTEX-1211K_Muscle - S,GTEX-1211K_Muscle - S,GTEX-1211K,Muscle - Skeletal,64.5,60-79,female
+GTEX-1211K_Whole Bloo,GTEX-1211K_Whole Bloo,GTEX-1211K,Whole Blood,64.5,60-79,female
+GTEX-1211K_Skin - Sun,GTEX-1211K_Skin - Sun,GTEX-1211K,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1211K_Adipose - ,GTEX-1211K_Adipose - ,GTEX-1211K,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1211K_Artery - T,GTEX-1211K_Artery - T,GTEX-1211K,Artery - Tibial,64.5,60-79,female
+GTEX-1211K_Thyroid,GTEX-1211K_Thyroid,GTEX-1211K,Thyroid,64.5,60-79,female
+GTEX-1212Z_Muscle - S,GTEX-1212Z_Muscle - S,GTEX-1212Z,Muscle - Skeletal,64.5,60-79,male
+GTEX-1212Z_Whole Bloo,GTEX-1212Z_Whole Bloo,GTEX-1212Z,Whole Blood,64.5,60-79,male
+GTEX-1212Z_Skin - Sun,GTEX-1212Z_Skin - Sun,GTEX-1212Z,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1212Z_Adipose - ,GTEX-1212Z_Adipose - ,GTEX-1212Z,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1212Z_Artery - T,GTEX-1212Z_Artery - T,GTEX-1212Z,Artery - Tibial,64.5,60-79,male
+GTEX-1212Z_Thyroid,GTEX-1212Z_Thyroid,GTEX-1212Z,Thyroid,64.5,60-79,male
+GTEX-12584_Muscle - S,GTEX-12584_Muscle - S,GTEX-12584,Muscle - Skeletal,44.5,40-49,male
+GTEX-12584_Whole Bloo,GTEX-12584_Whole Bloo,GTEX-12584,Whole Blood,44.5,40-49,male
+GTEX-12584_Skin - Sun,GTEX-12584_Skin - Sun,GTEX-12584,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-12584_Adipose - ,GTEX-12584_Adipose - ,GTEX-12584,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-12584_Artery - T,GTEX-12584_Artery - T,GTEX-12584,Artery - Tibial,44.5,40-49,male
+GTEX-12584_Thyroid,GTEX-12584_Thyroid,GTEX-12584,Thyroid,44.5,40-49,male
+GTEX-12696_Muscle - S,GTEX-12696_Muscle - S,GTEX-12696,Muscle - Skeletal,64.5,60-79,male
+GTEX-12696_Whole Bloo,GTEX-12696_Whole Bloo,GTEX-12696,Whole Blood,64.5,60-79,male
+GTEX-12696_Skin - Sun,GTEX-12696_Skin - Sun,GTEX-12696,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-12696_Adipose - ,GTEX-12696_Adipose - ,GTEX-12696,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-12696_Artery - T,GTEX-12696_Artery - T,GTEX-12696,Artery - Tibial,64.5,60-79,male
+GTEX-12696_Thyroid,GTEX-12696_Thyroid,GTEX-12696,Thyroid,64.5,60-79,male
+GTEX-1269C_Muscle - S,GTEX-1269C_Muscle - S,GTEX-1269C,Muscle - Skeletal,64.5,60-79,female
+GTEX-1269C_Whole Bloo,GTEX-1269C_Whole Bloo,GTEX-1269C,Whole Blood,64.5,60-79,female
+GTEX-1269C_Skin - Sun,GTEX-1269C_Skin - Sun,GTEX-1269C,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1269C_Adipose - ,GTEX-1269C_Adipose - ,GTEX-1269C,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1269C_Artery - T,GTEX-1269C_Artery - T,GTEX-1269C,Artery - Tibial,64.5,60-79,female
+GTEX-1269C_Thyroid,GTEX-1269C_Thyroid,GTEX-1269C,Thyroid,64.5,60-79,female
+GTEX-12WSC_Muscle - S,GTEX-12WSC_Muscle - S,GTEX-12WSC,Muscle - Skeletal,54.5,50-59,male
+GTEX-12WSC_Whole Bloo,GTEX-12WSC_Whole Bloo,GTEX-12WSC,Whole Blood,54.5,50-59,male
+GTEX-12WSC_Skin - Sun,GTEX-12WSC_Skin - Sun,GTEX-12WSC,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-12WSC_Adipose - ,GTEX-12WSC_Adipose - ,GTEX-12WSC,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-12WSC_Artery - T,GTEX-12WSC_Artery - T,GTEX-12WSC,Artery - Tibial,54.5,50-59,male
+GTEX-12WSC_Thyroid,GTEX-12WSC_Thyroid,GTEX-12WSC,Thyroid,54.5,50-59,male
+GTEX-12WSL_Muscle - S,GTEX-12WSL_Muscle - S,GTEX-12WSL,Muscle - Skeletal,54.5,50-59,male
+GTEX-12WSL_Whole Bloo,GTEX-12WSL_Whole Bloo,GTEX-12WSL,Whole Blood,54.5,50-59,male
+GTEX-12WSL_Skin - Sun,GTEX-12WSL_Skin - Sun,GTEX-12WSL,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-12WSL_Adipose - ,GTEX-12WSL_Adipose - ,GTEX-12WSL,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-12WSL_Artery - T,GTEX-12WSL_Artery - T,GTEX-12WSL,Artery - Tibial,54.5,50-59,male
+GTEX-12WSL_Thyroid,GTEX-12WSL_Thyroid,GTEX-12WSL,Thyroid,54.5,50-59,male
+GTEX-12ZZX_Muscle - S,GTEX-12ZZX_Muscle - S,GTEX-12ZZX,Muscle - Skeletal,44.5,40-49,female
+GTEX-12ZZX_Whole Bloo,GTEX-12ZZX_Whole Bloo,GTEX-12ZZX,Whole Blood,44.5,40-49,female
+GTEX-12ZZX_Skin - Sun,GTEX-12ZZX_Skin - Sun,GTEX-12ZZX,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-12ZZX_Adipose - ,GTEX-12ZZX_Adipose - ,GTEX-12ZZX,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-12ZZX_Artery - T,GTEX-12ZZX_Artery - T,GTEX-12ZZX,Artery - Tibial,44.5,40-49,female
+GTEX-12ZZX_Thyroid,GTEX-12ZZX_Thyroid,GTEX-12ZZX,Thyroid,44.5,40-49,female
+GTEX-13111_Muscle - S,GTEX-13111_Muscle - S,GTEX-13111,Muscle - Skeletal,54.5,50-59,male
+GTEX-13111_Whole Bloo,GTEX-13111_Whole Bloo,GTEX-13111,Whole Blood,54.5,50-59,male
+GTEX-13111_Skin - Sun,GTEX-13111_Skin - Sun,GTEX-13111,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-13111_Adipose - ,GTEX-13111_Adipose - ,GTEX-13111,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-13111_Artery - T,GTEX-13111_Artery - T,GTEX-13111,Artery - Tibial,54.5,50-59,male
+GTEX-13111_Thyroid,GTEX-13111_Thyroid,GTEX-13111,Thyroid,54.5,50-59,male
+GTEX-13113_Muscle - S,GTEX-13113_Muscle - S,GTEX-13113,Muscle - Skeletal,64.5,60-79,female
+GTEX-13113_Whole Bloo,GTEX-13113_Whole Bloo,GTEX-13113,Whole Blood,64.5,60-79,female
+GTEX-13113_Skin - Sun,GTEX-13113_Skin - Sun,GTEX-13113,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-13113_Adipose - ,GTEX-13113_Adipose - ,GTEX-13113,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-13113_Artery - T,GTEX-13113_Artery - T,GTEX-13113,Artery - Tibial,64.5,60-79,female
+GTEX-13113_Thyroid,GTEX-13113_Thyroid,GTEX-13113,Thyroid,64.5,60-79,female
+GTEX-131XE_Muscle - S,GTEX-131XE_Muscle - S,GTEX-131XE,Muscle - Skeletal,54.5,50-59,male
+GTEX-131XE_Whole Bloo,GTEX-131XE_Whole Bloo,GTEX-131XE,Whole Blood,54.5,50-59,male
+GTEX-131XE_Skin - Sun,GTEX-131XE_Skin - Sun,GTEX-131XE,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-131XE_Adipose - ,GTEX-131XE_Adipose - ,GTEX-131XE,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-131XE_Artery - T,GTEX-131XE_Artery - T,GTEX-131XE,Artery - Tibial,54.5,50-59,male
+GTEX-131XE_Thyroid,GTEX-131XE_Thyroid,GTEX-131XE,Thyroid,54.5,50-59,male
+GTEX-131XF_Muscle - S,GTEX-131XF_Muscle - S,GTEX-131XF,Muscle - Skeletal,64.5,60-79,male
+GTEX-131XF_Whole Bloo,GTEX-131XF_Whole Bloo,GTEX-131XF,Whole Blood,64.5,60-79,male
+GTEX-131XF_Skin - Sun,GTEX-131XF_Skin - Sun,GTEX-131XF,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-131XF_Adipose - ,GTEX-131XF_Adipose - ,GTEX-131XF,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-131XF_Artery - T,GTEX-131XF_Artery - T,GTEX-131XF,Artery - Tibial,64.5,60-79,male
+GTEX-131XF_Thyroid,GTEX-131XF_Thyroid,GTEX-131XF,Thyroid,64.5,60-79,male
+GTEX-131YS_Muscle - S,GTEX-131YS_Muscle - S,GTEX-131YS,Muscle - Skeletal,64.5,60-79,female
+GTEX-131YS_Whole Bloo,GTEX-131YS_Whole Bloo,GTEX-131YS,Whole Blood,64.5,60-79,female
+GTEX-131YS_Skin - Sun,GTEX-131YS_Skin - Sun,GTEX-131YS,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-131YS_Adipose - ,GTEX-131YS_Adipose - ,GTEX-131YS,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-131YS_Artery - T,GTEX-131YS_Artery - T,GTEX-131YS,Artery - Tibial,64.5,60-79,female
+GTEX-131YS_Thyroid,GTEX-131YS_Thyroid,GTEX-131YS,Thyroid,64.5,60-79,female
+GTEX-1399R_Muscle - S,GTEX-1399R_Muscle - S,GTEX-1399R,Muscle - Skeletal,34.5,20-39,male
+GTEX-1399R_Whole Bloo,GTEX-1399R_Whole Bloo,GTEX-1399R,Whole Blood,34.5,20-39,male
+GTEX-1399R_Skin - Sun,GTEX-1399R_Skin - Sun,GTEX-1399R,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1399R_Adipose - ,GTEX-1399R_Adipose - ,GTEX-1399R,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1399R_Artery - T,GTEX-1399R_Artery - T,GTEX-1399R,Artery - Tibial,34.5,20-39,male
+GTEX-1399R_Thyroid,GTEX-1399R_Thyroid,GTEX-1399R,Thyroid,34.5,20-39,male
+GTEX-1399U_Muscle - S,GTEX-1399U_Muscle - S,GTEX-1399U,Muscle - Skeletal,54.5,50-59,female
+GTEX-1399U_Whole Bloo,GTEX-1399U_Whole Bloo,GTEX-1399U,Whole Blood,54.5,50-59,female
+GTEX-1399U_Skin - Sun,GTEX-1399U_Skin - Sun,GTEX-1399U,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1399U_Adipose - ,GTEX-1399U_Adipose - ,GTEX-1399U,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1399U_Artery - T,GTEX-1399U_Artery - T,GTEX-1399U,Artery - Tibial,54.5,50-59,female
+GTEX-1399U_Thyroid,GTEX-1399U_Thyroid,GTEX-1399U,Thyroid,54.5,50-59,female
+GTEX-13CF3_Muscle - S,GTEX-13CF3_Muscle - S,GTEX-13CF3,Muscle - Skeletal,64.5,60-79,female
+GTEX-13CF3_Whole Bloo,GTEX-13CF3_Whole Bloo,GTEX-13CF3,Whole Blood,64.5,60-79,female
+GTEX-13CF3_Skin - Sun,GTEX-13CF3_Skin - Sun,GTEX-13CF3,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-13CF3_Adipose - ,GTEX-13CF3_Adipose - ,GTEX-13CF3,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-13CF3_Artery - T,GTEX-13CF3_Artery - T,GTEX-13CF3,Artery - Tibial,64.5,60-79,female
+GTEX-13CF3_Thyroid,GTEX-13CF3_Thyroid,GTEX-13CF3,Thyroid,64.5,60-79,female
+GTEX-13FTW_Muscle - S,GTEX-13FTW_Muscle - S,GTEX-13FTW,Muscle - Skeletal,44.5,40-49,male
+GTEX-13FTW_Whole Bloo,GTEX-13FTW_Whole Bloo,GTEX-13FTW,Whole Blood,44.5,40-49,male
+GTEX-13FTW_Skin - Sun,GTEX-13FTW_Skin - Sun,GTEX-13FTW,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-13FTW_Adipose - ,GTEX-13FTW_Adipose - ,GTEX-13FTW,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-13FTW_Artery - T,GTEX-13FTW_Artery - T,GTEX-13FTW,Artery - Tibial,44.5,40-49,male
+GTEX-13FTW_Thyroid,GTEX-13FTW_Thyroid,GTEX-13FTW,Thyroid,44.5,40-49,male
+GTEX-13FTY_Muscle - S,GTEX-13FTY_Muscle - S,GTEX-13FTY,Muscle - Skeletal,44.5,40-49,female
+GTEX-13FTY_Whole Bloo,GTEX-13FTY_Whole Bloo,GTEX-13FTY,Whole Blood,44.5,40-49,female
+GTEX-13FTY_Skin - Sun,GTEX-13FTY_Skin - Sun,GTEX-13FTY,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-13FTY_Adipose - ,GTEX-13FTY_Adipose - ,GTEX-13FTY,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-13FTY_Artery - T,GTEX-13FTY_Artery - T,GTEX-13FTY,Artery - Tibial,44.5,40-49,female
+GTEX-13FTY_Thyroid,GTEX-13FTY_Thyroid,GTEX-13FTY,Thyroid,44.5,40-49,female
+GTEX-13G51_Muscle - S,GTEX-13G51_Muscle - S,GTEX-13G51,Muscle - Skeletal,64.5,60-79,male
+GTEX-13G51_Whole Bloo,GTEX-13G51_Whole Bloo,GTEX-13G51,Whole Blood,64.5,60-79,male
+GTEX-13G51_Skin - Sun,GTEX-13G51_Skin - Sun,GTEX-13G51,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-13G51_Adipose - ,GTEX-13G51_Adipose - ,GTEX-13G51,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-13G51_Artery - T,GTEX-13G51_Artery - T,GTEX-13G51,Artery - Tibial,64.5,60-79,male
+GTEX-13G51_Thyroid,GTEX-13G51_Thyroid,GTEX-13G51,Thyroid,64.5,60-79,male
+GTEX-13OVK_Muscle - S,GTEX-13OVK_Muscle - S,GTEX-13OVK,Muscle - Skeletal,44.5,40-49,male
+GTEX-13OVK_Whole Bloo,GTEX-13OVK_Whole Bloo,GTEX-13OVK,Whole Blood,44.5,40-49,male
+GTEX-13OVK_Skin - Sun,GTEX-13OVK_Skin - Sun,GTEX-13OVK,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-13OVK_Adipose - ,GTEX-13OVK_Adipose - ,GTEX-13OVK,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-13OVK_Artery - T,GTEX-13OVK_Artery - T,GTEX-13OVK,Artery - Tibial,44.5,40-49,male
+GTEX-13OVK_Thyroid,GTEX-13OVK_Thyroid,GTEX-13OVK,Thyroid,44.5,40-49,male
+GTEX-13OW6_Muscle - S,GTEX-13OW6_Muscle - S,GTEX-13OW6,Muscle - Skeletal,54.5,50-59,male
+GTEX-13OW6_Whole Bloo,GTEX-13OW6_Whole Bloo,GTEX-13OW6,Whole Blood,54.5,50-59,male
+GTEX-13OW6_Skin - Sun,GTEX-13OW6_Skin - Sun,GTEX-13OW6,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-13OW6_Adipose - ,GTEX-13OW6_Adipose - ,GTEX-13OW6,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-13OW6_Artery - T,GTEX-13OW6_Artery - T,GTEX-13OW6,Artery - Tibial,54.5,50-59,male
+GTEX-13OW6_Thyroid,GTEX-13OW6_Thyroid,GTEX-13OW6,Thyroid,54.5,50-59,male
+GTEX-13OW8_Muscle - S,GTEX-13OW8_Muscle - S,GTEX-13OW8,Muscle - Skeletal,64.5,60-79,male
+GTEX-13OW8_Whole Bloo,GTEX-13OW8_Whole Bloo,GTEX-13OW8,Whole Blood,64.5,60-79,male
+GTEX-13OW8_Skin - Sun,GTEX-13OW8_Skin - Sun,GTEX-13OW8,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-13OW8_Adipose - ,GTEX-13OW8_Adipose - ,GTEX-13OW8,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-13OW8_Artery - T,GTEX-13OW8_Artery - T,GTEX-13OW8,Artery - Tibial,64.5,60-79,male
+GTEX-13OW8_Thyroid,GTEX-13OW8_Thyroid,GTEX-13OW8,Thyroid,64.5,60-79,male
+GTEX-13U4I_Muscle - S,GTEX-13U4I_Muscle - S,GTEX-13U4I,Muscle - Skeletal,44.5,40-49,female
+GTEX-13U4I_Whole Bloo,GTEX-13U4I_Whole Bloo,GTEX-13U4I,Whole Blood,44.5,40-49,female
+GTEX-13U4I_Skin - Sun,GTEX-13U4I_Skin - Sun,GTEX-13U4I,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-13U4I_Adipose - ,GTEX-13U4I_Adipose - ,GTEX-13U4I,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-13U4I_Artery - T,GTEX-13U4I_Artery - T,GTEX-13U4I,Artery - Tibial,44.5,40-49,female
+GTEX-13U4I_Thyroid,GTEX-13U4I_Thyroid,GTEX-13U4I,Thyroid,44.5,40-49,female
+GTEX-13VXT_Muscle - S,GTEX-13VXT_Muscle - S,GTEX-13VXT,Muscle - Skeletal,24.5,20-39,female
+GTEX-13VXT_Whole Bloo,GTEX-13VXT_Whole Bloo,GTEX-13VXT,Whole Blood,24.5,20-39,female
+GTEX-13VXT_Skin - Sun,GTEX-13VXT_Skin - Sun,GTEX-13VXT,Skin - Sun Exposed (Lower leg),24.5,20-39,female
+GTEX-13VXT_Adipose - ,GTEX-13VXT_Adipose - ,GTEX-13VXT,Adipose - Subcutaneous,24.5,20-39,female
+GTEX-13VXT_Artery - T,GTEX-13VXT_Artery - T,GTEX-13VXT,Artery - Tibial,24.5,20-39,female
+GTEX-13VXT_Thyroid,GTEX-13VXT_Thyroid,GTEX-13VXT,Thyroid,24.5,20-39,female
+GTEX-13VXU_Muscle - S,GTEX-13VXU_Muscle - S,GTEX-13VXU,Muscle - Skeletal,54.5,50-59,male
+GTEX-13VXU_Whole Bloo,GTEX-13VXU_Whole Bloo,GTEX-13VXU,Whole Blood,54.5,50-59,male
+GTEX-13VXU_Skin - Sun,GTEX-13VXU_Skin - Sun,GTEX-13VXU,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-13VXU_Adipose - ,GTEX-13VXU_Adipose - ,GTEX-13VXU,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-13VXU_Artery - T,GTEX-13VXU_Artery - T,GTEX-13VXU,Artery - Tibial,54.5,50-59,male
+GTEX-13VXU_Thyroid,GTEX-13VXU_Thyroid,GTEX-13VXU,Thyroid,54.5,50-59,male
+GTEX-14A5H_Muscle - S,GTEX-14A5H_Muscle - S,GTEX-14A5H,Muscle - Skeletal,64.5,60-79,male
+GTEX-14A5H_Whole Bloo,GTEX-14A5H_Whole Bloo,GTEX-14A5H,Whole Blood,64.5,60-79,male
+GTEX-14A5H_Skin - Sun,GTEX-14A5H_Skin - Sun,GTEX-14A5H,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-14A5H_Adipose - ,GTEX-14A5H_Adipose - ,GTEX-14A5H,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-14A5H_Artery - T,GTEX-14A5H_Artery - T,GTEX-14A5H,Artery - Tibial,64.5,60-79,male
+GTEX-14A5H_Thyroid,GTEX-14A5H_Thyroid,GTEX-14A5H,Thyroid,64.5,60-79,male
+GTEX-14BMU_Muscle - S,GTEX-14BMU_Muscle - S,GTEX-14BMU,Muscle - Skeletal,24.5,20-39,female
+GTEX-14BMU_Whole Bloo,GTEX-14BMU_Whole Bloo,GTEX-14BMU,Whole Blood,24.5,20-39,female
+GTEX-14BMU_Skin - Sun,GTEX-14BMU_Skin - Sun,GTEX-14BMU,Skin - Sun Exposed (Lower leg),24.5,20-39,female
+GTEX-14BMU_Adipose - ,GTEX-14BMU_Adipose - ,GTEX-14BMU,Adipose - Subcutaneous,24.5,20-39,female
+GTEX-14BMU_Artery - T,GTEX-14BMU_Artery - T,GTEX-14BMU,Artery - Tibial,24.5,20-39,female
+GTEX-14BMU_Thyroid,GTEX-14BMU_Thyroid,GTEX-14BMU,Thyroid,24.5,20-39,female
+GTEX-14BMV_Muscle - S,GTEX-14BMV_Muscle - S,GTEX-14BMV,Muscle - Skeletal,54.5,50-59,male
+GTEX-14BMV_Whole Bloo,GTEX-14BMV_Whole Bloo,GTEX-14BMV,Whole Blood,54.5,50-59,male
+GTEX-14BMV_Skin - Sun,GTEX-14BMV_Skin - Sun,GTEX-14BMV,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-14BMV_Adipose - ,GTEX-14BMV_Adipose - ,GTEX-14BMV,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-14BMV_Artery - T,GTEX-14BMV_Artery - T,GTEX-14BMV,Artery - Tibial,54.5,50-59,male
+GTEX-14BMV_Thyroid,GTEX-14BMV_Thyroid,GTEX-14BMV,Thyroid,54.5,50-59,male
+GTEX-14C5O_Muscle - S,GTEX-14C5O_Muscle - S,GTEX-14C5O,Muscle - Skeletal,64.5,60-79,male
+GTEX-14C5O_Whole Bloo,GTEX-14C5O_Whole Bloo,GTEX-14C5O,Whole Blood,64.5,60-79,male
+GTEX-14C5O_Skin - Sun,GTEX-14C5O_Skin - Sun,GTEX-14C5O,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-14C5O_Adipose - ,GTEX-14C5O_Adipose - ,GTEX-14C5O,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-14C5O_Artery - T,GTEX-14C5O_Artery - T,GTEX-14C5O,Artery - Tibial,64.5,60-79,male
+GTEX-14C5O_Thyroid,GTEX-14C5O_Thyroid,GTEX-14C5O,Thyroid,64.5,60-79,male
+GTEX-14DAQ_Muscle - S,GTEX-14DAQ_Muscle - S,GTEX-14DAQ,Muscle - Skeletal,64.5,60-79,female
+GTEX-14DAQ_Whole Bloo,GTEX-14DAQ_Whole Bloo,GTEX-14DAQ,Whole Blood,64.5,60-79,female
+GTEX-14DAQ_Skin - Sun,GTEX-14DAQ_Skin - Sun,GTEX-14DAQ,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-14DAQ_Adipose - ,GTEX-14DAQ_Adipose - ,GTEX-14DAQ,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-14DAQ_Artery - T,GTEX-14DAQ_Artery - T,GTEX-14DAQ,Artery - Tibial,64.5,60-79,female
+GTEX-14DAQ_Thyroid,GTEX-14DAQ_Thyroid,GTEX-14DAQ,Thyroid,64.5,60-79,female
+GTEX-14E6C_Muscle - S,GTEX-14E6C_Muscle - S,GTEX-14E6C,Muscle - Skeletal,44.5,40-49,male
+GTEX-14E6C_Whole Bloo,GTEX-14E6C_Whole Bloo,GTEX-14E6C,Whole Blood,44.5,40-49,male
+GTEX-14E6C_Skin - Sun,GTEX-14E6C_Skin - Sun,GTEX-14E6C,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-14E6C_Adipose - ,GTEX-14E6C_Adipose - ,GTEX-14E6C,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-14E6C_Artery - T,GTEX-14E6C_Artery - T,GTEX-14E6C,Artery - Tibial,44.5,40-49,male
+GTEX-14E6C_Thyroid,GTEX-14E6C_Thyroid,GTEX-14E6C,Thyroid,44.5,40-49,male
+GTEX-14E6E_Muscle - S,GTEX-14E6E_Muscle - S,GTEX-14E6E,Muscle - Skeletal,34.5,20-39,male
+GTEX-14E6E_Whole Bloo,GTEX-14E6E_Whole Bloo,GTEX-14E6E,Whole Blood,34.5,20-39,male
+GTEX-14E6E_Skin - Sun,GTEX-14E6E_Skin - Sun,GTEX-14E6E,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-14E6E_Adipose - ,GTEX-14E6E_Adipose - ,GTEX-14E6E,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-14E6E_Artery - T,GTEX-14E6E_Artery - T,GTEX-14E6E,Artery - Tibial,34.5,20-39,male
+GTEX-14E6E_Thyroid,GTEX-14E6E_Thyroid,GTEX-14E6E,Thyroid,34.5,20-39,male
+GTEX-14JG6_Muscle - S,GTEX-14JG6_Muscle - S,GTEX-14JG6,Muscle - Skeletal,34.5,20-39,female
+GTEX-14JG6_Whole Bloo,GTEX-14JG6_Whole Bloo,GTEX-14JG6,Whole Blood,34.5,20-39,female
+GTEX-14JG6_Skin - Sun,GTEX-14JG6_Skin - Sun,GTEX-14JG6,Skin - Sun Exposed (Lower leg),34.5,20-39,female
+GTEX-14JG6_Adipose - ,GTEX-14JG6_Adipose - ,GTEX-14JG6,Adipose - Subcutaneous,34.5,20-39,female
+GTEX-14JG6_Artery - T,GTEX-14JG6_Artery - T,GTEX-14JG6,Artery - Tibial,34.5,20-39,female
+GTEX-14JG6_Thyroid,GTEX-14JG6_Thyroid,GTEX-14JG6,Thyroid,34.5,20-39,female
+GTEX-14PII_Muscle - S,GTEX-14PII_Muscle - S,GTEX-14PII,Muscle - Skeletal,64.5,60-79,male
+GTEX-14PII_Whole Bloo,GTEX-14PII_Whole Bloo,GTEX-14PII,Whole Blood,64.5,60-79,male
+GTEX-14PII_Skin - Sun,GTEX-14PII_Skin - Sun,GTEX-14PII,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-14PII_Adipose - ,GTEX-14PII_Adipose - ,GTEX-14PII,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-14PII_Artery - T,GTEX-14PII_Artery - T,GTEX-14PII,Artery - Tibial,64.5,60-79,male
+GTEX-14PII_Thyroid,GTEX-14PII_Thyroid,GTEX-14PII,Thyroid,64.5,60-79,male
+GTEX-14PJ3_Muscle - S,GTEX-14PJ3_Muscle - S,GTEX-14PJ3,Muscle - Skeletal,54.5,50-59,male
+GTEX-14PJ3_Whole Bloo,GTEX-14PJ3_Whole Bloo,GTEX-14PJ3,Whole Blood,54.5,50-59,male
+GTEX-14PJ3_Skin - Sun,GTEX-14PJ3_Skin - Sun,GTEX-14PJ3,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-14PJ3_Adipose - ,GTEX-14PJ3_Adipose - ,GTEX-14PJ3,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-14PJ3_Artery - T,GTEX-14PJ3_Artery - T,GTEX-14PJ3,Artery - Tibial,54.5,50-59,male
+GTEX-14PJ3_Thyroid,GTEX-14PJ3_Thyroid,GTEX-14PJ3,Thyroid,54.5,50-59,male
+GTEX-14PJM_Muscle - S,GTEX-14PJM_Muscle - S,GTEX-14PJM,Muscle - Skeletal,54.5,50-59,female
+GTEX-14PJM_Whole Bloo,GTEX-14PJM_Whole Bloo,GTEX-14PJM,Whole Blood,54.5,50-59,female
+GTEX-14PJM_Skin - Sun,GTEX-14PJM_Skin - Sun,GTEX-14PJM,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-14PJM_Adipose - ,GTEX-14PJM_Adipose - ,GTEX-14PJM,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-14PJM_Artery - T,GTEX-14PJM_Artery - T,GTEX-14PJM,Artery - Tibial,54.5,50-59,female
+GTEX-14PJM_Thyroid,GTEX-14PJM_Thyroid,GTEX-14PJM,Thyroid,54.5,50-59,female
+GTEX-14PK6_Muscle - S,GTEX-14PK6_Muscle - S,GTEX-14PK6,Muscle - Skeletal,74.5,60-79,female
+GTEX-14PK6_Whole Bloo,GTEX-14PK6_Whole Bloo,GTEX-14PK6,Whole Blood,74.5,60-79,female
+GTEX-14PK6_Skin - Sun,GTEX-14PK6_Skin - Sun,GTEX-14PK6,Skin - Sun Exposed (Lower leg),74.5,60-79,female
+GTEX-14PK6_Adipose - ,GTEX-14PK6_Adipose - ,GTEX-14PK6,Adipose - Subcutaneous,74.5,60-79,female
+GTEX-14PK6_Artery - T,GTEX-14PK6_Artery - T,GTEX-14PK6,Artery - Tibial,74.5,60-79,female
+GTEX-14PK6_Thyroid,GTEX-14PK6_Thyroid,GTEX-14PK6,Thyroid,74.5,60-79,female
+GTEX-15ETS_Muscle - S,GTEX-15ETS_Muscle - S,GTEX-15ETS,Muscle - Skeletal,44.5,40-49,female
+GTEX-15ETS_Whole Bloo,GTEX-15ETS_Whole Bloo,GTEX-15ETS,Whole Blood,44.5,40-49,female
+GTEX-15ETS_Skin - Sun,GTEX-15ETS_Skin - Sun,GTEX-15ETS,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-15ETS_Adipose - ,GTEX-15ETS_Adipose - ,GTEX-15ETS,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-15ETS_Artery - T,GTEX-15ETS_Artery - T,GTEX-15ETS,Artery - Tibial,44.5,40-49,female
+GTEX-15ETS_Thyroid,GTEX-15ETS_Thyroid,GTEX-15ETS,Thyroid,44.5,40-49,female
+GTEX-16AAH_Muscle - S,GTEX-16AAH_Muscle - S,GTEX-16AAH,Muscle - Skeletal,54.5,50-59,male
+GTEX-16AAH_Whole Bloo,GTEX-16AAH_Whole Bloo,GTEX-16AAH,Whole Blood,54.5,50-59,male
+GTEX-16AAH_Skin - Sun,GTEX-16AAH_Skin - Sun,GTEX-16AAH,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-16AAH_Adipose - ,GTEX-16AAH_Adipose - ,GTEX-16AAH,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-16AAH_Artery - T,GTEX-16AAH_Artery - T,GTEX-16AAH,Artery - Tibial,54.5,50-59,male
+GTEX-16AAH_Thyroid,GTEX-16AAH_Thyroid,GTEX-16AAH,Thyroid,54.5,50-59,male
+GTEX-16MT8_Muscle - S,GTEX-16MT8_Muscle - S,GTEX-16MT8,Muscle - Skeletal,64.5,60-79,female
+GTEX-16MT8_Whole Bloo,GTEX-16MT8_Whole Bloo,GTEX-16MT8,Whole Blood,64.5,60-79,female
+GTEX-16MT8_Skin - Sun,GTEX-16MT8_Skin - Sun,GTEX-16MT8,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-16MT8_Adipose - ,GTEX-16MT8_Adipose - ,GTEX-16MT8,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-16MT8_Artery - T,GTEX-16MT8_Artery - T,GTEX-16MT8,Artery - Tibial,64.5,60-79,female
+GTEX-16MT8_Thyroid,GTEX-16MT8_Thyroid,GTEX-16MT8,Thyroid,64.5,60-79,female
+GTEX-16NGA_Muscle - S,GTEX-16NGA_Muscle - S,GTEX-16NGA,Muscle - Skeletal,44.5,40-49,female
+GTEX-16NGA_Whole Bloo,GTEX-16NGA_Whole Bloo,GTEX-16NGA,Whole Blood,44.5,40-49,female
+GTEX-16NGA_Skin - Sun,GTEX-16NGA_Skin - Sun,GTEX-16NGA,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-16NGA_Adipose - ,GTEX-16NGA_Adipose - ,GTEX-16NGA,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-16NGA_Artery - T,GTEX-16NGA_Artery - T,GTEX-16NGA,Artery - Tibial,44.5,40-49,female
+GTEX-16NGA_Thyroid,GTEX-16NGA_Thyroid,GTEX-16NGA,Thyroid,44.5,40-49,female
+GTEX-16XZY_Muscle - S,GTEX-16XZY_Muscle - S,GTEX-16XZY,Muscle - Skeletal,74.5,60-79,male
+GTEX-16XZY_Whole Bloo,GTEX-16XZY_Whole Bloo,GTEX-16XZY,Whole Blood,74.5,60-79,male
+GTEX-16XZY_Skin - Sun,GTEX-16XZY_Skin - Sun,GTEX-16XZY,Skin - Sun Exposed (Lower leg),74.5,60-79,male
+GTEX-16XZY_Adipose - ,GTEX-16XZY_Adipose - ,GTEX-16XZY,Adipose - Subcutaneous,74.5,60-79,male
+GTEX-16XZY_Artery - T,GTEX-16XZY_Artery - T,GTEX-16XZY,Artery - Tibial,74.5,60-79,male
+GTEX-16XZY_Thyroid,GTEX-16XZY_Thyroid,GTEX-16XZY,Thyroid,74.5,60-79,male
+GTEX-16XZZ_Muscle - S,GTEX-16XZZ_Muscle - S,GTEX-16XZZ,Muscle - Skeletal,64.5,60-79,male
+GTEX-16XZZ_Whole Bloo,GTEX-16XZZ_Whole Bloo,GTEX-16XZZ,Whole Blood,64.5,60-79,male
+GTEX-16XZZ_Skin - Sun,GTEX-16XZZ_Skin - Sun,GTEX-16XZZ,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-16XZZ_Adipose - ,GTEX-16XZZ_Adipose - ,GTEX-16XZZ,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-16XZZ_Artery - T,GTEX-16XZZ_Artery - T,GTEX-16XZZ,Artery - Tibial,64.5,60-79,male
+GTEX-16XZZ_Thyroid,GTEX-16XZZ_Thyroid,GTEX-16XZZ,Thyroid,64.5,60-79,male
+GTEX-16YQH_Muscle - S,GTEX-16YQH_Muscle - S,GTEX-16YQH,Muscle - Skeletal,34.5,20-39,male
+GTEX-16YQH_Whole Bloo,GTEX-16YQH_Whole Bloo,GTEX-16YQH,Whole Blood,34.5,20-39,male
+GTEX-16YQH_Skin - Sun,GTEX-16YQH_Skin - Sun,GTEX-16YQH,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-16YQH_Adipose - ,GTEX-16YQH_Adipose - ,GTEX-16YQH,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-16YQH_Artery - T,GTEX-16YQH_Artery - T,GTEX-16YQH,Artery - Tibial,34.5,20-39,male
+GTEX-16YQH_Thyroid,GTEX-16YQH_Thyroid,GTEX-16YQH,Thyroid,34.5,20-39,male
+GTEX-17EVP_Muscle - S,GTEX-17EVP_Muscle - S,GTEX-17EVP,Muscle - Skeletal,44.5,40-49,male
+GTEX-17EVP_Whole Bloo,GTEX-17EVP_Whole Bloo,GTEX-17EVP,Whole Blood,44.5,40-49,male
+GTEX-17EVP_Skin - Sun,GTEX-17EVP_Skin - Sun,GTEX-17EVP,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-17EVP_Adipose - ,GTEX-17EVP_Adipose - ,GTEX-17EVP,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-17EVP_Artery - T,GTEX-17EVP_Artery - T,GTEX-17EVP,Artery - Tibial,44.5,40-49,male
+GTEX-17EVP_Thyroid,GTEX-17EVP_Thyroid,GTEX-17EVP,Thyroid,44.5,40-49,male
+GTEX-17HGU_Muscle - S,GTEX-17HGU_Muscle - S,GTEX-17HGU,Muscle - Skeletal,54.5,50-59,male
+GTEX-17HGU_Whole Bloo,GTEX-17HGU_Whole Bloo,GTEX-17HGU,Whole Blood,54.5,50-59,male
+GTEX-17HGU_Skin - Sun,GTEX-17HGU_Skin - Sun,GTEX-17HGU,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-17HGU_Adipose - ,GTEX-17HGU_Adipose - ,GTEX-17HGU,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-17HGU_Artery - T,GTEX-17HGU_Artery - T,GTEX-17HGU,Artery - Tibial,54.5,50-59,male
+GTEX-17HGU_Thyroid,GTEX-17HGU_Thyroid,GTEX-17HGU,Thyroid,54.5,50-59,male
+GTEX-17HHE_Muscle - S,GTEX-17HHE_Muscle - S,GTEX-17HHE,Muscle - Skeletal,54.5,50-59,male
+GTEX-17HHE_Whole Bloo,GTEX-17HHE_Whole Bloo,GTEX-17HHE,Whole Blood,54.5,50-59,male
+GTEX-17HHE_Skin - Sun,GTEX-17HHE_Skin - Sun,GTEX-17HHE,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-17HHE_Adipose - ,GTEX-17HHE_Adipose - ,GTEX-17HHE,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-17HHE_Artery - T,GTEX-17HHE_Artery - T,GTEX-17HHE,Artery - Tibial,54.5,50-59,male
+GTEX-17HHE_Thyroid,GTEX-17HHE_Thyroid,GTEX-17HHE,Thyroid,54.5,50-59,male
+GTEX-17HHY_Muscle - S,GTEX-17HHY_Muscle - S,GTEX-17HHY,Muscle - Skeletal,54.5,50-59,male
+GTEX-17HHY_Whole Bloo,GTEX-17HHY_Whole Bloo,GTEX-17HHY,Whole Blood,54.5,50-59,male
+GTEX-17HHY_Skin - Sun,GTEX-17HHY_Skin - Sun,GTEX-17HHY,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-17HHY_Adipose - ,GTEX-17HHY_Adipose - ,GTEX-17HHY,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-17HHY_Artery - T,GTEX-17HHY_Artery - T,GTEX-17HHY,Artery - Tibial,54.5,50-59,male
+GTEX-17HHY_Thyroid,GTEX-17HHY_Thyroid,GTEX-17HHY,Thyroid,54.5,50-59,male
+GTEX-17HII_Muscle - S,GTEX-17HII_Muscle - S,GTEX-17HII,Muscle - Skeletal,54.5,50-59,male
+GTEX-17HII_Whole Bloo,GTEX-17HII_Whole Bloo,GTEX-17HII,Whole Blood,54.5,50-59,male
+GTEX-17HII_Skin - Sun,GTEX-17HII_Skin - Sun,GTEX-17HII,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-17HII_Adipose - ,GTEX-17HII_Adipose - ,GTEX-17HII,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-17HII_Artery - T,GTEX-17HII_Artery - T,GTEX-17HII,Artery - Tibial,54.5,50-59,male
+GTEX-17HII_Thyroid,GTEX-17HII_Thyroid,GTEX-17HII,Thyroid,54.5,50-59,male
+GTEX-17KNJ_Muscle - S,GTEX-17KNJ_Muscle - S,GTEX-17KNJ,Muscle - Skeletal,54.5,50-59,male
+GTEX-17KNJ_Whole Bloo,GTEX-17KNJ_Whole Bloo,GTEX-17KNJ,Whole Blood,54.5,50-59,male
+GTEX-17KNJ_Skin - Sun,GTEX-17KNJ_Skin - Sun,GTEX-17KNJ,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-17KNJ_Adipose - ,GTEX-17KNJ_Adipose - ,GTEX-17KNJ,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-17KNJ_Artery - T,GTEX-17KNJ_Artery - T,GTEX-17KNJ,Artery - Tibial,54.5,50-59,male
+GTEX-17KNJ_Thyroid,GTEX-17KNJ_Thyroid,GTEX-17KNJ,Thyroid,54.5,50-59,male
+GTEX-183FY_Muscle - S,GTEX-183FY_Muscle - S,GTEX-183FY,Muscle - Skeletal,24.5,20-39,male
+GTEX-183FY_Whole Bloo,GTEX-183FY_Whole Bloo,GTEX-183FY,Whole Blood,24.5,20-39,male
+GTEX-183FY_Skin - Sun,GTEX-183FY_Skin - Sun,GTEX-183FY,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-183FY_Adipose - ,GTEX-183FY_Adipose - ,GTEX-183FY,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-183FY_Artery - T,GTEX-183FY_Artery - T,GTEX-183FY,Artery - Tibial,24.5,20-39,male
+GTEX-183FY_Thyroid,GTEX-183FY_Thyroid,GTEX-183FY,Thyroid,24.5,20-39,male
+GTEX-18465_Muscle - S,GTEX-18465_Muscle - S,GTEX-18465,Muscle - Skeletal,54.5,50-59,male
+GTEX-18465_Whole Bloo,GTEX-18465_Whole Bloo,GTEX-18465,Whole Blood,54.5,50-59,male
+GTEX-18465_Skin - Sun,GTEX-18465_Skin - Sun,GTEX-18465,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-18465_Adipose - ,GTEX-18465_Adipose - ,GTEX-18465,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-18465_Artery - T,GTEX-18465_Artery - T,GTEX-18465,Artery - Tibial,54.5,50-59,male
+GTEX-18465_Thyroid,GTEX-18465_Thyroid,GTEX-18465,Thyroid,54.5,50-59,male
+GTEX-18A66_Muscle - S,GTEX-18A66_Muscle - S,GTEX-18A66,Muscle - Skeletal,64.5,60-79,male
+GTEX-18A66_Whole Bloo,GTEX-18A66_Whole Bloo,GTEX-18A66,Whole Blood,64.5,60-79,male
+GTEX-18A66_Skin - Sun,GTEX-18A66_Skin - Sun,GTEX-18A66,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-18A66_Adipose - ,GTEX-18A66_Adipose - ,GTEX-18A66,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-18A66_Artery - T,GTEX-18A66_Artery - T,GTEX-18A66,Artery - Tibial,64.5,60-79,male
+GTEX-18A66_Thyroid,GTEX-18A66_Thyroid,GTEX-18A66,Thyroid,64.5,60-79,male
+GTEX-18A67_Muscle - S,GTEX-18A67_Muscle - S,GTEX-18A67,Muscle - Skeletal,54.5,50-59,male
+GTEX-18A67_Whole Bloo,GTEX-18A67_Whole Bloo,GTEX-18A67,Whole Blood,54.5,50-59,male
+GTEX-18A67_Skin - Sun,GTEX-18A67_Skin - Sun,GTEX-18A67,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-18A67_Adipose - ,GTEX-18A67_Adipose - ,GTEX-18A67,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-18A67_Artery - T,GTEX-18A67_Artery - T,GTEX-18A67,Artery - Tibial,54.5,50-59,male
+GTEX-18A67_Thyroid,GTEX-18A67_Thyroid,GTEX-18A67,Thyroid,54.5,50-59,male
+GTEX-18A6Q_Muscle - S,GTEX-18A6Q_Muscle - S,GTEX-18A6Q,Muscle - Skeletal,64.5,60-79,male
+GTEX-18A6Q_Whole Bloo,GTEX-18A6Q_Whole Bloo,GTEX-18A6Q,Whole Blood,64.5,60-79,male
+GTEX-18A6Q_Skin - Sun,GTEX-18A6Q_Skin - Sun,GTEX-18A6Q,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-18A6Q_Adipose - ,GTEX-18A6Q_Adipose - ,GTEX-18A6Q,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-18A6Q_Artery - T,GTEX-18A6Q_Artery - T,GTEX-18A6Q,Artery - Tibial,64.5,60-79,male
+GTEX-18A6Q_Thyroid,GTEX-18A6Q_Thyroid,GTEX-18A6Q,Thyroid,64.5,60-79,male
+GTEX-18A7A_Muscle - S,GTEX-18A7A_Muscle - S,GTEX-18A7A,Muscle - Skeletal,54.5,50-59,female
+GTEX-18A7A_Whole Bloo,GTEX-18A7A_Whole Bloo,GTEX-18A7A,Whole Blood,54.5,50-59,female
+GTEX-18A7A_Skin - Sun,GTEX-18A7A_Skin - Sun,GTEX-18A7A,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-18A7A_Adipose - ,GTEX-18A7A_Adipose - ,GTEX-18A7A,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-18A7A_Artery - T,GTEX-18A7A_Artery - T,GTEX-18A7A,Artery - Tibial,54.5,50-59,female
+GTEX-18A7A_Thyroid,GTEX-18A7A_Thyroid,GTEX-18A7A,Thyroid,54.5,50-59,female
+GTEX-18D9A_Muscle - S,GTEX-18D9A_Muscle - S,GTEX-18D9A,Muscle - Skeletal,34.5,20-39,female
+GTEX-18D9A_Whole Bloo,GTEX-18D9A_Whole Bloo,GTEX-18D9A,Whole Blood,34.5,20-39,female
+GTEX-18D9A_Skin - Sun,GTEX-18D9A_Skin - Sun,GTEX-18D9A,Skin - Sun Exposed (Lower leg),34.5,20-39,female
+GTEX-18D9A_Adipose - ,GTEX-18D9A_Adipose - ,GTEX-18D9A,Adipose - Subcutaneous,34.5,20-39,female
+GTEX-18D9A_Artery - T,GTEX-18D9A_Artery - T,GTEX-18D9A,Artery - Tibial,34.5,20-39,female
+GTEX-18D9A_Thyroid,GTEX-18D9A_Thyroid,GTEX-18D9A,Thyroid,34.5,20-39,female
+GTEX-18D9U_Muscle - S,GTEX-18D9U_Muscle - S,GTEX-18D9U,Muscle - Skeletal,44.5,40-49,male
+GTEX-18D9U_Whole Bloo,GTEX-18D9U_Whole Bloo,GTEX-18D9U,Whole Blood,44.5,40-49,male
+GTEX-18D9U_Skin - Sun,GTEX-18D9U_Skin - Sun,GTEX-18D9U,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-18D9U_Adipose - ,GTEX-18D9U_Adipose - ,GTEX-18D9U,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-18D9U_Artery - T,GTEX-18D9U_Artery - T,GTEX-18D9U,Artery - Tibial,44.5,40-49,male
+GTEX-18D9U_Thyroid,GTEX-18D9U_Thyroid,GTEX-18D9U,Thyroid,44.5,40-49,male
+GTEX-18QFQ_Muscle - S,GTEX-18QFQ_Muscle - S,GTEX-18QFQ,Muscle - Skeletal,34.5,20-39,male
+GTEX-18QFQ_Whole Bloo,GTEX-18QFQ_Whole Bloo,GTEX-18QFQ,Whole Blood,34.5,20-39,male
+GTEX-18QFQ_Skin - Sun,GTEX-18QFQ_Skin - Sun,GTEX-18QFQ,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-18QFQ_Adipose - ,GTEX-18QFQ_Adipose - ,GTEX-18QFQ,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-18QFQ_Artery - T,GTEX-18QFQ_Artery - T,GTEX-18QFQ,Artery - Tibial,34.5,20-39,male
+GTEX-18QFQ_Thyroid,GTEX-18QFQ_Thyroid,GTEX-18QFQ,Thyroid,34.5,20-39,male
+GTEX-1A3MV_Muscle - S,GTEX-1A3MV_Muscle - S,GTEX-1A3MV,Muscle - Skeletal,34.5,20-39,male
+GTEX-1A3MV_Whole Bloo,GTEX-1A3MV_Whole Bloo,GTEX-1A3MV,Whole Blood,34.5,20-39,male
+GTEX-1A3MV_Skin - Sun,GTEX-1A3MV_Skin - Sun,GTEX-1A3MV,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1A3MV_Adipose - ,GTEX-1A3MV_Adipose - ,GTEX-1A3MV,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1A3MV_Artery - T,GTEX-1A3MV_Artery - T,GTEX-1A3MV,Artery - Tibial,34.5,20-39,male
+GTEX-1A3MV_Thyroid,GTEX-1A3MV_Thyroid,GTEX-1A3MV,Thyroid,34.5,20-39,male
+GTEX-1AMFI_Muscle - S,GTEX-1AMFI_Muscle - S,GTEX-1AMFI,Muscle - Skeletal,54.5,50-59,female
+GTEX-1AMFI_Whole Bloo,GTEX-1AMFI_Whole Bloo,GTEX-1AMFI,Whole Blood,54.5,50-59,female
+GTEX-1AMFI_Skin - Sun,GTEX-1AMFI_Skin - Sun,GTEX-1AMFI,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1AMFI_Adipose - ,GTEX-1AMFI_Adipose - ,GTEX-1AMFI,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1AMFI_Artery - T,GTEX-1AMFI_Artery - T,GTEX-1AMFI,Artery - Tibial,54.5,50-59,female
+GTEX-1AMFI_Thyroid,GTEX-1AMFI_Thyroid,GTEX-1AMFI,Thyroid,54.5,50-59,female
+GTEX-1AX9J_Muscle - S,GTEX-1AX9J_Muscle - S,GTEX-1AX9J,Muscle - Skeletal,64.5,60-79,male
+GTEX-1AX9J_Whole Bloo,GTEX-1AX9J_Whole Bloo,GTEX-1AX9J,Whole Blood,64.5,60-79,male
+GTEX-1AX9J_Skin - Sun,GTEX-1AX9J_Skin - Sun,GTEX-1AX9J,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1AX9J_Adipose - ,GTEX-1AX9J_Adipose - ,GTEX-1AX9J,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1AX9J_Artery - T,GTEX-1AX9J_Artery - T,GTEX-1AX9J,Artery - Tibial,64.5,60-79,male
+GTEX-1AX9J_Thyroid,GTEX-1AX9J_Thyroid,GTEX-1AX9J,Thyroid,64.5,60-79,male
+GTEX-1AX9K_Muscle - S,GTEX-1AX9K_Muscle - S,GTEX-1AX9K,Muscle - Skeletal,54.5,50-59,male
+GTEX-1AX9K_Whole Bloo,GTEX-1AX9K_Whole Bloo,GTEX-1AX9K,Whole Blood,54.5,50-59,male
+GTEX-1AX9K_Skin - Sun,GTEX-1AX9K_Skin - Sun,GTEX-1AX9K,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1AX9K_Adipose - ,GTEX-1AX9K_Adipose - ,GTEX-1AX9K,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1AX9K_Artery - T,GTEX-1AX9K_Artery - T,GTEX-1AX9K,Artery - Tibial,54.5,50-59,male
+GTEX-1AX9K_Thyroid,GTEX-1AX9K_Thyroid,GTEX-1AX9K,Thyroid,54.5,50-59,male
+GTEX-1B8KE_Muscle - S,GTEX-1B8KE_Muscle - S,GTEX-1B8KE,Muscle - Skeletal,54.5,50-59,male
+GTEX-1B8KE_Whole Bloo,GTEX-1B8KE_Whole Bloo,GTEX-1B8KE,Whole Blood,54.5,50-59,male
+GTEX-1B8KE_Skin - Sun,GTEX-1B8KE_Skin - Sun,GTEX-1B8KE,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1B8KE_Adipose - ,GTEX-1B8KE_Adipose - ,GTEX-1B8KE,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1B8KE_Artery - T,GTEX-1B8KE_Artery - T,GTEX-1B8KE,Artery - Tibial,54.5,50-59,male
+GTEX-1B8KE_Thyroid,GTEX-1B8KE_Thyroid,GTEX-1B8KE,Thyroid,54.5,50-59,male
+GTEX-1B8KZ_Muscle - S,GTEX-1B8KZ_Muscle - S,GTEX-1B8KZ,Muscle - Skeletal,54.5,50-59,male
+GTEX-1B8KZ_Whole Bloo,GTEX-1B8KZ_Whole Bloo,GTEX-1B8KZ,Whole Blood,54.5,50-59,male
+GTEX-1B8KZ_Skin - Sun,GTEX-1B8KZ_Skin - Sun,GTEX-1B8KZ,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1B8KZ_Adipose - ,GTEX-1B8KZ_Adipose - ,GTEX-1B8KZ,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1B8KZ_Artery - T,GTEX-1B8KZ_Artery - T,GTEX-1B8KZ,Artery - Tibial,54.5,50-59,male
+GTEX-1B8KZ_Thyroid,GTEX-1B8KZ_Thyroid,GTEX-1B8KZ,Thyroid,54.5,50-59,male
+GTEX-1B8L1_Muscle - S,GTEX-1B8L1_Muscle - S,GTEX-1B8L1,Muscle - Skeletal,64.5,60-79,male
+GTEX-1B8L1_Whole Bloo,GTEX-1B8L1_Whole Bloo,GTEX-1B8L1,Whole Blood,64.5,60-79,male
+GTEX-1B8L1_Skin - Sun,GTEX-1B8L1_Skin - Sun,GTEX-1B8L1,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1B8L1_Adipose - ,GTEX-1B8L1_Adipose - ,GTEX-1B8L1,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1B8L1_Artery - T,GTEX-1B8L1_Artery - T,GTEX-1B8L1,Artery - Tibial,64.5,60-79,male
+GTEX-1B8L1_Thyroid,GTEX-1B8L1_Thyroid,GTEX-1B8L1,Thyroid,64.5,60-79,male
+GTEX-1B8SF_Muscle - S,GTEX-1B8SF_Muscle - S,GTEX-1B8SF,Muscle - Skeletal,64.5,60-79,male
+GTEX-1B8SF_Whole Bloo,GTEX-1B8SF_Whole Bloo,GTEX-1B8SF,Whole Blood,64.5,60-79,male
+GTEX-1B8SF_Skin - Sun,GTEX-1B8SF_Skin - Sun,GTEX-1B8SF,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1B8SF_Adipose - ,GTEX-1B8SF_Adipose - ,GTEX-1B8SF,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1B8SF_Artery - T,GTEX-1B8SF_Artery - T,GTEX-1B8SF,Artery - Tibial,64.5,60-79,male
+GTEX-1B8SF_Thyroid,GTEX-1B8SF_Thyroid,GTEX-1B8SF,Thyroid,64.5,60-79,male
+GTEX-1B8SG_Muscle - S,GTEX-1B8SG_Muscle - S,GTEX-1B8SG,Muscle - Skeletal,54.5,50-59,male
+GTEX-1B8SG_Whole Bloo,GTEX-1B8SG_Whole Bloo,GTEX-1B8SG,Whole Blood,54.5,50-59,male
+GTEX-1B8SG_Skin - Sun,GTEX-1B8SG_Skin - Sun,GTEX-1B8SG,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1B8SG_Adipose - ,GTEX-1B8SG_Adipose - ,GTEX-1B8SG,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1B8SG_Artery - T,GTEX-1B8SG_Artery - T,GTEX-1B8SG,Artery - Tibial,54.5,50-59,male
+GTEX-1B8SG_Thyroid,GTEX-1B8SG_Thyroid,GTEX-1B8SG,Thyroid,54.5,50-59,male
+GTEX-1B933_Muscle - S,GTEX-1B933_Muscle - S,GTEX-1B933,Muscle - Skeletal,54.5,50-59,female
+GTEX-1B933_Whole Bloo,GTEX-1B933_Whole Bloo,GTEX-1B933,Whole Blood,54.5,50-59,female
+GTEX-1B933_Skin - Sun,GTEX-1B933_Skin - Sun,GTEX-1B933,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1B933_Adipose - ,GTEX-1B933_Adipose - ,GTEX-1B933,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1B933_Artery - T,GTEX-1B933_Artery - T,GTEX-1B933,Artery - Tibial,54.5,50-59,female
+GTEX-1B933_Thyroid,GTEX-1B933_Thyroid,GTEX-1B933,Thyroid,54.5,50-59,female
+GTEX-1B97I_Muscle - S,GTEX-1B97I_Muscle - S,GTEX-1B97I,Muscle - Skeletal,44.5,40-49,male
+GTEX-1B97I_Whole Bloo,GTEX-1B97I_Whole Bloo,GTEX-1B97I,Whole Blood,44.5,40-49,male
+GTEX-1B97I_Skin - Sun,GTEX-1B97I_Skin - Sun,GTEX-1B97I,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-1B97I_Adipose - ,GTEX-1B97I_Adipose - ,GTEX-1B97I,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-1B97I_Artery - T,GTEX-1B97I_Artery - T,GTEX-1B97I,Artery - Tibial,44.5,40-49,male
+GTEX-1B97I_Thyroid,GTEX-1B97I_Thyroid,GTEX-1B97I,Thyroid,44.5,40-49,male
+GTEX-1BAJH_Muscle - S,GTEX-1BAJH_Muscle - S,GTEX-1BAJH,Muscle - Skeletal,74.5,60-79,male
+GTEX-1BAJH_Whole Bloo,GTEX-1BAJH_Whole Bloo,GTEX-1BAJH,Whole Blood,74.5,60-79,male
+GTEX-1BAJH_Skin - Sun,GTEX-1BAJH_Skin - Sun,GTEX-1BAJH,Skin - Sun Exposed (Lower leg),74.5,60-79,male
+GTEX-1BAJH_Adipose - ,GTEX-1BAJH_Adipose - ,GTEX-1BAJH,Adipose - Subcutaneous,74.5,60-79,male
+GTEX-1BAJH_Artery - T,GTEX-1BAJH_Artery - T,GTEX-1BAJH,Artery - Tibial,74.5,60-79,male
+GTEX-1BAJH_Thyroid,GTEX-1BAJH_Thyroid,GTEX-1BAJH,Thyroid,74.5,60-79,male
+GTEX-1C2JI_Muscle - S,GTEX-1C2JI_Muscle - S,GTEX-1C2JI,Muscle - Skeletal,54.5,50-59,male
+GTEX-1C2JI_Whole Bloo,GTEX-1C2JI_Whole Bloo,GTEX-1C2JI,Whole Blood,54.5,50-59,male
+GTEX-1C2JI_Skin - Sun,GTEX-1C2JI_Skin - Sun,GTEX-1C2JI,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1C2JI_Adipose - ,GTEX-1C2JI_Adipose - ,GTEX-1C2JI,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1C2JI_Artery - T,GTEX-1C2JI_Artery - T,GTEX-1C2JI,Artery - Tibial,54.5,50-59,male
+GTEX-1C2JI_Thyroid,GTEX-1C2JI_Thyroid,GTEX-1C2JI,Thyroid,54.5,50-59,male
+GTEX-1C475_Muscle - S,GTEX-1C475_Muscle - S,GTEX-1C475,Muscle - Skeletal,44.5,40-49,female
+GTEX-1C475_Whole Bloo,GTEX-1C475_Whole Bloo,GTEX-1C475,Whole Blood,44.5,40-49,female
+GTEX-1C475_Skin - Sun,GTEX-1C475_Skin - Sun,GTEX-1C475,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-1C475_Adipose - ,GTEX-1C475_Adipose - ,GTEX-1C475,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-1C475_Artery - T,GTEX-1C475_Artery - T,GTEX-1C475,Artery - Tibial,44.5,40-49,female
+GTEX-1C475_Thyroid,GTEX-1C475_Thyroid,GTEX-1C475,Thyroid,44.5,40-49,female
+GTEX-1C4CL_Muscle - S,GTEX-1C4CL_Muscle - S,GTEX-1C4CL,Muscle - Skeletal,34.5,20-39,male
+GTEX-1C4CL_Whole Bloo,GTEX-1C4CL_Whole Bloo,GTEX-1C4CL,Whole Blood,34.5,20-39,male
+GTEX-1C4CL_Skin - Sun,GTEX-1C4CL_Skin - Sun,GTEX-1C4CL,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1C4CL_Adipose - ,GTEX-1C4CL_Adipose - ,GTEX-1C4CL,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1C4CL_Artery - T,GTEX-1C4CL_Artery - T,GTEX-1C4CL,Artery - Tibial,34.5,20-39,male
+GTEX-1C4CL_Thyroid,GTEX-1C4CL_Thyroid,GTEX-1C4CL,Thyroid,34.5,20-39,male
+GTEX-1C6VQ_Muscle - S,GTEX-1C6VQ_Muscle - S,GTEX-1C6VQ,Muscle - Skeletal,54.5,50-59,male
+GTEX-1C6VQ_Whole Bloo,GTEX-1C6VQ_Whole Bloo,GTEX-1C6VQ,Whole Blood,54.5,50-59,male
+GTEX-1C6VQ_Skin - Sun,GTEX-1C6VQ_Skin - Sun,GTEX-1C6VQ,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1C6VQ_Adipose - ,GTEX-1C6VQ_Adipose - ,GTEX-1C6VQ,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1C6VQ_Artery - T,GTEX-1C6VQ_Artery - T,GTEX-1C6VQ,Artery - Tibial,54.5,50-59,male
+GTEX-1C6VQ_Thyroid,GTEX-1C6VQ_Thyroid,GTEX-1C6VQ,Thyroid,54.5,50-59,male
+GTEX-1C6VR_Muscle - S,GTEX-1C6VR_Muscle - S,GTEX-1C6VR,Muscle - Skeletal,64.5,60-79,male
+GTEX-1C6VR_Whole Bloo,GTEX-1C6VR_Whole Bloo,GTEX-1C6VR,Whole Blood,64.5,60-79,male
+GTEX-1C6VR_Skin - Sun,GTEX-1C6VR_Skin - Sun,GTEX-1C6VR,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1C6VR_Adipose - ,GTEX-1C6VR_Adipose - ,GTEX-1C6VR,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1C6VR_Artery - T,GTEX-1C6VR_Artery - T,GTEX-1C6VR,Artery - Tibial,64.5,60-79,male
+GTEX-1C6VR_Thyroid,GTEX-1C6VR_Thyroid,GTEX-1C6VR,Thyroid,64.5,60-79,male
+GTEX-1C6VS_Muscle - S,GTEX-1C6VS_Muscle - S,GTEX-1C6VS,Muscle - Skeletal,64.5,60-79,male
+GTEX-1C6VS_Whole Bloo,GTEX-1C6VS_Whole Bloo,GTEX-1C6VS,Whole Blood,64.5,60-79,male
+GTEX-1C6VS_Skin - Sun,GTEX-1C6VS_Skin - Sun,GTEX-1C6VS,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1C6VS_Adipose - ,GTEX-1C6VS_Adipose - ,GTEX-1C6VS,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1C6VS_Artery - T,GTEX-1C6VS_Artery - T,GTEX-1C6VS,Artery - Tibial,64.5,60-79,male
+GTEX-1C6VS_Thyroid,GTEX-1C6VS_Thyroid,GTEX-1C6VS,Thyroid,64.5,60-79,male
+GTEX-1CAMR_Muscle - S,GTEX-1CAMR_Muscle - S,GTEX-1CAMR,Muscle - Skeletal,24.5,20-39,male
+GTEX-1CAMR_Whole Bloo,GTEX-1CAMR_Whole Bloo,GTEX-1CAMR,Whole Blood,24.5,20-39,male
+GTEX-1CAMR_Skin - Sun,GTEX-1CAMR_Skin - Sun,GTEX-1CAMR,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-1CAMR_Adipose - ,GTEX-1CAMR_Adipose - ,GTEX-1CAMR,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-1CAMR_Artery - T,GTEX-1CAMR_Artery - T,GTEX-1CAMR,Artery - Tibial,24.5,20-39,male
+GTEX-1CAMR_Thyroid,GTEX-1CAMR_Thyroid,GTEX-1CAMR,Thyroid,24.5,20-39,male
+GTEX-1CAMS_Muscle - S,GTEX-1CAMS_Muscle - S,GTEX-1CAMS,Muscle - Skeletal,44.5,40-49,female
+GTEX-1CAMS_Whole Bloo,GTEX-1CAMS_Whole Bloo,GTEX-1CAMS,Whole Blood,44.5,40-49,female
+GTEX-1CAMS_Skin - Sun,GTEX-1CAMS_Skin - Sun,GTEX-1CAMS,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-1CAMS_Adipose - ,GTEX-1CAMS_Adipose - ,GTEX-1CAMS,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-1CAMS_Artery - T,GTEX-1CAMS_Artery - T,GTEX-1CAMS,Artery - Tibial,44.5,40-49,female
+GTEX-1CAMS_Thyroid,GTEX-1CAMS_Thyroid,GTEX-1CAMS,Thyroid,44.5,40-49,female
+GTEX-1CB4E_Muscle - S,GTEX-1CB4E_Muscle - S,GTEX-1CB4E,Muscle - Skeletal,64.5,60-79,male
+GTEX-1CB4E_Whole Bloo,GTEX-1CB4E_Whole Bloo,GTEX-1CB4E,Whole Blood,64.5,60-79,male
+GTEX-1CB4E_Skin - Sun,GTEX-1CB4E_Skin - Sun,GTEX-1CB4E,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1CB4E_Adipose - ,GTEX-1CB4E_Adipose - ,GTEX-1CB4E,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1CB4E_Artery - T,GTEX-1CB4E_Artery - T,GTEX-1CB4E,Artery - Tibial,64.5,60-79,male
+GTEX-1CB4E_Thyroid,GTEX-1CB4E_Thyroid,GTEX-1CB4E,Thyroid,64.5,60-79,male
+GTEX-1CB4G_Muscle - S,GTEX-1CB4G_Muscle - S,GTEX-1CB4G,Muscle - Skeletal,64.5,60-79,male
+GTEX-1CB4G_Whole Bloo,GTEX-1CB4G_Whole Bloo,GTEX-1CB4G,Whole Blood,64.5,60-79,male
+GTEX-1CB4G_Skin - Sun,GTEX-1CB4G_Skin - Sun,GTEX-1CB4G,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1CB4G_Adipose - ,GTEX-1CB4G_Adipose - ,GTEX-1CB4G,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1CB4G_Artery - T,GTEX-1CB4G_Artery - T,GTEX-1CB4G,Artery - Tibial,64.5,60-79,male
+GTEX-1CB4G_Thyroid,GTEX-1CB4G_Thyroid,GTEX-1CB4G,Thyroid,64.5,60-79,male
+GTEX-1CB4H_Muscle - S,GTEX-1CB4H_Muscle - S,GTEX-1CB4H,Muscle - Skeletal,64.5,60-79,female
+GTEX-1CB4H_Whole Bloo,GTEX-1CB4H_Whole Bloo,GTEX-1CB4H,Whole Blood,64.5,60-79,female
+GTEX-1CB4H_Skin - Sun,GTEX-1CB4H_Skin - Sun,GTEX-1CB4H,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1CB4H_Adipose - ,GTEX-1CB4H_Adipose - ,GTEX-1CB4H,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1CB4H_Artery - T,GTEX-1CB4H_Artery - T,GTEX-1CB4H,Artery - Tibial,64.5,60-79,female
+GTEX-1CB4H_Thyroid,GTEX-1CB4H_Thyroid,GTEX-1CB4H,Thyroid,64.5,60-79,female
+GTEX-1CB4I_Muscle - S,GTEX-1CB4I_Muscle - S,GTEX-1CB4I,Muscle - Skeletal,54.5,50-59,male
+GTEX-1CB4I_Whole Bloo,GTEX-1CB4I_Whole Bloo,GTEX-1CB4I,Whole Blood,54.5,50-59,male
+GTEX-1CB4I_Skin - Sun,GTEX-1CB4I_Skin - Sun,GTEX-1CB4I,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1CB4I_Adipose - ,GTEX-1CB4I_Adipose - ,GTEX-1CB4I,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1CB4I_Artery - T,GTEX-1CB4I_Artery - T,GTEX-1CB4I,Artery - Tibial,54.5,50-59,male
+GTEX-1CB4I_Thyroid,GTEX-1CB4I_Thyroid,GTEX-1CB4I,Thyroid,54.5,50-59,male
+GTEX-1CB4J_Muscle - S,GTEX-1CB4J_Muscle - S,GTEX-1CB4J,Muscle - Skeletal,64.5,60-79,male
+GTEX-1CB4J_Whole Bloo,GTEX-1CB4J_Whole Bloo,GTEX-1CB4J,Whole Blood,64.5,60-79,male
+GTEX-1CB4J_Skin - Sun,GTEX-1CB4J_Skin - Sun,GTEX-1CB4J,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1CB4J_Adipose - ,GTEX-1CB4J_Adipose - ,GTEX-1CB4J,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1CB4J_Artery - T,GTEX-1CB4J_Artery - T,GTEX-1CB4J,Artery - Tibial,64.5,60-79,male
+GTEX-1CB4J_Thyroid,GTEX-1CB4J_Thyroid,GTEX-1CB4J,Thyroid,64.5,60-79,male
+GTEX-1E1VI_Muscle - S,GTEX-1E1VI_Muscle - S,GTEX-1E1VI,Muscle - Skeletal,54.5,50-59,male
+GTEX-1E1VI_Whole Bloo,GTEX-1E1VI_Whole Bloo,GTEX-1E1VI,Whole Blood,54.5,50-59,male
+GTEX-1E1VI_Skin - Sun,GTEX-1E1VI_Skin - Sun,GTEX-1E1VI,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1E1VI_Adipose - ,GTEX-1E1VI_Adipose - ,GTEX-1E1VI,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1E1VI_Artery - T,GTEX-1E1VI_Artery - T,GTEX-1E1VI,Artery - Tibial,54.5,50-59,male
+GTEX-1E1VI_Thyroid,GTEX-1E1VI_Thyroid,GTEX-1E1VI,Thyroid,54.5,50-59,male
+GTEX-1EMGI_Muscle - S,GTEX-1EMGI_Muscle - S,GTEX-1EMGI,Muscle - Skeletal,64.5,60-79,male
+GTEX-1EMGI_Whole Bloo,GTEX-1EMGI_Whole Bloo,GTEX-1EMGI,Whole Blood,64.5,60-79,male
+GTEX-1EMGI_Skin - Sun,GTEX-1EMGI_Skin - Sun,GTEX-1EMGI,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1EMGI_Adipose - ,GTEX-1EMGI_Adipose - ,GTEX-1EMGI,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1EMGI_Artery - T,GTEX-1EMGI_Artery - T,GTEX-1EMGI,Artery - Tibial,64.5,60-79,male
+GTEX-1EMGI_Thyroid,GTEX-1EMGI_Thyroid,GTEX-1EMGI,Thyroid,64.5,60-79,male
+GTEX-1EU9M_Muscle - S,GTEX-1EU9M_Muscle - S,GTEX-1EU9M,Muscle - Skeletal,64.5,60-79,male
+GTEX-1EU9M_Whole Bloo,GTEX-1EU9M_Whole Bloo,GTEX-1EU9M,Whole Blood,64.5,60-79,male
+GTEX-1EU9M_Skin - Sun,GTEX-1EU9M_Skin - Sun,GTEX-1EU9M,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1EU9M_Adipose - ,GTEX-1EU9M_Adipose - ,GTEX-1EU9M,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1EU9M_Artery - T,GTEX-1EU9M_Artery - T,GTEX-1EU9M,Artery - Tibial,64.5,60-79,male
+GTEX-1EU9M_Thyroid,GTEX-1EU9M_Thyroid,GTEX-1EU9M,Thyroid,64.5,60-79,male
+GTEX-1EWIQ_Muscle - S,GTEX-1EWIQ_Muscle - S,GTEX-1EWIQ,Muscle - Skeletal,74.5,60-79,female
+GTEX-1EWIQ_Whole Bloo,GTEX-1EWIQ_Whole Bloo,GTEX-1EWIQ,Whole Blood,74.5,60-79,female
+GTEX-1EWIQ_Skin - Sun,GTEX-1EWIQ_Skin - Sun,GTEX-1EWIQ,Skin - Sun Exposed (Lower leg),74.5,60-79,female
+GTEX-1EWIQ_Adipose - ,GTEX-1EWIQ_Adipose - ,GTEX-1EWIQ,Adipose - Subcutaneous,74.5,60-79,female
+GTEX-1EWIQ_Artery - T,GTEX-1EWIQ_Artery - T,GTEX-1EWIQ,Artery - Tibial,74.5,60-79,female
+GTEX-1EWIQ_Thyroid,GTEX-1EWIQ_Thyroid,GTEX-1EWIQ,Thyroid,74.5,60-79,female
+GTEX-1EX96_Muscle - S,GTEX-1EX96_Muscle - S,GTEX-1EX96,Muscle - Skeletal,54.5,50-59,male
+GTEX-1EX96_Whole Bloo,GTEX-1EX96_Whole Bloo,GTEX-1EX96,Whole Blood,54.5,50-59,male
+GTEX-1EX96_Skin - Sun,GTEX-1EX96_Skin - Sun,GTEX-1EX96,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1EX96_Adipose - ,GTEX-1EX96_Adipose - ,GTEX-1EX96,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1EX96_Artery - T,GTEX-1EX96_Artery - T,GTEX-1EX96,Artery - Tibial,54.5,50-59,male
+GTEX-1EX96_Thyroid,GTEX-1EX96_Thyroid,GTEX-1EX96,Thyroid,54.5,50-59,male
+GTEX-1F52S_Muscle - S,GTEX-1F52S_Muscle - S,GTEX-1F52S,Muscle - Skeletal,64.5,60-79,female
+GTEX-1F52S_Whole Bloo,GTEX-1F52S_Whole Bloo,GTEX-1F52S,Whole Blood,64.5,60-79,female
+GTEX-1F52S_Skin - Sun,GTEX-1F52S_Skin - Sun,GTEX-1F52S,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1F52S_Adipose - ,GTEX-1F52S_Adipose - ,GTEX-1F52S,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1F52S_Artery - T,GTEX-1F52S_Artery - T,GTEX-1F52S,Artery - Tibial,64.5,60-79,female
+GTEX-1F52S_Thyroid,GTEX-1F52S_Thyroid,GTEX-1F52S,Thyroid,64.5,60-79,female
+GTEX-1F75I_Muscle - S,GTEX-1F75I_Muscle - S,GTEX-1F75I,Muscle - Skeletal,44.5,40-49,male
+GTEX-1F75I_Whole Bloo,GTEX-1F75I_Whole Bloo,GTEX-1F75I,Whole Blood,44.5,40-49,male
+GTEX-1F75I_Skin - Sun,GTEX-1F75I_Skin - Sun,GTEX-1F75I,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-1F75I_Adipose - ,GTEX-1F75I_Adipose - ,GTEX-1F75I,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-1F75I_Artery - T,GTEX-1F75I_Artery - T,GTEX-1F75I,Artery - Tibial,44.5,40-49,male
+GTEX-1F75I_Thyroid,GTEX-1F75I_Thyroid,GTEX-1F75I,Thyroid,44.5,40-49,male
+GTEX-1F88F_Muscle - S,GTEX-1F88F_Muscle - S,GTEX-1F88F,Muscle - Skeletal,64.5,60-79,female
+GTEX-1F88F_Whole Bloo,GTEX-1F88F_Whole Bloo,GTEX-1F88F,Whole Blood,64.5,60-79,female
+GTEX-1F88F_Skin - Sun,GTEX-1F88F_Skin - Sun,GTEX-1F88F,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1F88F_Adipose - ,GTEX-1F88F_Adipose - ,GTEX-1F88F,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1F88F_Artery - T,GTEX-1F88F_Artery - T,GTEX-1F88F,Artery - Tibial,64.5,60-79,female
+GTEX-1F88F_Thyroid,GTEX-1F88F_Thyroid,GTEX-1F88F,Thyroid,64.5,60-79,female
+GTEX-1GF9V_Muscle - S,GTEX-1GF9V_Muscle - S,GTEX-1GF9V,Muscle - Skeletal,64.5,60-79,male
+GTEX-1GF9V_Whole Bloo,GTEX-1GF9V_Whole Bloo,GTEX-1GF9V,Whole Blood,64.5,60-79,male
+GTEX-1GF9V_Skin - Sun,GTEX-1GF9V_Skin - Sun,GTEX-1GF9V,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1GF9V_Adipose - ,GTEX-1GF9V_Adipose - ,GTEX-1GF9V,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1GF9V_Artery - T,GTEX-1GF9V_Artery - T,GTEX-1GF9V,Artery - Tibial,64.5,60-79,male
+GTEX-1GF9V_Thyroid,GTEX-1GF9V_Thyroid,GTEX-1GF9V,Thyroid,64.5,60-79,male
+GTEX-1GF9X_Muscle - S,GTEX-1GF9X_Muscle - S,GTEX-1GF9X,Muscle - Skeletal,44.5,40-49,female
+GTEX-1GF9X_Whole Bloo,GTEX-1GF9X_Whole Bloo,GTEX-1GF9X,Whole Blood,44.5,40-49,female
+GTEX-1GF9X_Skin - Sun,GTEX-1GF9X_Skin - Sun,GTEX-1GF9X,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-1GF9X_Adipose - ,GTEX-1GF9X_Adipose - ,GTEX-1GF9X,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-1GF9X_Artery - T,GTEX-1GF9X_Artery - T,GTEX-1GF9X,Artery - Tibial,44.5,40-49,female
+GTEX-1GF9X_Thyroid,GTEX-1GF9X_Thyroid,GTEX-1GF9X,Thyroid,44.5,40-49,female
+GTEX-1GMR3_Muscle - S,GTEX-1GMR3_Muscle - S,GTEX-1GMR3,Muscle - Skeletal,44.5,40-49,male
+GTEX-1GMR3_Whole Bloo,GTEX-1GMR3_Whole Bloo,GTEX-1GMR3,Whole Blood,44.5,40-49,male
+GTEX-1GMR3_Skin - Sun,GTEX-1GMR3_Skin - Sun,GTEX-1GMR3,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-1GMR3_Adipose - ,GTEX-1GMR3_Adipose - ,GTEX-1GMR3,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-1GMR3_Artery - T,GTEX-1GMR3_Artery - T,GTEX-1GMR3,Artery - Tibial,44.5,40-49,male
+GTEX-1GMR3_Thyroid,GTEX-1GMR3_Thyroid,GTEX-1GMR3,Thyroid,44.5,40-49,male
+GTEX-1GMR8_Muscle - S,GTEX-1GMR8_Muscle - S,GTEX-1GMR8,Muscle - Skeletal,54.5,50-59,female
+GTEX-1GMR8_Whole Bloo,GTEX-1GMR8_Whole Bloo,GTEX-1GMR8,Whole Blood,54.5,50-59,female
+GTEX-1GMR8_Skin - Sun,GTEX-1GMR8_Skin - Sun,GTEX-1GMR8,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1GMR8_Adipose - ,GTEX-1GMR8_Adipose - ,GTEX-1GMR8,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1GMR8_Artery - T,GTEX-1GMR8_Artery - T,GTEX-1GMR8,Artery - Tibial,54.5,50-59,female
+GTEX-1GMR8_Thyroid,GTEX-1GMR8_Thyroid,GTEX-1GMR8,Thyroid,54.5,50-59,female
+GTEX-1GMRU_Muscle - S,GTEX-1GMRU_Muscle - S,GTEX-1GMRU,Muscle - Skeletal,54.5,50-59,male
+GTEX-1GMRU_Whole Bloo,GTEX-1GMRU_Whole Bloo,GTEX-1GMRU,Whole Blood,54.5,50-59,male
+GTEX-1GMRU_Skin - Sun,GTEX-1GMRU_Skin - Sun,GTEX-1GMRU,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1GMRU_Adipose - ,GTEX-1GMRU_Adipose - ,GTEX-1GMRU,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1GMRU_Artery - T,GTEX-1GMRU_Artery - T,GTEX-1GMRU,Artery - Tibial,54.5,50-59,male
+GTEX-1GMRU_Thyroid,GTEX-1GMRU_Thyroid,GTEX-1GMRU,Thyroid,54.5,50-59,male
+GTEX-1GN1U_Muscle - S,GTEX-1GN1U_Muscle - S,GTEX-1GN1U,Muscle - Skeletal,54.5,50-59,female
+GTEX-1GN1U_Whole Bloo,GTEX-1GN1U_Whole Bloo,GTEX-1GN1U,Whole Blood,54.5,50-59,female
+GTEX-1GN1U_Skin - Sun,GTEX-1GN1U_Skin - Sun,GTEX-1GN1U,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1GN1U_Adipose - ,GTEX-1GN1U_Adipose - ,GTEX-1GN1U,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1GN1U_Artery - T,GTEX-1GN1U_Artery - T,GTEX-1GN1U,Artery - Tibial,54.5,50-59,female
+GTEX-1GN1U_Thyroid,GTEX-1GN1U_Thyroid,GTEX-1GN1U,Thyroid,54.5,50-59,female
+GTEX-1GN1W_Muscle - S,GTEX-1GN1W_Muscle - S,GTEX-1GN1W,Muscle - Skeletal,54.5,50-59,female
+GTEX-1GN1W_Whole Bloo,GTEX-1GN1W_Whole Bloo,GTEX-1GN1W,Whole Blood,54.5,50-59,female
+GTEX-1GN1W_Skin - Sun,GTEX-1GN1W_Skin - Sun,GTEX-1GN1W,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1GN1W_Adipose - ,GTEX-1GN1W_Adipose - ,GTEX-1GN1W,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1GN1W_Artery - T,GTEX-1GN1W_Artery - T,GTEX-1GN1W,Artery - Tibial,54.5,50-59,female
+GTEX-1GN1W_Thyroid,GTEX-1GN1W_Thyroid,GTEX-1GN1W,Thyroid,54.5,50-59,female
+GTEX-1GN2E_Muscle - S,GTEX-1GN2E_Muscle - S,GTEX-1GN2E,Muscle - Skeletal,64.5,60-79,male
+GTEX-1GN2E_Whole Bloo,GTEX-1GN2E_Whole Bloo,GTEX-1GN2E,Whole Blood,64.5,60-79,male
+GTEX-1GN2E_Skin - Sun,GTEX-1GN2E_Skin - Sun,GTEX-1GN2E,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1GN2E_Adipose - ,GTEX-1GN2E_Adipose - ,GTEX-1GN2E,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1GN2E_Artery - T,GTEX-1GN2E_Artery - T,GTEX-1GN2E,Artery - Tibial,64.5,60-79,male
+GTEX-1GN2E_Thyroid,GTEX-1GN2E_Thyroid,GTEX-1GN2E,Thyroid,64.5,60-79,male
+GTEX-1GN73_Muscle - S,GTEX-1GN73_Muscle - S,GTEX-1GN73,Muscle - Skeletal,64.5,60-79,male
+GTEX-1GN73_Whole Bloo,GTEX-1GN73_Whole Bloo,GTEX-1GN73,Whole Blood,64.5,60-79,male
+GTEX-1GN73_Skin - Sun,GTEX-1GN73_Skin - Sun,GTEX-1GN73,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1GN73_Adipose - ,GTEX-1GN73_Adipose - ,GTEX-1GN73,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1GN73_Artery - T,GTEX-1GN73_Artery - T,GTEX-1GN73,Artery - Tibial,64.5,60-79,male
+GTEX-1GN73_Thyroid,GTEX-1GN73_Thyroid,GTEX-1GN73,Thyroid,64.5,60-79,male
+GTEX-1GPI7_Muscle - S,GTEX-1GPI7_Muscle - S,GTEX-1GPI7,Muscle - Skeletal,24.5,20-39,male
+GTEX-1GPI7_Whole Bloo,GTEX-1GPI7_Whole Bloo,GTEX-1GPI7,Whole Blood,24.5,20-39,male
+GTEX-1GPI7_Skin - Sun,GTEX-1GPI7_Skin - Sun,GTEX-1GPI7,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-1GPI7_Adipose - ,GTEX-1GPI7_Adipose - ,GTEX-1GPI7,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-1GPI7_Artery - T,GTEX-1GPI7_Artery - T,GTEX-1GPI7,Artery - Tibial,24.5,20-39,male
+GTEX-1GPI7_Thyroid,GTEX-1GPI7_Thyroid,GTEX-1GPI7,Thyroid,24.5,20-39,male
+GTEX-1GTWX_Muscle - S,GTEX-1GTWX_Muscle - S,GTEX-1GTWX,Muscle - Skeletal,64.5,60-79,male
+GTEX-1GTWX_Whole Bloo,GTEX-1GTWX_Whole Bloo,GTEX-1GTWX,Whole Blood,64.5,60-79,male
+GTEX-1GTWX_Skin - Sun,GTEX-1GTWX_Skin - Sun,GTEX-1GTWX,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1GTWX_Adipose - ,GTEX-1GTWX_Adipose - ,GTEX-1GTWX,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1GTWX_Artery - T,GTEX-1GTWX_Artery - T,GTEX-1GTWX,Artery - Tibial,64.5,60-79,male
+GTEX-1GTWX_Thyroid,GTEX-1GTWX_Thyroid,GTEX-1GTWX,Thyroid,64.5,60-79,male
+GTEX-1GZ2Q_Muscle - S,GTEX-1GZ2Q_Muscle - S,GTEX-1GZ2Q,Muscle - Skeletal,44.5,40-49,male
+GTEX-1GZ2Q_Whole Bloo,GTEX-1GZ2Q_Whole Bloo,GTEX-1GZ2Q,Whole Blood,44.5,40-49,male
+GTEX-1GZ2Q_Skin - Sun,GTEX-1GZ2Q_Skin - Sun,GTEX-1GZ2Q,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-1GZ2Q_Adipose - ,GTEX-1GZ2Q_Adipose - ,GTEX-1GZ2Q,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-1GZ2Q_Artery - T,GTEX-1GZ2Q_Artery - T,GTEX-1GZ2Q,Artery - Tibial,44.5,40-49,male
+GTEX-1GZ2Q_Thyroid,GTEX-1GZ2Q_Thyroid,GTEX-1GZ2Q,Thyroid,44.5,40-49,male
+GTEX-1GZ4H_Muscle - S,GTEX-1GZ4H_Muscle - S,GTEX-1GZ4H,Muscle - Skeletal,54.5,50-59,female
+GTEX-1GZ4H_Whole Bloo,GTEX-1GZ4H_Whole Bloo,GTEX-1GZ4H,Whole Blood,54.5,50-59,female
+GTEX-1GZ4H_Skin - Sun,GTEX-1GZ4H_Skin - Sun,GTEX-1GZ4H,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1GZ4H_Adipose - ,GTEX-1GZ4H_Adipose - ,GTEX-1GZ4H,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1GZ4H_Artery - T,GTEX-1GZ4H_Artery - T,GTEX-1GZ4H,Artery - Tibial,54.5,50-59,female
+GTEX-1GZ4H_Thyroid,GTEX-1GZ4H_Thyroid,GTEX-1GZ4H,Thyroid,54.5,50-59,female
+GTEX-1H1CY_Muscle - S,GTEX-1H1CY_Muscle - S,GTEX-1H1CY,Muscle - Skeletal,64.5,60-79,female
+GTEX-1H1CY_Whole Bloo,GTEX-1H1CY_Whole Bloo,GTEX-1H1CY,Whole Blood,64.5,60-79,female
+GTEX-1H1CY_Skin - Sun,GTEX-1H1CY_Skin - Sun,GTEX-1H1CY,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1H1CY_Adipose - ,GTEX-1H1CY_Adipose - ,GTEX-1H1CY,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1H1CY_Artery - T,GTEX-1H1CY_Artery - T,GTEX-1H1CY,Artery - Tibial,64.5,60-79,female
+GTEX-1H1CY_Thyroid,GTEX-1H1CY_Thyroid,GTEX-1H1CY,Thyroid,64.5,60-79,female
+GTEX-1H1DE_Muscle - S,GTEX-1H1DE_Muscle - S,GTEX-1H1DE,Muscle - Skeletal,24.5,20-39,male
+GTEX-1H1DE_Whole Bloo,GTEX-1H1DE_Whole Bloo,GTEX-1H1DE,Whole Blood,24.5,20-39,male
+GTEX-1H1DE_Skin - Sun,GTEX-1H1DE_Skin - Sun,GTEX-1H1DE,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-1H1DE_Adipose - ,GTEX-1H1DE_Adipose - ,GTEX-1H1DE,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-1H1DE_Artery - T,GTEX-1H1DE_Artery - T,GTEX-1H1DE,Artery - Tibial,24.5,20-39,male
+GTEX-1H1DE_Thyroid,GTEX-1H1DE_Thyroid,GTEX-1H1DE,Thyroid,24.5,20-39,male
+GTEX-1H1E6_Muscle - S,GTEX-1H1E6_Muscle - S,GTEX-1H1E6,Muscle - Skeletal,34.5,20-39,male
+GTEX-1H1E6_Whole Bloo,GTEX-1H1E6_Whole Bloo,GTEX-1H1E6,Whole Blood,34.5,20-39,male
+GTEX-1H1E6_Skin - Sun,GTEX-1H1E6_Skin - Sun,GTEX-1H1E6,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1H1E6_Adipose - ,GTEX-1H1E6_Adipose - ,GTEX-1H1E6,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1H1E6_Artery - T,GTEX-1H1E6_Artery - T,GTEX-1H1E6,Artery - Tibial,34.5,20-39,male
+GTEX-1H1E6_Thyroid,GTEX-1H1E6_Thyroid,GTEX-1H1E6,Thyroid,34.5,20-39,male
+GTEX-1HB9E_Muscle - S,GTEX-1HB9E_Muscle - S,GTEX-1HB9E,Muscle - Skeletal,54.5,50-59,male
+GTEX-1HB9E_Whole Bloo,GTEX-1HB9E_Whole Bloo,GTEX-1HB9E,Whole Blood,54.5,50-59,male
+GTEX-1HB9E_Skin - Sun,GTEX-1HB9E_Skin - Sun,GTEX-1HB9E,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1HB9E_Adipose - ,GTEX-1HB9E_Adipose - ,GTEX-1HB9E,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1HB9E_Artery - T,GTEX-1HB9E_Artery - T,GTEX-1HB9E,Artery - Tibial,54.5,50-59,male
+GTEX-1HB9E_Thyroid,GTEX-1HB9E_Thyroid,GTEX-1HB9E,Thyroid,54.5,50-59,male
+GTEX-1HBPI_Muscle - S,GTEX-1HBPI_Muscle - S,GTEX-1HBPI,Muscle - Skeletal,54.5,50-59,male
+GTEX-1HBPI_Whole Bloo,GTEX-1HBPI_Whole Bloo,GTEX-1HBPI,Whole Blood,54.5,50-59,male
+GTEX-1HBPI_Skin - Sun,GTEX-1HBPI_Skin - Sun,GTEX-1HBPI,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1HBPI_Adipose - ,GTEX-1HBPI_Adipose - ,GTEX-1HBPI,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1HBPI_Artery - T,GTEX-1HBPI_Artery - T,GTEX-1HBPI,Artery - Tibial,54.5,50-59,male
+GTEX-1HBPI_Thyroid,GTEX-1HBPI_Thyroid,GTEX-1HBPI,Thyroid,54.5,50-59,male
+GTEX-1HBPM_Muscle - S,GTEX-1HBPM_Muscle - S,GTEX-1HBPM,Muscle - Skeletal,64.5,60-79,female
+GTEX-1HBPM_Whole Bloo,GTEX-1HBPM_Whole Bloo,GTEX-1HBPM,Whole Blood,64.5,60-79,female
+GTEX-1HBPM_Skin - Sun,GTEX-1HBPM_Skin - Sun,GTEX-1HBPM,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1HBPM_Adipose - ,GTEX-1HBPM_Adipose - ,GTEX-1HBPM,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1HBPM_Artery - T,GTEX-1HBPM_Artery - T,GTEX-1HBPM,Artery - Tibial,64.5,60-79,female
+GTEX-1HBPM_Thyroid,GTEX-1HBPM_Thyroid,GTEX-1HBPM,Thyroid,64.5,60-79,female
+GTEX-1HCU7_Muscle - S,GTEX-1HCU7_Muscle - S,GTEX-1HCU7,Muscle - Skeletal,54.5,50-59,male
+GTEX-1HCU7_Whole Bloo,GTEX-1HCU7_Whole Bloo,GTEX-1HCU7,Whole Blood,54.5,50-59,male
+GTEX-1HCU7_Skin - Sun,GTEX-1HCU7_Skin - Sun,GTEX-1HCU7,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1HCU7_Adipose - ,GTEX-1HCU7_Adipose - ,GTEX-1HCU7,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1HCU7_Artery - T,GTEX-1HCU7_Artery - T,GTEX-1HCU7,Artery - Tibial,54.5,50-59,male
+GTEX-1HCU7_Thyroid,GTEX-1HCU7_Thyroid,GTEX-1HCU7,Thyroid,54.5,50-59,male
+GTEX-1HCUA_Muscle - S,GTEX-1HCUA_Muscle - S,GTEX-1HCUA,Muscle - Skeletal,54.5,50-59,female
+GTEX-1HCUA_Whole Bloo,GTEX-1HCUA_Whole Bloo,GTEX-1HCUA,Whole Blood,54.5,50-59,female
+GTEX-1HCUA_Skin - Sun,GTEX-1HCUA_Skin - Sun,GTEX-1HCUA,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1HCUA_Adipose - ,GTEX-1HCUA_Adipose - ,GTEX-1HCUA,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1HCUA_Artery - T,GTEX-1HCUA_Artery - T,GTEX-1HCUA,Artery - Tibial,54.5,50-59,female
+GTEX-1HCUA_Thyroid,GTEX-1HCUA_Thyroid,GTEX-1HCUA,Thyroid,54.5,50-59,female
+GTEX-1HCVE_Muscle - S,GTEX-1HCVE_Muscle - S,GTEX-1HCVE,Muscle - Skeletal,54.5,50-59,male
+GTEX-1HCVE_Whole Bloo,GTEX-1HCVE_Whole Bloo,GTEX-1HCVE,Whole Blood,54.5,50-59,male
+GTEX-1HCVE_Skin - Sun,GTEX-1HCVE_Skin - Sun,GTEX-1HCVE,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1HCVE_Adipose - ,GTEX-1HCVE_Adipose - ,GTEX-1HCVE,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1HCVE_Artery - T,GTEX-1HCVE_Artery - T,GTEX-1HCVE,Artery - Tibial,54.5,50-59,male
+GTEX-1HCVE_Thyroid,GTEX-1HCVE_Thyroid,GTEX-1HCVE,Thyroid,54.5,50-59,male
+GTEX-1HFI6_Muscle - S,GTEX-1HFI6_Muscle - S,GTEX-1HFI6,Muscle - Skeletal,44.5,40-49,male
+GTEX-1HFI6_Whole Bloo,GTEX-1HFI6_Whole Bloo,GTEX-1HFI6,Whole Blood,44.5,40-49,male
+GTEX-1HFI6_Skin - Sun,GTEX-1HFI6_Skin - Sun,GTEX-1HFI6,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-1HFI6_Adipose - ,GTEX-1HFI6_Adipose - ,GTEX-1HFI6,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-1HFI6_Artery - T,GTEX-1HFI6_Artery - T,GTEX-1HFI6,Artery - Tibial,44.5,40-49,male
+GTEX-1HFI6_Thyroid,GTEX-1HFI6_Thyroid,GTEX-1HFI6,Thyroid,44.5,40-49,male
+GTEX-1HFI7_Muscle - S,GTEX-1HFI7_Muscle - S,GTEX-1HFI7,Muscle - Skeletal,54.5,50-59,female
+GTEX-1HFI7_Whole Bloo,GTEX-1HFI7_Whole Bloo,GTEX-1HFI7,Whole Blood,54.5,50-59,female
+GTEX-1HFI7_Skin - Sun,GTEX-1HFI7_Skin - Sun,GTEX-1HFI7,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1HFI7_Adipose - ,GTEX-1HFI7_Adipose - ,GTEX-1HFI7,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1HFI7_Artery - T,GTEX-1HFI7_Artery - T,GTEX-1HFI7,Artery - Tibial,54.5,50-59,female
+GTEX-1HFI7_Thyroid,GTEX-1HFI7_Thyroid,GTEX-1HFI7,Thyroid,54.5,50-59,female
+GTEX-1HSGN_Muscle - S,GTEX-1HSGN_Muscle - S,GTEX-1HSGN,Muscle - Skeletal,44.5,40-49,female
+GTEX-1HSGN_Whole Bloo,GTEX-1HSGN_Whole Bloo,GTEX-1HSGN,Whole Blood,44.5,40-49,female
+GTEX-1HSGN_Skin - Sun,GTEX-1HSGN_Skin - Sun,GTEX-1HSGN,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-1HSGN_Adipose - ,GTEX-1HSGN_Adipose - ,GTEX-1HSGN,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-1HSGN_Artery - T,GTEX-1HSGN_Artery - T,GTEX-1HSGN,Artery - Tibial,44.5,40-49,female
+GTEX-1HSGN_Thyroid,GTEX-1HSGN_Thyroid,GTEX-1HSGN,Thyroid,44.5,40-49,female
+GTEX-1HSKV_Muscle - S,GTEX-1HSKV_Muscle - S,GTEX-1HSKV,Muscle - Skeletal,64.5,60-79,male
+GTEX-1HSKV_Whole Bloo,GTEX-1HSKV_Whole Bloo,GTEX-1HSKV,Whole Blood,64.5,60-79,male
+GTEX-1HSKV_Skin - Sun,GTEX-1HSKV_Skin - Sun,GTEX-1HSKV,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1HSKV_Adipose - ,GTEX-1HSKV_Adipose - ,GTEX-1HSKV,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1HSKV_Artery - T,GTEX-1HSKV_Artery - T,GTEX-1HSKV,Artery - Tibial,64.5,60-79,male
+GTEX-1HSKV_Thyroid,GTEX-1HSKV_Thyroid,GTEX-1HSKV,Thyroid,64.5,60-79,male
+GTEX-1HSMQ_Muscle - S,GTEX-1HSMQ_Muscle - S,GTEX-1HSMQ,Muscle - Skeletal,54.5,50-59,male
+GTEX-1HSMQ_Whole Bloo,GTEX-1HSMQ_Whole Bloo,GTEX-1HSMQ,Whole Blood,54.5,50-59,male
+GTEX-1HSMQ_Skin - Sun,GTEX-1HSMQ_Skin - Sun,GTEX-1HSMQ,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1HSMQ_Adipose - ,GTEX-1HSMQ_Adipose - ,GTEX-1HSMQ,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1HSMQ_Artery - T,GTEX-1HSMQ_Artery - T,GTEX-1HSMQ,Artery - Tibial,54.5,50-59,male
+GTEX-1HSMQ_Thyroid,GTEX-1HSMQ_Thyroid,GTEX-1HSMQ,Thyroid,54.5,50-59,male
+GTEX-1HT8W_Muscle - S,GTEX-1HT8W_Muscle - S,GTEX-1HT8W,Muscle - Skeletal,34.5,20-39,male
+GTEX-1HT8W_Whole Bloo,GTEX-1HT8W_Whole Bloo,GTEX-1HT8W,Whole Blood,34.5,20-39,male
+GTEX-1HT8W_Skin - Sun,GTEX-1HT8W_Skin - Sun,GTEX-1HT8W,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1HT8W_Adipose - ,GTEX-1HT8W_Adipose - ,GTEX-1HT8W,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1HT8W_Artery - T,GTEX-1HT8W_Artery - T,GTEX-1HT8W,Artery - Tibial,34.5,20-39,male
+GTEX-1HT8W_Thyroid,GTEX-1HT8W_Thyroid,GTEX-1HT8W,Thyroid,34.5,20-39,male
+GTEX-1HUB1_Muscle - S,GTEX-1HUB1_Muscle - S,GTEX-1HUB1,Muscle - Skeletal,64.5,60-79,male
+GTEX-1HUB1_Whole Bloo,GTEX-1HUB1_Whole Bloo,GTEX-1HUB1,Whole Blood,64.5,60-79,male
+GTEX-1HUB1_Skin - Sun,GTEX-1HUB1_Skin - Sun,GTEX-1HUB1,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1HUB1_Adipose - ,GTEX-1HUB1_Adipose - ,GTEX-1HUB1,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1HUB1_Artery - T,GTEX-1HUB1_Artery - T,GTEX-1HUB1,Artery - Tibial,64.5,60-79,male
+GTEX-1HUB1_Thyroid,GTEX-1HUB1_Thyroid,GTEX-1HUB1,Thyroid,64.5,60-79,male
+GTEX-1I19N_Muscle - S,GTEX-1I19N_Muscle - S,GTEX-1I19N,Muscle - Skeletal,74.5,60-79,male
+GTEX-1I19N_Whole Bloo,GTEX-1I19N_Whole Bloo,GTEX-1I19N,Whole Blood,74.5,60-79,male
+GTEX-1I19N_Skin - Sun,GTEX-1I19N_Skin - Sun,GTEX-1I19N,Skin - Sun Exposed (Lower leg),74.5,60-79,male
+GTEX-1I19N_Adipose - ,GTEX-1I19N_Adipose - ,GTEX-1I19N,Adipose - Subcutaneous,74.5,60-79,male
+GTEX-1I19N_Artery - T,GTEX-1I19N_Artery - T,GTEX-1I19N,Artery - Tibial,74.5,60-79,male
+GTEX-1I19N_Thyroid,GTEX-1I19N_Thyroid,GTEX-1I19N,Thyroid,74.5,60-79,male
+GTEX-1I1GP_Muscle - S,GTEX-1I1GP_Muscle - S,GTEX-1I1GP,Muscle - Skeletal,54.5,50-59,male
+GTEX-1I1GP_Whole Bloo,GTEX-1I1GP_Whole Bloo,GTEX-1I1GP,Whole Blood,54.5,50-59,male
+GTEX-1I1GP_Skin - Sun,GTEX-1I1GP_Skin - Sun,GTEX-1I1GP,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1I1GP_Adipose - ,GTEX-1I1GP_Adipose - ,GTEX-1I1GP,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1I1GP_Artery - T,GTEX-1I1GP_Artery - T,GTEX-1I1GP,Artery - Tibial,54.5,50-59,male
+GTEX-1I1GP_Thyroid,GTEX-1I1GP_Thyroid,GTEX-1I1GP,Thyroid,54.5,50-59,male
+GTEX-1I1GQ_Muscle - S,GTEX-1I1GQ_Muscle - S,GTEX-1I1GQ,Muscle - Skeletal,54.5,50-59,male
+GTEX-1I1GQ_Whole Bloo,GTEX-1I1GQ_Whole Bloo,GTEX-1I1GQ,Whole Blood,54.5,50-59,male
+GTEX-1I1GQ_Skin - Sun,GTEX-1I1GQ_Skin - Sun,GTEX-1I1GQ,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1I1GQ_Adipose - ,GTEX-1I1GQ_Adipose - ,GTEX-1I1GQ,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1I1GQ_Artery - T,GTEX-1I1GQ_Artery - T,GTEX-1I1GQ,Artery - Tibial,54.5,50-59,male
+GTEX-1I1GQ_Thyroid,GTEX-1I1GQ_Thyroid,GTEX-1I1GQ,Thyroid,54.5,50-59,male
+GTEX-1I1GR_Muscle - S,GTEX-1I1GR_Muscle - S,GTEX-1I1GR,Muscle - Skeletal,64.5,60-79,male
+GTEX-1I1GR_Whole Bloo,GTEX-1I1GR_Whole Bloo,GTEX-1I1GR,Whole Blood,64.5,60-79,male
+GTEX-1I1GR_Skin - Sun,GTEX-1I1GR_Skin - Sun,GTEX-1I1GR,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1I1GR_Adipose - ,GTEX-1I1GR_Adipose - ,GTEX-1I1GR,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1I1GR_Artery - T,GTEX-1I1GR_Artery - T,GTEX-1I1GR,Artery - Tibial,64.5,60-79,male
+GTEX-1I1GR_Thyroid,GTEX-1I1GR_Thyroid,GTEX-1I1GR,Thyroid,64.5,60-79,male
+GTEX-1I1GT_Muscle - S,GTEX-1I1GT_Muscle - S,GTEX-1I1GT,Muscle - Skeletal,64.5,60-79,female
+GTEX-1I1GT_Whole Bloo,GTEX-1I1GT_Whole Bloo,GTEX-1I1GT,Whole Blood,64.5,60-79,female
+GTEX-1I1GT_Skin - Sun,GTEX-1I1GT_Skin - Sun,GTEX-1I1GT,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1I1GT_Adipose - ,GTEX-1I1GT_Adipose - ,GTEX-1I1GT,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1I1GT_Artery - T,GTEX-1I1GT_Artery - T,GTEX-1I1GT,Artery - Tibial,64.5,60-79,female
+GTEX-1I1GT_Thyroid,GTEX-1I1GT_Thyroid,GTEX-1I1GT,Thyroid,64.5,60-79,female
+GTEX-1I1GV_Muscle - S,GTEX-1I1GV_Muscle - S,GTEX-1I1GV,Muscle - Skeletal,64.5,60-79,male
+GTEX-1I1GV_Whole Bloo,GTEX-1I1GV_Whole Bloo,GTEX-1I1GV,Whole Blood,64.5,60-79,male
+GTEX-1I1GV_Skin - Sun,GTEX-1I1GV_Skin - Sun,GTEX-1I1GV,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1I1GV_Adipose - ,GTEX-1I1GV_Adipose - ,GTEX-1I1GV,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1I1GV_Artery - T,GTEX-1I1GV_Artery - T,GTEX-1I1GV,Artery - Tibial,64.5,60-79,male
+GTEX-1I1GV_Thyroid,GTEX-1I1GV_Thyroid,GTEX-1I1GV,Thyroid,64.5,60-79,male
+GTEX-1I6K6_Muscle - S,GTEX-1I6K6_Muscle - S,GTEX-1I6K6,Muscle - Skeletal,34.5,20-39,male
+GTEX-1I6K6_Whole Bloo,GTEX-1I6K6_Whole Bloo,GTEX-1I6K6,Whole Blood,34.5,20-39,male
+GTEX-1I6K6_Skin - Sun,GTEX-1I6K6_Skin - Sun,GTEX-1I6K6,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1I6K6_Adipose - ,GTEX-1I6K6_Adipose - ,GTEX-1I6K6,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1I6K6_Artery - T,GTEX-1I6K6_Artery - T,GTEX-1I6K6,Artery - Tibial,34.5,20-39,male
+GTEX-1I6K6_Thyroid,GTEX-1I6K6_Thyroid,GTEX-1I6K6,Thyroid,34.5,20-39,male
+GTEX-1ICG6_Muscle - S,GTEX-1ICG6_Muscle - S,GTEX-1ICG6,Muscle - Skeletal,74.5,60-79,female
+GTEX-1ICG6_Whole Bloo,GTEX-1ICG6_Whole Bloo,GTEX-1ICG6,Whole Blood,74.5,60-79,female
+GTEX-1ICG6_Skin - Sun,GTEX-1ICG6_Skin - Sun,GTEX-1ICG6,Skin - Sun Exposed (Lower leg),74.5,60-79,female
+GTEX-1ICG6_Adipose - ,GTEX-1ICG6_Adipose - ,GTEX-1ICG6,Adipose - Subcutaneous,74.5,60-79,female
+GTEX-1ICG6_Artery - T,GTEX-1ICG6_Artery - T,GTEX-1ICG6,Artery - Tibial,74.5,60-79,female
+GTEX-1ICG6_Thyroid,GTEX-1ICG6_Thyroid,GTEX-1ICG6,Thyroid,74.5,60-79,female
+GTEX-1ICLY_Muscle - S,GTEX-1ICLY_Muscle - S,GTEX-1ICLY,Muscle - Skeletal,54.5,50-59,male
+GTEX-1ICLY_Whole Bloo,GTEX-1ICLY_Whole Bloo,GTEX-1ICLY,Whole Blood,54.5,50-59,male
+GTEX-1ICLY_Skin - Sun,GTEX-1ICLY_Skin - Sun,GTEX-1ICLY,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1ICLY_Adipose - ,GTEX-1ICLY_Adipose - ,GTEX-1ICLY,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1ICLY_Artery - T,GTEX-1ICLY_Artery - T,GTEX-1ICLY,Artery - Tibial,54.5,50-59,male
+GTEX-1ICLY_Thyroid,GTEX-1ICLY_Thyroid,GTEX-1ICLY,Thyroid,54.5,50-59,male
+GTEX-1IDJU_Muscle - S,GTEX-1IDJU_Muscle - S,GTEX-1IDJU,Muscle - Skeletal,64.5,60-79,female
+GTEX-1IDJU_Whole Bloo,GTEX-1IDJU_Whole Bloo,GTEX-1IDJU,Whole Blood,64.5,60-79,female
+GTEX-1IDJU_Skin - Sun,GTEX-1IDJU_Skin - Sun,GTEX-1IDJU,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1IDJU_Adipose - ,GTEX-1IDJU_Adipose - ,GTEX-1IDJU,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1IDJU_Artery - T,GTEX-1IDJU_Artery - T,GTEX-1IDJU,Artery - Tibial,64.5,60-79,female
+GTEX-1IDJU_Thyroid,GTEX-1IDJU_Thyroid,GTEX-1IDJU,Thyroid,64.5,60-79,female
+GTEX-1IE54_Muscle - S,GTEX-1IE54_Muscle - S,GTEX-1IE54,Muscle - Skeletal,44.5,40-49,female
+GTEX-1IE54_Whole Bloo,GTEX-1IE54_Whole Bloo,GTEX-1IE54,Whole Blood,44.5,40-49,female
+GTEX-1IE54_Skin - Sun,GTEX-1IE54_Skin - Sun,GTEX-1IE54,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-1IE54_Adipose - ,GTEX-1IE54_Adipose - ,GTEX-1IE54,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-1IE54_Artery - T,GTEX-1IE54_Artery - T,GTEX-1IE54,Artery - Tibial,44.5,40-49,female
+GTEX-1IE54_Thyroid,GTEX-1IE54_Thyroid,GTEX-1IE54,Thyroid,44.5,40-49,female
+GTEX-1IGQW_Muscle - S,GTEX-1IGQW_Muscle - S,GTEX-1IGQW,Muscle - Skeletal,64.5,60-79,male
+GTEX-1IGQW_Whole Bloo,GTEX-1IGQW_Whole Bloo,GTEX-1IGQW,Whole Blood,64.5,60-79,male
+GTEX-1IGQW_Skin - Sun,GTEX-1IGQW_Skin - Sun,GTEX-1IGQW,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1IGQW_Adipose - ,GTEX-1IGQW_Adipose - ,GTEX-1IGQW,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1IGQW_Artery - T,GTEX-1IGQW_Artery - T,GTEX-1IGQW,Artery - Tibial,64.5,60-79,male
+GTEX-1IGQW_Thyroid,GTEX-1IGQW_Thyroid,GTEX-1IGQW,Thyroid,64.5,60-79,male
+GTEX-1IKJJ_Muscle - S,GTEX-1IKJJ_Muscle - S,GTEX-1IKJJ,Muscle - Skeletal,64.5,60-79,male
+GTEX-1IKJJ_Whole Bloo,GTEX-1IKJJ_Whole Bloo,GTEX-1IKJJ,Whole Blood,64.5,60-79,male
+GTEX-1IKJJ_Skin - Sun,GTEX-1IKJJ_Skin - Sun,GTEX-1IKJJ,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1IKJJ_Adipose - ,GTEX-1IKJJ_Adipose - ,GTEX-1IKJJ,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1IKJJ_Artery - T,GTEX-1IKJJ_Artery - T,GTEX-1IKJJ,Artery - Tibial,64.5,60-79,male
+GTEX-1IKJJ_Thyroid,GTEX-1IKJJ_Thyroid,GTEX-1IKJJ,Thyroid,64.5,60-79,male
+GTEX-1IL2U_Muscle - S,GTEX-1IL2U_Muscle - S,GTEX-1IL2U,Muscle - Skeletal,64.5,60-79,male
+GTEX-1IL2U_Whole Bloo,GTEX-1IL2U_Whole Bloo,GTEX-1IL2U,Whole Blood,64.5,60-79,male
+GTEX-1IL2U_Skin - Sun,GTEX-1IL2U_Skin - Sun,GTEX-1IL2U,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1IL2U_Adipose - ,GTEX-1IL2U_Adipose - ,GTEX-1IL2U,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1IL2U_Artery - T,GTEX-1IL2U_Artery - T,GTEX-1IL2U,Artery - Tibial,64.5,60-79,male
+GTEX-1IL2U_Thyroid,GTEX-1IL2U_Thyroid,GTEX-1IL2U,Thyroid,64.5,60-79,male
+GTEX-1IL2V_Muscle - S,GTEX-1IL2V_Muscle - S,GTEX-1IL2V,Muscle - Skeletal,74.5,60-79,male
+GTEX-1IL2V_Whole Bloo,GTEX-1IL2V_Whole Bloo,GTEX-1IL2V,Whole Blood,74.5,60-79,male
+GTEX-1IL2V_Skin - Sun,GTEX-1IL2V_Skin - Sun,GTEX-1IL2V,Skin - Sun Exposed (Lower leg),74.5,60-79,male
+GTEX-1IL2V_Adipose - ,GTEX-1IL2V_Adipose - ,GTEX-1IL2V,Adipose - Subcutaneous,74.5,60-79,male
+GTEX-1IL2V_Artery - T,GTEX-1IL2V_Artery - T,GTEX-1IL2V,Artery - Tibial,74.5,60-79,male
+GTEX-1IL2V_Thyroid,GTEX-1IL2V_Thyroid,GTEX-1IL2V,Thyroid,74.5,60-79,male
+GTEX-1IOXB_Muscle - S,GTEX-1IOXB_Muscle - S,GTEX-1IOXB,Muscle - Skeletal,54.5,50-59,male
+GTEX-1IOXB_Whole Bloo,GTEX-1IOXB_Whole Bloo,GTEX-1IOXB,Whole Blood,54.5,50-59,male
+GTEX-1IOXB_Skin - Sun,GTEX-1IOXB_Skin - Sun,GTEX-1IOXB,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1IOXB_Adipose - ,GTEX-1IOXB_Adipose - ,GTEX-1IOXB,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1IOXB_Artery - T,GTEX-1IOXB_Artery - T,GTEX-1IOXB,Artery - Tibial,54.5,50-59,male
+GTEX-1IOXB_Thyroid,GTEX-1IOXB_Thyroid,GTEX-1IOXB,Thyroid,54.5,50-59,male
+GTEX-1J8EW_Muscle - S,GTEX-1J8EW_Muscle - S,GTEX-1J8EW,Muscle - Skeletal,64.5,60-79,female
+GTEX-1J8EW_Whole Bloo,GTEX-1J8EW_Whole Bloo,GTEX-1J8EW,Whole Blood,64.5,60-79,female
+GTEX-1J8EW_Skin - Sun,GTEX-1J8EW_Skin - Sun,GTEX-1J8EW,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1J8EW_Adipose - ,GTEX-1J8EW_Adipose - ,GTEX-1J8EW,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1J8EW_Artery - T,GTEX-1J8EW_Artery - T,GTEX-1J8EW,Artery - Tibial,64.5,60-79,female
+GTEX-1J8EW_Thyroid,GTEX-1J8EW_Thyroid,GTEX-1J8EW,Thyroid,64.5,60-79,female
+GTEX-1J8JJ_Muscle - S,GTEX-1J8JJ_Muscle - S,GTEX-1J8JJ,Muscle - Skeletal,64.5,60-79,female
+GTEX-1J8JJ_Whole Bloo,GTEX-1J8JJ_Whole Bloo,GTEX-1J8JJ,Whole Blood,64.5,60-79,female
+GTEX-1J8JJ_Skin - Sun,GTEX-1J8JJ_Skin - Sun,GTEX-1J8JJ,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-1J8JJ_Adipose - ,GTEX-1J8JJ_Adipose - ,GTEX-1J8JJ,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-1J8JJ_Artery - T,GTEX-1J8JJ_Artery - T,GTEX-1J8JJ,Artery - Tibial,64.5,60-79,female
+GTEX-1J8JJ_Thyroid,GTEX-1J8JJ_Thyroid,GTEX-1J8JJ,Thyroid,64.5,60-79,female
+GTEX-1J8Q3_Muscle - S,GTEX-1J8Q3_Muscle - S,GTEX-1J8Q3,Muscle - Skeletal,64.5,60-79,male
+GTEX-1J8Q3_Whole Bloo,GTEX-1J8Q3_Whole Bloo,GTEX-1J8Q3,Whole Blood,64.5,60-79,male
+GTEX-1J8Q3_Skin - Sun,GTEX-1J8Q3_Skin - Sun,GTEX-1J8Q3,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1J8Q3_Adipose - ,GTEX-1J8Q3_Adipose - ,GTEX-1J8Q3,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1J8Q3_Artery - T,GTEX-1J8Q3_Artery - T,GTEX-1J8Q3,Artery - Tibial,64.5,60-79,male
+GTEX-1J8Q3_Thyroid,GTEX-1J8Q3_Thyroid,GTEX-1J8Q3,Thyroid,64.5,60-79,male
+GTEX-1JJ6O_Muscle - S,GTEX-1JJ6O_Muscle - S,GTEX-1JJ6O,Muscle - Skeletal,64.5,60-79,male
+GTEX-1JJ6O_Whole Bloo,GTEX-1JJ6O_Whole Bloo,GTEX-1JJ6O,Whole Blood,64.5,60-79,male
+GTEX-1JJ6O_Skin - Sun,GTEX-1JJ6O_Skin - Sun,GTEX-1JJ6O,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1JJ6O_Adipose - ,GTEX-1JJ6O_Adipose - ,GTEX-1JJ6O,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1JJ6O_Artery - T,GTEX-1JJ6O_Artery - T,GTEX-1JJ6O,Artery - Tibial,64.5,60-79,male
+GTEX-1JJ6O_Thyroid,GTEX-1JJ6O_Thyroid,GTEX-1JJ6O,Thyroid,64.5,60-79,male
+GTEX-1JJEA_Muscle - S,GTEX-1JJEA_Muscle - S,GTEX-1JJEA,Muscle - Skeletal,64.5,60-79,male
+GTEX-1JJEA_Whole Bloo,GTEX-1JJEA_Whole Bloo,GTEX-1JJEA,Whole Blood,64.5,60-79,male
+GTEX-1JJEA_Skin - Sun,GTEX-1JJEA_Skin - Sun,GTEX-1JJEA,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1JJEA_Adipose - ,GTEX-1JJEA_Adipose - ,GTEX-1JJEA,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1JJEA_Artery - T,GTEX-1JJEA_Artery - T,GTEX-1JJEA,Artery - Tibial,64.5,60-79,male
+GTEX-1JJEA_Thyroid,GTEX-1JJEA_Thyroid,GTEX-1JJEA,Thyroid,64.5,60-79,male
+GTEX-1JK1U_Muscle - S,GTEX-1JK1U_Muscle - S,GTEX-1JK1U,Muscle - Skeletal,64.5,60-79,male
+GTEX-1JK1U_Whole Bloo,GTEX-1JK1U_Whole Bloo,GTEX-1JK1U,Whole Blood,64.5,60-79,male
+GTEX-1JK1U_Skin - Sun,GTEX-1JK1U_Skin - Sun,GTEX-1JK1U,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1JK1U_Adipose - ,GTEX-1JK1U_Adipose - ,GTEX-1JK1U,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1JK1U_Artery - T,GTEX-1JK1U_Artery - T,GTEX-1JK1U,Artery - Tibial,64.5,60-79,male
+GTEX-1JK1U_Thyroid,GTEX-1JK1U_Thyroid,GTEX-1JK1U,Thyroid,64.5,60-79,male
+GTEX-1JKYN_Muscle - S,GTEX-1JKYN_Muscle - S,GTEX-1JKYN,Muscle - Skeletal,34.5,20-39,male
+GTEX-1JKYN_Whole Bloo,GTEX-1JKYN_Whole Bloo,GTEX-1JKYN,Whole Blood,34.5,20-39,male
+GTEX-1JKYN_Skin - Sun,GTEX-1JKYN_Skin - Sun,GTEX-1JKYN,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1JKYN_Adipose - ,GTEX-1JKYN_Adipose - ,GTEX-1JKYN,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1JKYN_Artery - T,GTEX-1JKYN_Artery - T,GTEX-1JKYN,Artery - Tibial,34.5,20-39,male
+GTEX-1JKYN_Thyroid,GTEX-1JKYN_Thyroid,GTEX-1JKYN,Thyroid,34.5,20-39,male
+GTEX-1JKYR_Muscle - S,GTEX-1JKYR_Muscle - S,GTEX-1JKYR,Muscle - Skeletal,24.5,20-39,male
+GTEX-1JKYR_Whole Bloo,GTEX-1JKYR_Whole Bloo,GTEX-1JKYR,Whole Blood,24.5,20-39,male
+GTEX-1JKYR_Skin - Sun,GTEX-1JKYR_Skin - Sun,GTEX-1JKYR,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-1JKYR_Adipose - ,GTEX-1JKYR_Adipose - ,GTEX-1JKYR,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-1JKYR_Artery - T,GTEX-1JKYR_Artery - T,GTEX-1JKYR,Artery - Tibial,24.5,20-39,male
+GTEX-1JKYR_Thyroid,GTEX-1JKYR_Thyroid,GTEX-1JKYR,Thyroid,24.5,20-39,male
+GTEX-1JMLX_Muscle - S,GTEX-1JMLX_Muscle - S,GTEX-1JMLX,Muscle - Skeletal,54.5,50-59,male
+GTEX-1JMLX_Whole Bloo,GTEX-1JMLX_Whole Bloo,GTEX-1JMLX,Whole Blood,54.5,50-59,male
+GTEX-1JMLX_Skin - Sun,GTEX-1JMLX_Skin - Sun,GTEX-1JMLX,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1JMLX_Adipose - ,GTEX-1JMLX_Adipose - ,GTEX-1JMLX,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1JMLX_Artery - T,GTEX-1JMLX_Artery - T,GTEX-1JMLX,Artery - Tibial,54.5,50-59,male
+GTEX-1JMLX_Thyroid,GTEX-1JMLX_Thyroid,GTEX-1JMLX,Thyroid,54.5,50-59,male
+GTEX-1JMPY_Muscle - S,GTEX-1JMPY_Muscle - S,GTEX-1JMPY,Muscle - Skeletal,34.5,20-39,male
+GTEX-1JMPY_Whole Bloo,GTEX-1JMPY_Whole Bloo,GTEX-1JMPY,Whole Blood,34.5,20-39,male
+GTEX-1JMPY_Skin - Sun,GTEX-1JMPY_Skin - Sun,GTEX-1JMPY,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1JMPY_Adipose - ,GTEX-1JMPY_Adipose - ,GTEX-1JMPY,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1JMPY_Artery - T,GTEX-1JMPY_Artery - T,GTEX-1JMPY,Artery - Tibial,34.5,20-39,male
+GTEX-1JMPY_Thyroid,GTEX-1JMPY_Thyroid,GTEX-1JMPY,Thyroid,34.5,20-39,male
+GTEX-1JMQK_Muscle - S,GTEX-1JMQK_Muscle - S,GTEX-1JMQK,Muscle - Skeletal,64.5,60-79,male
+GTEX-1JMQK_Whole Bloo,GTEX-1JMQK_Whole Bloo,GTEX-1JMQK,Whole Blood,64.5,60-79,male
+GTEX-1JMQK_Skin - Sun,GTEX-1JMQK_Skin - Sun,GTEX-1JMQK,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1JMQK_Adipose - ,GTEX-1JMQK_Adipose - ,GTEX-1JMQK,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1JMQK_Artery - T,GTEX-1JMQK_Artery - T,GTEX-1JMQK,Artery - Tibial,64.5,60-79,male
+GTEX-1JMQK_Thyroid,GTEX-1JMQK_Thyroid,GTEX-1JMQK,Thyroid,64.5,60-79,male
+GTEX-1JN6P_Muscle - S,GTEX-1JN6P_Muscle - S,GTEX-1JN6P,Muscle - Skeletal,64.5,60-79,male
+GTEX-1JN6P_Whole Bloo,GTEX-1JN6P_Whole Bloo,GTEX-1JN6P,Whole Blood,64.5,60-79,male
+GTEX-1JN6P_Skin - Sun,GTEX-1JN6P_Skin - Sun,GTEX-1JN6P,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1JN6P_Adipose - ,GTEX-1JN6P_Adipose - ,GTEX-1JN6P,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1JN6P_Artery - T,GTEX-1JN6P_Artery - T,GTEX-1JN6P,Artery - Tibial,64.5,60-79,male
+GTEX-1JN6P_Thyroid,GTEX-1JN6P_Thyroid,GTEX-1JN6P,Thyroid,64.5,60-79,male
+GTEX-1K2DA_Muscle - S,GTEX-1K2DA_Muscle - S,GTEX-1K2DA,Muscle - Skeletal,54.5,50-59,male
+GTEX-1K2DA_Whole Bloo,GTEX-1K2DA_Whole Bloo,GTEX-1K2DA,Whole Blood,54.5,50-59,male
+GTEX-1K2DA_Skin - Sun,GTEX-1K2DA_Skin - Sun,GTEX-1K2DA,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1K2DA_Adipose - ,GTEX-1K2DA_Adipose - ,GTEX-1K2DA,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1K2DA_Artery - T,GTEX-1K2DA_Artery - T,GTEX-1K2DA,Artery - Tibial,54.5,50-59,male
+GTEX-1K2DA_Thyroid,GTEX-1K2DA_Thyroid,GTEX-1K2DA,Thyroid,54.5,50-59,male
+GTEX-1K9T9_Muscle - S,GTEX-1K9T9_Muscle - S,GTEX-1K9T9,Muscle - Skeletal,54.5,50-59,female
+GTEX-1K9T9_Whole Bloo,GTEX-1K9T9_Whole Bloo,GTEX-1K9T9,Whole Blood,54.5,50-59,female
+GTEX-1K9T9_Skin - Sun,GTEX-1K9T9_Skin - Sun,GTEX-1K9T9,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1K9T9_Adipose - ,GTEX-1K9T9_Adipose - ,GTEX-1K9T9,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1K9T9_Artery - T,GTEX-1K9T9_Artery - T,GTEX-1K9T9,Artery - Tibial,54.5,50-59,female
+GTEX-1K9T9_Thyroid,GTEX-1K9T9_Thyroid,GTEX-1K9T9,Thyroid,54.5,50-59,female
+GTEX-1KAFJ_Muscle - S,GTEX-1KAFJ_Muscle - S,GTEX-1KAFJ,Muscle - Skeletal,54.5,50-59,male
+GTEX-1KAFJ_Whole Bloo,GTEX-1KAFJ_Whole Bloo,GTEX-1KAFJ,Whole Blood,54.5,50-59,male
+GTEX-1KAFJ_Skin - Sun,GTEX-1KAFJ_Skin - Sun,GTEX-1KAFJ,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1KAFJ_Adipose - ,GTEX-1KAFJ_Adipose - ,GTEX-1KAFJ,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1KAFJ_Artery - T,GTEX-1KAFJ_Artery - T,GTEX-1KAFJ,Artery - Tibial,54.5,50-59,male
+GTEX-1KAFJ_Thyroid,GTEX-1KAFJ_Thyroid,GTEX-1KAFJ,Thyroid,54.5,50-59,male
+GTEX-1KD5A_Muscle - S,GTEX-1KD5A_Muscle - S,GTEX-1KD5A,Muscle - Skeletal,54.5,50-59,male
+GTEX-1KD5A_Whole Bloo,GTEX-1KD5A_Whole Bloo,GTEX-1KD5A,Whole Blood,54.5,50-59,male
+GTEX-1KD5A_Skin - Sun,GTEX-1KD5A_Skin - Sun,GTEX-1KD5A,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1KD5A_Adipose - ,GTEX-1KD5A_Adipose - ,GTEX-1KD5A,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1KD5A_Artery - T,GTEX-1KD5A_Artery - T,GTEX-1KD5A,Artery - Tibial,54.5,50-59,male
+GTEX-1KD5A_Thyroid,GTEX-1KD5A_Thyroid,GTEX-1KD5A,Thyroid,54.5,50-59,male
+GTEX-1LB8K_Muscle - S,GTEX-1LB8K_Muscle - S,GTEX-1LB8K,Muscle - Skeletal,54.5,50-59,male
+GTEX-1LB8K_Whole Bloo,GTEX-1LB8K_Whole Bloo,GTEX-1LB8K,Whole Blood,54.5,50-59,male
+GTEX-1LB8K_Skin - Sun,GTEX-1LB8K_Skin - Sun,GTEX-1LB8K,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1LB8K_Adipose - ,GTEX-1LB8K_Adipose - ,GTEX-1LB8K,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1LB8K_Artery - T,GTEX-1LB8K_Artery - T,GTEX-1LB8K,Artery - Tibial,54.5,50-59,male
+GTEX-1LB8K_Thyroid,GTEX-1LB8K_Thyroid,GTEX-1LB8K,Thyroid,54.5,50-59,male
+GTEX-1LBAC_Muscle - S,GTEX-1LBAC_Muscle - S,GTEX-1LBAC,Muscle - Skeletal,24.5,20-39,male
+GTEX-1LBAC_Whole Bloo,GTEX-1LBAC_Whole Bloo,GTEX-1LBAC,Whole Blood,24.5,20-39,male
+GTEX-1LBAC_Skin - Sun,GTEX-1LBAC_Skin - Sun,GTEX-1LBAC,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-1LBAC_Adipose - ,GTEX-1LBAC_Adipose - ,GTEX-1LBAC,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-1LBAC_Artery - T,GTEX-1LBAC_Artery - T,GTEX-1LBAC,Artery - Tibial,24.5,20-39,male
+GTEX-1LBAC_Thyroid,GTEX-1LBAC_Thyroid,GTEX-1LBAC,Thyroid,24.5,20-39,male
+GTEX-1LG7Y_Muscle - S,GTEX-1LG7Y_Muscle - S,GTEX-1LG7Y,Muscle - Skeletal,54.5,50-59,male
+GTEX-1LG7Y_Whole Bloo,GTEX-1LG7Y_Whole Bloo,GTEX-1LG7Y,Whole Blood,54.5,50-59,male
+GTEX-1LG7Y_Skin - Sun,GTEX-1LG7Y_Skin - Sun,GTEX-1LG7Y,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1LG7Y_Adipose - ,GTEX-1LG7Y_Adipose - ,GTEX-1LG7Y,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1LG7Y_Artery - T,GTEX-1LG7Y_Artery - T,GTEX-1LG7Y,Artery - Tibial,54.5,50-59,male
+GTEX-1LG7Y_Thyroid,GTEX-1LG7Y_Thyroid,GTEX-1LG7Y,Thyroid,54.5,50-59,male
+GTEX-1LG7Z_Muscle - S,GTEX-1LG7Z_Muscle - S,GTEX-1LG7Z,Muscle - Skeletal,34.5,20-39,male
+GTEX-1LG7Z_Whole Bloo,GTEX-1LG7Z_Whole Bloo,GTEX-1LG7Z,Whole Blood,34.5,20-39,male
+GTEX-1LG7Z_Skin - Sun,GTEX-1LG7Z_Skin - Sun,GTEX-1LG7Z,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1LG7Z_Adipose - ,GTEX-1LG7Z_Adipose - ,GTEX-1LG7Z,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1LG7Z_Artery - T,GTEX-1LG7Z_Artery - T,GTEX-1LG7Z,Artery - Tibial,34.5,20-39,male
+GTEX-1LG7Z_Thyroid,GTEX-1LG7Z_Thyroid,GTEX-1LG7Z,Thyroid,34.5,20-39,male
+GTEX-1LGOU_Muscle - S,GTEX-1LGOU_Muscle - S,GTEX-1LGOU,Muscle - Skeletal,24.5,20-39,female
+GTEX-1LGOU_Whole Bloo,GTEX-1LGOU_Whole Bloo,GTEX-1LGOU,Whole Blood,24.5,20-39,female
+GTEX-1LGOU_Skin - Sun,GTEX-1LGOU_Skin - Sun,GTEX-1LGOU,Skin - Sun Exposed (Lower leg),24.5,20-39,female
+GTEX-1LGOU_Adipose - ,GTEX-1LGOU_Adipose - ,GTEX-1LGOU,Adipose - Subcutaneous,24.5,20-39,female
+GTEX-1LGOU_Artery - T,GTEX-1LGOU_Artery - T,GTEX-1LGOU,Artery - Tibial,24.5,20-39,female
+GTEX-1LGOU_Thyroid,GTEX-1LGOU_Thyroid,GTEX-1LGOU,Thyroid,24.5,20-39,female
+GTEX-1LGRB_Muscle - S,GTEX-1LGRB_Muscle - S,GTEX-1LGRB,Muscle - Skeletal,54.5,50-59,female
+GTEX-1LGRB_Whole Bloo,GTEX-1LGRB_Whole Bloo,GTEX-1LGRB,Whole Blood,54.5,50-59,female
+GTEX-1LGRB_Skin - Sun,GTEX-1LGRB_Skin - Sun,GTEX-1LGRB,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1LGRB_Adipose - ,GTEX-1LGRB_Adipose - ,GTEX-1LGRB,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1LGRB_Artery - T,GTEX-1LGRB_Artery - T,GTEX-1LGRB,Artery - Tibial,54.5,50-59,female
+GTEX-1LGRB_Thyroid,GTEX-1LGRB_Thyroid,GTEX-1LGRB,Thyroid,54.5,50-59,female
+GTEX-1LVAN_Muscle - S,GTEX-1LVAN_Muscle - S,GTEX-1LVAN,Muscle - Skeletal,54.5,50-59,female
+GTEX-1LVAN_Whole Bloo,GTEX-1LVAN_Whole Bloo,GTEX-1LVAN,Whole Blood,54.5,50-59,female
+GTEX-1LVAN_Skin - Sun,GTEX-1LVAN_Skin - Sun,GTEX-1LVAN,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-1LVAN_Adipose - ,GTEX-1LVAN_Adipose - ,GTEX-1LVAN,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-1LVAN_Artery - T,GTEX-1LVAN_Artery - T,GTEX-1LVAN,Artery - Tibial,54.5,50-59,female
+GTEX-1LVAN_Thyroid,GTEX-1LVAN_Thyroid,GTEX-1LVAN,Thyroid,54.5,50-59,female
+GTEX-1MUQO_Muscle - S,GTEX-1MUQO_Muscle - S,GTEX-1MUQO,Muscle - Skeletal,64.5,60-79,male
+GTEX-1MUQO_Whole Bloo,GTEX-1MUQO_Whole Bloo,GTEX-1MUQO,Whole Blood,64.5,60-79,male
+GTEX-1MUQO_Skin - Sun,GTEX-1MUQO_Skin - Sun,GTEX-1MUQO,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1MUQO_Adipose - ,GTEX-1MUQO_Adipose - ,GTEX-1MUQO,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1MUQO_Artery - T,GTEX-1MUQO_Artery - T,GTEX-1MUQO,Artery - Tibial,64.5,60-79,male
+GTEX-1MUQO_Thyroid,GTEX-1MUQO_Thyroid,GTEX-1MUQO,Thyroid,64.5,60-79,male
+GTEX-1OFPY_Muscle - S,GTEX-1OFPY_Muscle - S,GTEX-1OFPY,Muscle - Skeletal,64.5,60-79,male
+GTEX-1OFPY_Whole Bloo,GTEX-1OFPY_Whole Bloo,GTEX-1OFPY,Whole Blood,64.5,60-79,male
+GTEX-1OFPY_Skin - Sun,GTEX-1OFPY_Skin - Sun,GTEX-1OFPY,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1OFPY_Adipose - ,GTEX-1OFPY_Adipose - ,GTEX-1OFPY,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1OFPY_Artery - T,GTEX-1OFPY_Artery - T,GTEX-1OFPY,Artery - Tibial,64.5,60-79,male
+GTEX-1OFPY_Thyroid,GTEX-1OFPY_Thyroid,GTEX-1OFPY,Thyroid,64.5,60-79,male
+GTEX-1PIGE_Muscle - S,GTEX-1PIGE_Muscle - S,GTEX-1PIGE,Muscle - Skeletal,24.5,20-39,male
+GTEX-1PIGE_Whole Bloo,GTEX-1PIGE_Whole Bloo,GTEX-1PIGE,Whole Blood,24.5,20-39,male
+GTEX-1PIGE_Skin - Sun,GTEX-1PIGE_Skin - Sun,GTEX-1PIGE,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-1PIGE_Adipose - ,GTEX-1PIGE_Adipose - ,GTEX-1PIGE,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-1PIGE_Artery - T,GTEX-1PIGE_Artery - T,GTEX-1PIGE,Artery - Tibial,24.5,20-39,male
+GTEX-1PIGE_Thyroid,GTEX-1PIGE_Thyroid,GTEX-1PIGE,Thyroid,24.5,20-39,male
+GTEX-1PIIG_Muscle - S,GTEX-1PIIG_Muscle - S,GTEX-1PIIG,Muscle - Skeletal,34.5,20-39,male
+GTEX-1PIIG_Whole Bloo,GTEX-1PIIG_Whole Bloo,GTEX-1PIIG,Whole Blood,34.5,20-39,male
+GTEX-1PIIG_Skin - Sun,GTEX-1PIIG_Skin - Sun,GTEX-1PIIG,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1PIIG_Adipose - ,GTEX-1PIIG_Adipose - ,GTEX-1PIIG,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1PIIG_Artery - T,GTEX-1PIIG_Artery - T,GTEX-1PIIG,Artery - Tibial,34.5,20-39,male
+GTEX-1PIIG_Thyroid,GTEX-1PIIG_Thyroid,GTEX-1PIIG,Thyroid,34.5,20-39,male
+GTEX-1PPH8_Muscle - S,GTEX-1PPH8_Muscle - S,GTEX-1PPH8,Muscle - Skeletal,24.5,20-39,male
+GTEX-1PPH8_Whole Bloo,GTEX-1PPH8_Whole Bloo,GTEX-1PPH8,Whole Blood,24.5,20-39,male
+GTEX-1PPH8_Skin - Sun,GTEX-1PPH8_Skin - Sun,GTEX-1PPH8,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-1PPH8_Adipose - ,GTEX-1PPH8_Adipose - ,GTEX-1PPH8,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-1PPH8_Artery - T,GTEX-1PPH8_Artery - T,GTEX-1PPH8,Artery - Tibial,24.5,20-39,male
+GTEX-1PPH8_Thyroid,GTEX-1PPH8_Thyroid,GTEX-1PPH8,Thyroid,24.5,20-39,male
+GTEX-1PWST_Muscle - S,GTEX-1PWST_Muscle - S,GTEX-1PWST,Muscle - Skeletal,74.5,60-79,male
+GTEX-1PWST_Whole Bloo,GTEX-1PWST_Whole Bloo,GTEX-1PWST,Whole Blood,74.5,60-79,male
+GTEX-1PWST_Skin - Sun,GTEX-1PWST_Skin - Sun,GTEX-1PWST,Skin - Sun Exposed (Lower leg),74.5,60-79,male
+GTEX-1PWST_Adipose - ,GTEX-1PWST_Adipose - ,GTEX-1PWST,Adipose - Subcutaneous,74.5,60-79,male
+GTEX-1PWST_Artery - T,GTEX-1PWST_Artery - T,GTEX-1PWST,Artery - Tibial,74.5,60-79,male
+GTEX-1PWST_Thyroid,GTEX-1PWST_Thyroid,GTEX-1PWST,Thyroid,74.5,60-79,male
+GTEX-1QAET_Muscle - S,GTEX-1QAET_Muscle - S,GTEX-1QAET,Muscle - Skeletal,54.5,50-59,male
+GTEX-1QAET_Whole Bloo,GTEX-1QAET_Whole Bloo,GTEX-1QAET,Whole Blood,54.5,50-59,male
+GTEX-1QAET_Skin - Sun,GTEX-1QAET_Skin - Sun,GTEX-1QAET,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-1QAET_Adipose - ,GTEX-1QAET_Adipose - ,GTEX-1QAET,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-1QAET_Artery - T,GTEX-1QAET_Artery - T,GTEX-1QAET,Artery - Tibial,54.5,50-59,male
+GTEX-1QAET_Thyroid,GTEX-1QAET_Thyroid,GTEX-1QAET,Thyroid,54.5,50-59,male
+GTEX-1QCLY_Muscle - S,GTEX-1QCLY_Muscle - S,GTEX-1QCLY,Muscle - Skeletal,34.5,20-39,male
+GTEX-1QCLY_Whole Bloo,GTEX-1QCLY_Whole Bloo,GTEX-1QCLY,Whole Blood,34.5,20-39,male
+GTEX-1QCLY_Skin - Sun,GTEX-1QCLY_Skin - Sun,GTEX-1QCLY,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1QCLY_Adipose - ,GTEX-1QCLY_Adipose - ,GTEX-1QCLY,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1QCLY_Artery - T,GTEX-1QCLY_Artery - T,GTEX-1QCLY,Artery - Tibial,34.5,20-39,male
+GTEX-1QCLY_Thyroid,GTEX-1QCLY_Thyroid,GTEX-1QCLY,Thyroid,34.5,20-39,male
+GTEX-1QP67_Muscle - S,GTEX-1QP67_Muscle - S,GTEX-1QP67,Muscle - Skeletal,44.5,40-49,female
+GTEX-1QP67_Whole Bloo,GTEX-1QP67_Whole Bloo,GTEX-1QP67,Whole Blood,44.5,40-49,female
+GTEX-1QP67_Skin - Sun,GTEX-1QP67_Skin - Sun,GTEX-1QP67,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-1QP67_Adipose - ,GTEX-1QP67_Adipose - ,GTEX-1QP67,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-1QP67_Artery - T,GTEX-1QP67_Artery - T,GTEX-1QP67,Artery - Tibial,44.5,40-49,female
+GTEX-1QP67_Thyroid,GTEX-1QP67_Thyroid,GTEX-1QP67,Thyroid,44.5,40-49,female
+GTEX-1QP9N_Muscle - S,GTEX-1QP9N_Muscle - S,GTEX-1QP9N,Muscle - Skeletal,34.5,20-39,male
+GTEX-1QP9N_Whole Bloo,GTEX-1QP9N_Whole Bloo,GTEX-1QP9N,Whole Blood,34.5,20-39,male
+GTEX-1QP9N_Skin - Sun,GTEX-1QP9N_Skin - Sun,GTEX-1QP9N,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1QP9N_Adipose - ,GTEX-1QP9N_Adipose - ,GTEX-1QP9N,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1QP9N_Artery - T,GTEX-1QP9N_Artery - T,GTEX-1QP9N,Artery - Tibial,34.5,20-39,male
+GTEX-1QP9N_Thyroid,GTEX-1QP9N_Thyroid,GTEX-1QP9N,Thyroid,34.5,20-39,male
+GTEX-1QPFJ_Muscle - S,GTEX-1QPFJ_Muscle - S,GTEX-1QPFJ,Muscle - Skeletal,34.5,20-39,female
+GTEX-1QPFJ_Whole Bloo,GTEX-1QPFJ_Whole Bloo,GTEX-1QPFJ,Whole Blood,34.5,20-39,female
+GTEX-1QPFJ_Skin - Sun,GTEX-1QPFJ_Skin - Sun,GTEX-1QPFJ,Skin - Sun Exposed (Lower leg),34.5,20-39,female
+GTEX-1QPFJ_Adipose - ,GTEX-1QPFJ_Adipose - ,GTEX-1QPFJ,Adipose - Subcutaneous,34.5,20-39,female
+GTEX-1QPFJ_Artery - T,GTEX-1QPFJ_Artery - T,GTEX-1QPFJ,Artery - Tibial,34.5,20-39,female
+GTEX-1QPFJ_Thyroid,GTEX-1QPFJ_Thyroid,GTEX-1QPFJ,Thyroid,34.5,20-39,female
+GTEX-1QW4Y_Muscle - S,GTEX-1QW4Y_Muscle - S,GTEX-1QW4Y,Muscle - Skeletal,34.5,20-39,male
+GTEX-1QW4Y_Whole Bloo,GTEX-1QW4Y_Whole Bloo,GTEX-1QW4Y,Whole Blood,34.5,20-39,male
+GTEX-1QW4Y_Skin - Sun,GTEX-1QW4Y_Skin - Sun,GTEX-1QW4Y,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1QW4Y_Adipose - ,GTEX-1QW4Y_Adipose - ,GTEX-1QW4Y,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1QW4Y_Artery - T,GTEX-1QW4Y_Artery - T,GTEX-1QW4Y,Artery - Tibial,34.5,20-39,male
+GTEX-1QW4Y_Thyroid,GTEX-1QW4Y_Thyroid,GTEX-1QW4Y,Thyroid,34.5,20-39,male
+GTEX-1RAZA_Muscle - S,GTEX-1RAZA_Muscle - S,GTEX-1RAZA,Muscle - Skeletal,24.5,20-39,male
+GTEX-1RAZA_Whole Bloo,GTEX-1RAZA_Whole Bloo,GTEX-1RAZA,Whole Blood,24.5,20-39,male
+GTEX-1RAZA_Skin - Sun,GTEX-1RAZA_Skin - Sun,GTEX-1RAZA,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-1RAZA_Adipose - ,GTEX-1RAZA_Adipose - ,GTEX-1RAZA,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-1RAZA_Artery - T,GTEX-1RAZA_Artery - T,GTEX-1RAZA,Artery - Tibial,24.5,20-39,male
+GTEX-1RAZA_Thyroid,GTEX-1RAZA_Thyroid,GTEX-1RAZA,Thyroid,24.5,20-39,male
+GTEX-1RAZQ_Muscle - S,GTEX-1RAZQ_Muscle - S,GTEX-1RAZQ,Muscle - Skeletal,34.5,20-39,male
+GTEX-1RAZQ_Whole Bloo,GTEX-1RAZQ_Whole Bloo,GTEX-1RAZQ,Whole Blood,34.5,20-39,male
+GTEX-1RAZQ_Skin - Sun,GTEX-1RAZQ_Skin - Sun,GTEX-1RAZQ,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-1RAZQ_Adipose - ,GTEX-1RAZQ_Adipose - ,GTEX-1RAZQ,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-1RAZQ_Artery - T,GTEX-1RAZQ_Artery - T,GTEX-1RAZQ,Artery - Tibial,34.5,20-39,male
+GTEX-1RAZQ_Thyroid,GTEX-1RAZQ_Thyroid,GTEX-1RAZQ,Thyroid,34.5,20-39,male
+GTEX-1RQEC_Muscle - S,GTEX-1RQEC_Muscle - S,GTEX-1RQEC,Muscle - Skeletal,64.5,60-79,male
+GTEX-1RQEC_Whole Bloo,GTEX-1RQEC_Whole Bloo,GTEX-1RQEC,Whole Blood,64.5,60-79,male
+GTEX-1RQEC_Skin - Sun,GTEX-1RQEC_Skin - Sun,GTEX-1RQEC,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-1RQEC_Adipose - ,GTEX-1RQEC_Adipose - ,GTEX-1RQEC,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-1RQEC_Artery - T,GTEX-1RQEC_Artery - T,GTEX-1RQEC,Artery - Tibial,64.5,60-79,male
+GTEX-1RQEC_Thyroid,GTEX-1RQEC_Thyroid,GTEX-1RQEC,Thyroid,64.5,60-79,male
+GTEX-NFK9_Muscle - S,GTEX-NFK9_Muscle - S,GTEX-NFK9,Muscle - Skeletal,44.5,40-49,male
+GTEX-NFK9_Whole Bloo,GTEX-NFK9_Whole Bloo,GTEX-NFK9,Whole Blood,44.5,40-49,male
+GTEX-NFK9_Skin - Sun,GTEX-NFK9_Skin - Sun,GTEX-NFK9,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-NFK9_Adipose - ,GTEX-NFK9_Adipose - ,GTEX-NFK9,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-NFK9_Artery - T,GTEX-NFK9_Artery - T,GTEX-NFK9,Artery - Tibial,44.5,40-49,male
+GTEX-NFK9_Thyroid,GTEX-NFK9_Thyroid,GTEX-NFK9,Thyroid,44.5,40-49,male
+GTEX-OIZF_Muscle - S,GTEX-OIZF_Muscle - S,GTEX-OIZF,Muscle - Skeletal,64.5,60-79,male
+GTEX-OIZF_Whole Bloo,GTEX-OIZF_Whole Bloo,GTEX-OIZF,Whole Blood,64.5,60-79,male
+GTEX-OIZF_Skin - Sun,GTEX-OIZF_Skin - Sun,GTEX-OIZF,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-OIZF_Adipose - ,GTEX-OIZF_Adipose - ,GTEX-OIZF,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-OIZF_Artery - T,GTEX-OIZF_Artery - T,GTEX-OIZF,Artery - Tibial,64.5,60-79,male
+GTEX-OIZF_Thyroid,GTEX-OIZF_Thyroid,GTEX-OIZF,Thyroid,64.5,60-79,male
+GTEX-OOBJ_Muscle - S,GTEX-OOBJ_Muscle - S,GTEX-OOBJ,Muscle - Skeletal,64.5,60-79,male
+GTEX-OOBJ_Whole Bloo,GTEX-OOBJ_Whole Bloo,GTEX-OOBJ,Whole Blood,64.5,60-79,male
+GTEX-OOBJ_Skin - Sun,GTEX-OOBJ_Skin - Sun,GTEX-OOBJ,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-OOBJ_Adipose - ,GTEX-OOBJ_Adipose - ,GTEX-OOBJ,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-OOBJ_Artery - T,GTEX-OOBJ_Artery - T,GTEX-OOBJ,Artery - Tibial,64.5,60-79,male
+GTEX-OOBJ_Thyroid,GTEX-OOBJ_Thyroid,GTEX-OOBJ,Thyroid,64.5,60-79,male
+GTEX-OXRL_Muscle - S,GTEX-OXRL_Muscle - S,GTEX-OXRL,Muscle - Skeletal,54.5,50-59,male
+GTEX-OXRL_Whole Bloo,GTEX-OXRL_Whole Bloo,GTEX-OXRL,Whole Blood,54.5,50-59,male
+GTEX-OXRL_Skin - Sun,GTEX-OXRL_Skin - Sun,GTEX-OXRL,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-OXRL_Adipose - ,GTEX-OXRL_Adipose - ,GTEX-OXRL,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-OXRL_Artery - T,GTEX-OXRL_Artery - T,GTEX-OXRL,Artery - Tibial,54.5,50-59,male
+GTEX-OXRL_Thyroid,GTEX-OXRL_Thyroid,GTEX-OXRL,Thyroid,54.5,50-59,male
+GTEX-OXRO_Muscle - S,GTEX-OXRO_Muscle - S,GTEX-OXRO,Muscle - Skeletal,64.5,60-79,female
+GTEX-OXRO_Whole Bloo,GTEX-OXRO_Whole Bloo,GTEX-OXRO,Whole Blood,64.5,60-79,female
+GTEX-OXRO_Skin - Sun,GTEX-OXRO_Skin - Sun,GTEX-OXRO,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-OXRO_Adipose - ,GTEX-OXRO_Adipose - ,GTEX-OXRO,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-OXRO_Artery - T,GTEX-OXRO_Artery - T,GTEX-OXRO,Artery - Tibial,64.5,60-79,female
+GTEX-OXRO_Thyroid,GTEX-OXRO_Thyroid,GTEX-OXRO,Thyroid,64.5,60-79,female
+GTEX-OXRP_Muscle - S,GTEX-OXRP_Muscle - S,GTEX-OXRP,Muscle - Skeletal,64.5,60-79,female
+GTEX-OXRP_Whole Bloo,GTEX-OXRP_Whole Bloo,GTEX-OXRP,Whole Blood,64.5,60-79,female
+GTEX-OXRP_Skin - Sun,GTEX-OXRP_Skin - Sun,GTEX-OXRP,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-OXRP_Adipose - ,GTEX-OXRP_Adipose - ,GTEX-OXRP,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-OXRP_Artery - T,GTEX-OXRP_Artery - T,GTEX-OXRP,Artery - Tibial,64.5,60-79,female
+GTEX-OXRP_Thyroid,GTEX-OXRP_Thyroid,GTEX-OXRP,Thyroid,64.5,60-79,female
+GTEX-PLZ4_Muscle - S,GTEX-PLZ4_Muscle - S,GTEX-PLZ4,Muscle - Skeletal,54.5,50-59,female
+GTEX-PLZ4_Whole Bloo,GTEX-PLZ4_Whole Bloo,GTEX-PLZ4,Whole Blood,54.5,50-59,female
+GTEX-PLZ4_Skin - Sun,GTEX-PLZ4_Skin - Sun,GTEX-PLZ4,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-PLZ4_Adipose - ,GTEX-PLZ4_Adipose - ,GTEX-PLZ4,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-PLZ4_Artery - T,GTEX-PLZ4_Artery - T,GTEX-PLZ4,Artery - Tibial,54.5,50-59,female
+GTEX-PLZ4_Thyroid,GTEX-PLZ4_Thyroid,GTEX-PLZ4,Thyroid,54.5,50-59,female
+GTEX-PWCY_Muscle - S,GTEX-PWCY_Muscle - S,GTEX-PWCY,Muscle - Skeletal,24.5,20-39,female
+GTEX-PWCY_Whole Bloo,GTEX-PWCY_Whole Bloo,GTEX-PWCY,Whole Blood,24.5,20-39,female
+GTEX-PWCY_Skin - Sun,GTEX-PWCY_Skin - Sun,GTEX-PWCY,Skin - Sun Exposed (Lower leg),24.5,20-39,female
+GTEX-PWCY_Adipose - ,GTEX-PWCY_Adipose - ,GTEX-PWCY,Adipose - Subcutaneous,24.5,20-39,female
+GTEX-PWCY_Artery - T,GTEX-PWCY_Artery - T,GTEX-PWCY,Artery - Tibial,24.5,20-39,female
+GTEX-PWCY_Thyroid,GTEX-PWCY_Thyroid,GTEX-PWCY,Thyroid,24.5,20-39,female
+GTEX-PX3G_Muscle - S,GTEX-PX3G_Muscle - S,GTEX-PX3G,Muscle - Skeletal,24.5,20-39,female
+GTEX-PX3G_Whole Bloo,GTEX-PX3G_Whole Bloo,GTEX-PX3G,Whole Blood,24.5,20-39,female
+GTEX-PX3G_Skin - Sun,GTEX-PX3G_Skin - Sun,GTEX-PX3G,Skin - Sun Exposed (Lower leg),24.5,20-39,female
+GTEX-PX3G_Adipose - ,GTEX-PX3G_Adipose - ,GTEX-PX3G,Adipose - Subcutaneous,24.5,20-39,female
+GTEX-PX3G_Artery - T,GTEX-PX3G_Artery - T,GTEX-PX3G,Artery - Tibial,24.5,20-39,female
+GTEX-PX3G_Thyroid,GTEX-PX3G_Thyroid,GTEX-PX3G,Thyroid,24.5,20-39,female
+GTEX-Q2AG_Muscle - S,GTEX-Q2AG_Muscle - S,GTEX-Q2AG,Muscle - Skeletal,44.5,40-49,female
+GTEX-Q2AG_Whole Bloo,GTEX-Q2AG_Whole Bloo,GTEX-Q2AG,Whole Blood,44.5,40-49,female
+GTEX-Q2AG_Skin - Sun,GTEX-Q2AG_Skin - Sun,GTEX-Q2AG,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-Q2AG_Adipose - ,GTEX-Q2AG_Adipose - ,GTEX-Q2AG,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-Q2AG_Artery - T,GTEX-Q2AG_Artery - T,GTEX-Q2AG,Artery - Tibial,44.5,40-49,female
+GTEX-Q2AG_Thyroid,GTEX-Q2AG_Thyroid,GTEX-Q2AG,Thyroid,44.5,40-49,female
+GTEX-Q2AH_Muscle - S,GTEX-Q2AH_Muscle - S,GTEX-Q2AH,Muscle - Skeletal,44.5,40-49,male
+GTEX-Q2AH_Whole Bloo,GTEX-Q2AH_Whole Bloo,GTEX-Q2AH,Whole Blood,44.5,40-49,male
+GTEX-Q2AH_Skin - Sun,GTEX-Q2AH_Skin - Sun,GTEX-Q2AH,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-Q2AH_Adipose - ,GTEX-Q2AH_Adipose - ,GTEX-Q2AH,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-Q2AH_Artery - T,GTEX-Q2AH_Artery - T,GTEX-Q2AH,Artery - Tibial,44.5,40-49,male
+GTEX-Q2AH_Thyroid,GTEX-Q2AH_Thyroid,GTEX-Q2AH,Thyroid,44.5,40-49,male
+GTEX-Q2AI_Muscle - S,GTEX-Q2AI_Muscle - S,GTEX-Q2AI,Muscle - Skeletal,44.5,40-49,male
+GTEX-Q2AI_Whole Bloo,GTEX-Q2AI_Whole Bloo,GTEX-Q2AI,Whole Blood,44.5,40-49,male
+GTEX-Q2AI_Skin - Sun,GTEX-Q2AI_Skin - Sun,GTEX-Q2AI,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-Q2AI_Adipose - ,GTEX-Q2AI_Adipose - ,GTEX-Q2AI,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-Q2AI_Artery - T,GTEX-Q2AI_Artery - T,GTEX-Q2AI,Artery - Tibial,44.5,40-49,male
+GTEX-Q2AI_Thyroid,GTEX-Q2AI_Thyroid,GTEX-Q2AI,Thyroid,44.5,40-49,male
+GTEX-Q734_Muscle - S,GTEX-Q734_Muscle - S,GTEX-Q734,Muscle - Skeletal,44.5,40-49,female
+GTEX-Q734_Whole Bloo,GTEX-Q734_Whole Bloo,GTEX-Q734,Whole Blood,44.5,40-49,female
+GTEX-Q734_Skin - Sun,GTEX-Q734_Skin - Sun,GTEX-Q734,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-Q734_Adipose - ,GTEX-Q734_Adipose - ,GTEX-Q734,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-Q734_Artery - T,GTEX-Q734_Artery - T,GTEX-Q734,Artery - Tibial,44.5,40-49,female
+GTEX-Q734_Thyroid,GTEX-Q734_Thyroid,GTEX-Q734,Thyroid,44.5,40-49,female
+GTEX-QDT8_Muscle - S,GTEX-QDT8_Muscle - S,GTEX-QDT8,Muscle - Skeletal,34.5,20-39,female
+GTEX-QDT8_Whole Bloo,GTEX-QDT8_Whole Bloo,GTEX-QDT8,Whole Blood,34.5,20-39,female
+GTEX-QDT8_Skin - Sun,GTEX-QDT8_Skin - Sun,GTEX-QDT8,Skin - Sun Exposed (Lower leg),34.5,20-39,female
+GTEX-QDT8_Adipose - ,GTEX-QDT8_Adipose - ,GTEX-QDT8,Adipose - Subcutaneous,34.5,20-39,female
+GTEX-QDT8_Artery - T,GTEX-QDT8_Artery - T,GTEX-QDT8,Artery - Tibial,34.5,20-39,female
+GTEX-QDT8_Thyroid,GTEX-QDT8_Thyroid,GTEX-QDT8,Thyroid,34.5,20-39,female
+GTEX-QDVJ_Muscle - S,GTEX-QDVJ_Muscle - S,GTEX-QDVJ,Muscle - Skeletal,54.5,50-59,male
+GTEX-QDVJ_Whole Bloo,GTEX-QDVJ_Whole Bloo,GTEX-QDVJ,Whole Blood,54.5,50-59,male
+GTEX-QDVJ_Skin - Sun,GTEX-QDVJ_Skin - Sun,GTEX-QDVJ,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-QDVJ_Adipose - ,GTEX-QDVJ_Adipose - ,GTEX-QDVJ,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-QDVJ_Artery - T,GTEX-QDVJ_Artery - T,GTEX-QDVJ,Artery - Tibial,54.5,50-59,male
+GTEX-QDVJ_Thyroid,GTEX-QDVJ_Thyroid,GTEX-QDVJ,Thyroid,54.5,50-59,male
+GTEX-QDVN_Muscle - S,GTEX-QDVN_Muscle - S,GTEX-QDVN,Muscle - Skeletal,54.5,50-59,male
+GTEX-QDVN_Whole Bloo,GTEX-QDVN_Whole Bloo,GTEX-QDVN,Whole Blood,54.5,50-59,male
+GTEX-QDVN_Skin - Sun,GTEX-QDVN_Skin - Sun,GTEX-QDVN,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-QDVN_Adipose - ,GTEX-QDVN_Adipose - ,GTEX-QDVN,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-QDVN_Artery - T,GTEX-QDVN_Artery - T,GTEX-QDVN,Artery - Tibial,54.5,50-59,male
+GTEX-QDVN_Thyroid,GTEX-QDVN_Thyroid,GTEX-QDVN,Thyroid,54.5,50-59,male
+GTEX-QLQ7_Muscle - S,GTEX-QLQ7_Muscle - S,GTEX-QLQ7,Muscle - Skeletal,64.5,60-79,male
+GTEX-QLQ7_Whole Bloo,GTEX-QLQ7_Whole Bloo,GTEX-QLQ7,Whole Blood,64.5,60-79,male
+GTEX-QLQ7_Skin - Sun,GTEX-QLQ7_Skin - Sun,GTEX-QLQ7,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-QLQ7_Adipose - ,GTEX-QLQ7_Adipose - ,GTEX-QLQ7,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-QLQ7_Artery - T,GTEX-QLQ7_Artery - T,GTEX-QLQ7,Artery - Tibial,64.5,60-79,male
+GTEX-QLQ7_Thyroid,GTEX-QLQ7_Thyroid,GTEX-QLQ7,Thyroid,64.5,60-79,male
+GTEX-RM2N_Muscle - S,GTEX-RM2N_Muscle - S,GTEX-RM2N,Muscle - Skeletal,54.5,50-59,male
+GTEX-RM2N_Whole Bloo,GTEX-RM2N_Whole Bloo,GTEX-RM2N,Whole Blood,54.5,50-59,male
+GTEX-RM2N_Skin - Sun,GTEX-RM2N_Skin - Sun,GTEX-RM2N,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-RM2N_Adipose - ,GTEX-RM2N_Adipose - ,GTEX-RM2N,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-RM2N_Artery - T,GTEX-RM2N_Artery - T,GTEX-RM2N,Artery - Tibial,54.5,50-59,male
+GTEX-RM2N_Thyroid,GTEX-RM2N_Thyroid,GTEX-RM2N,Thyroid,54.5,50-59,male
+GTEX-RNOR_Muscle - S,GTEX-RNOR_Muscle - S,GTEX-RNOR,Muscle - Skeletal,54.5,50-59,female
+GTEX-RNOR_Whole Bloo,GTEX-RNOR_Whole Bloo,GTEX-RNOR,Whole Blood,54.5,50-59,female
+GTEX-RNOR_Skin - Sun,GTEX-RNOR_Skin - Sun,GTEX-RNOR,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-RNOR_Adipose - ,GTEX-RNOR_Adipose - ,GTEX-RNOR,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-RNOR_Artery - T,GTEX-RNOR_Artery - T,GTEX-RNOR,Artery - Tibial,54.5,50-59,female
+GTEX-RNOR_Thyroid,GTEX-RNOR_Thyroid,GTEX-RNOR,Thyroid,54.5,50-59,female
+GTEX-RTLS_Muscle - S,GTEX-RTLS_Muscle - S,GTEX-RTLS,Muscle - Skeletal,64.5,60-79,female
+GTEX-RTLS_Whole Bloo,GTEX-RTLS_Whole Bloo,GTEX-RTLS,Whole Blood,64.5,60-79,female
+GTEX-RTLS_Skin - Sun,GTEX-RTLS_Skin - Sun,GTEX-RTLS,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-RTLS_Adipose - ,GTEX-RTLS_Adipose - ,GTEX-RTLS,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-RTLS_Artery - T,GTEX-RTLS_Artery - T,GTEX-RTLS,Artery - Tibial,64.5,60-79,female
+GTEX-RTLS_Thyroid,GTEX-RTLS_Thyroid,GTEX-RTLS,Thyroid,64.5,60-79,female
+GTEX-RU72_Muscle - S,GTEX-RU72_Muscle - S,GTEX-RU72,Muscle - Skeletal,54.5,50-59,female
+GTEX-RU72_Whole Bloo,GTEX-RU72_Whole Bloo,GTEX-RU72,Whole Blood,54.5,50-59,female
+GTEX-RU72_Skin - Sun,GTEX-RU72_Skin - Sun,GTEX-RU72,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-RU72_Adipose - ,GTEX-RU72_Adipose - ,GTEX-RU72,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-RU72_Artery - T,GTEX-RU72_Artery - T,GTEX-RU72,Artery - Tibial,54.5,50-59,female
+GTEX-RU72_Thyroid,GTEX-RU72_Thyroid,GTEX-RU72,Thyroid,54.5,50-59,female
+GTEX-RUSQ_Muscle - S,GTEX-RUSQ_Muscle - S,GTEX-RUSQ,Muscle - Skeletal,54.5,50-59,male
+GTEX-RUSQ_Whole Bloo,GTEX-RUSQ_Whole Bloo,GTEX-RUSQ,Whole Blood,54.5,50-59,male
+GTEX-RUSQ_Skin - Sun,GTEX-RUSQ_Skin - Sun,GTEX-RUSQ,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-RUSQ_Adipose - ,GTEX-RUSQ_Adipose - ,GTEX-RUSQ,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-RUSQ_Artery - T,GTEX-RUSQ_Artery - T,GTEX-RUSQ,Artery - Tibial,54.5,50-59,male
+GTEX-RUSQ_Thyroid,GTEX-RUSQ_Thyroid,GTEX-RUSQ,Thyroid,54.5,50-59,male
+GTEX-RWSA_Muscle - S,GTEX-RWSA_Muscle - S,GTEX-RWSA,Muscle - Skeletal,44.5,40-49,male
+GTEX-RWSA_Whole Bloo,GTEX-RWSA_Whole Bloo,GTEX-RWSA,Whole Blood,44.5,40-49,male
+GTEX-RWSA_Skin - Sun,GTEX-RWSA_Skin - Sun,GTEX-RWSA,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-RWSA_Adipose - ,GTEX-RWSA_Adipose - ,GTEX-RWSA,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-RWSA_Artery - T,GTEX-RWSA_Artery - T,GTEX-RWSA,Artery - Tibial,44.5,40-49,male
+GTEX-RWSA_Thyroid,GTEX-RWSA_Thyroid,GTEX-RWSA,Thyroid,44.5,40-49,male
+GTEX-S32W_Muscle - S,GTEX-S32W_Muscle - S,GTEX-S32W,Muscle - Skeletal,54.5,50-59,female
+GTEX-S32W_Whole Bloo,GTEX-S32W_Whole Bloo,GTEX-S32W,Whole Blood,54.5,50-59,female
+GTEX-S32W_Skin - Sun,GTEX-S32W_Skin - Sun,GTEX-S32W,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-S32W_Adipose - ,GTEX-S32W_Adipose - ,GTEX-S32W,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-S32W_Artery - T,GTEX-S32W_Artery - T,GTEX-S32W,Artery - Tibial,54.5,50-59,female
+GTEX-S32W_Thyroid,GTEX-S32W_Thyroid,GTEX-S32W,Thyroid,54.5,50-59,female
+GTEX-SIU8_Muscle - S,GTEX-SIU8_Muscle - S,GTEX-SIU8,Muscle - Skeletal,54.5,50-59,male
+GTEX-SIU8_Whole Bloo,GTEX-SIU8_Whole Bloo,GTEX-SIU8,Whole Blood,54.5,50-59,male
+GTEX-SIU8_Skin - Sun,GTEX-SIU8_Skin - Sun,GTEX-SIU8,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-SIU8_Adipose - ,GTEX-SIU8_Adipose - ,GTEX-SIU8,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-SIU8_Artery - T,GTEX-SIU8_Artery - T,GTEX-SIU8,Artery - Tibial,54.5,50-59,male
+GTEX-SIU8_Thyroid,GTEX-SIU8_Thyroid,GTEX-SIU8,Thyroid,54.5,50-59,male
+GTEX-SJXC_Muscle - S,GTEX-SJXC_Muscle - S,GTEX-SJXC,Muscle - Skeletal,64.5,60-79,male
+GTEX-SJXC_Whole Bloo,GTEX-SJXC_Whole Bloo,GTEX-SJXC,Whole Blood,64.5,60-79,male
+GTEX-SJXC_Skin - Sun,GTEX-SJXC_Skin - Sun,GTEX-SJXC,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-SJXC_Adipose - ,GTEX-SJXC_Adipose - ,GTEX-SJXC,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-SJXC_Artery - T,GTEX-SJXC_Artery - T,GTEX-SJXC,Artery - Tibial,64.5,60-79,male
+GTEX-SJXC_Thyroid,GTEX-SJXC_Thyroid,GTEX-SJXC,Thyroid,64.5,60-79,male
+GTEX-SN8G_Muscle - S,GTEX-SN8G_Muscle - S,GTEX-SN8G,Muscle - Skeletal,54.5,50-59,female
+GTEX-SN8G_Whole Bloo,GTEX-SN8G_Whole Bloo,GTEX-SN8G,Whole Blood,54.5,50-59,female
+GTEX-SN8G_Skin - Sun,GTEX-SN8G_Skin - Sun,GTEX-SN8G,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-SN8G_Adipose - ,GTEX-SN8G_Adipose - ,GTEX-SN8G,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-SN8G_Artery - T,GTEX-SN8G_Artery - T,GTEX-SN8G,Artery - Tibial,54.5,50-59,female
+GTEX-SN8G_Thyroid,GTEX-SN8G_Thyroid,GTEX-SN8G,Thyroid,54.5,50-59,female
+GTEX-T5JW_Muscle - S,GTEX-T5JW_Muscle - S,GTEX-T5JW,Muscle - Skeletal,24.5,20-39,female
+GTEX-T5JW_Whole Bloo,GTEX-T5JW_Whole Bloo,GTEX-T5JW,Whole Blood,24.5,20-39,female
+GTEX-T5JW_Skin - Sun,GTEX-T5JW_Skin - Sun,GTEX-T5JW,Skin - Sun Exposed (Lower leg),24.5,20-39,female
+GTEX-T5JW_Adipose - ,GTEX-T5JW_Adipose - ,GTEX-T5JW,Adipose - Subcutaneous,24.5,20-39,female
+GTEX-T5JW_Artery - T,GTEX-T5JW_Artery - T,GTEX-T5JW,Artery - Tibial,24.5,20-39,female
+GTEX-T5JW_Thyroid,GTEX-T5JW_Thyroid,GTEX-T5JW,Thyroid,24.5,20-39,female
+GTEX-T6MN_Muscle - S,GTEX-T6MN_Muscle - S,GTEX-T6MN,Muscle - Skeletal,54.5,50-59,male
+GTEX-T6MN_Whole Bloo,GTEX-T6MN_Whole Bloo,GTEX-T6MN,Whole Blood,54.5,50-59,male
+GTEX-T6MN_Skin - Sun,GTEX-T6MN_Skin - Sun,GTEX-T6MN,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-T6MN_Adipose - ,GTEX-T6MN_Adipose - ,GTEX-T6MN,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-T6MN_Artery - T,GTEX-T6MN_Artery - T,GTEX-T6MN,Artery - Tibial,54.5,50-59,male
+GTEX-T6MN_Thyroid,GTEX-T6MN_Thyroid,GTEX-T6MN,Thyroid,54.5,50-59,male
+GTEX-T8EM_Muscle - S,GTEX-T8EM_Muscle - S,GTEX-T8EM,Muscle - Skeletal,44.5,40-49,male
+GTEX-T8EM_Whole Bloo,GTEX-T8EM_Whole Bloo,GTEX-T8EM,Whole Blood,44.5,40-49,male
+GTEX-T8EM_Skin - Sun,GTEX-T8EM_Skin - Sun,GTEX-T8EM,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-T8EM_Adipose - ,GTEX-T8EM_Adipose - ,GTEX-T8EM,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-T8EM_Artery - T,GTEX-T8EM_Artery - T,GTEX-T8EM,Artery - Tibial,44.5,40-49,male
+GTEX-T8EM_Thyroid,GTEX-T8EM_Thyroid,GTEX-T8EM,Thyroid,44.5,40-49,male
+GTEX-TKQ1_Muscle - S,GTEX-TKQ1_Muscle - S,GTEX-TKQ1,Muscle - Skeletal,34.5,20-39,male
+GTEX-TKQ1_Whole Bloo,GTEX-TKQ1_Whole Bloo,GTEX-TKQ1,Whole Blood,34.5,20-39,male
+GTEX-TKQ1_Skin - Sun,GTEX-TKQ1_Skin - Sun,GTEX-TKQ1,Skin - Sun Exposed (Lower leg),34.5,20-39,male
+GTEX-TKQ1_Adipose - ,GTEX-TKQ1_Adipose - ,GTEX-TKQ1,Adipose - Subcutaneous,34.5,20-39,male
+GTEX-TKQ1_Artery - T,GTEX-TKQ1_Artery - T,GTEX-TKQ1,Artery - Tibial,34.5,20-39,male
+GTEX-TKQ1_Thyroid,GTEX-TKQ1_Thyroid,GTEX-TKQ1,Thyroid,34.5,20-39,male
+GTEX-TSE9_Muscle - S,GTEX-TSE9_Muscle - S,GTEX-TSE9,Muscle - Skeletal,64.5,60-79,female
+GTEX-TSE9_Whole Bloo,GTEX-TSE9_Whole Bloo,GTEX-TSE9,Whole Blood,64.5,60-79,female
+GTEX-TSE9_Skin - Sun,GTEX-TSE9_Skin - Sun,GTEX-TSE9,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-TSE9_Adipose - ,GTEX-TSE9_Adipose - ,GTEX-TSE9,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-TSE9_Artery - T,GTEX-TSE9_Artery - T,GTEX-TSE9,Artery - Tibial,64.5,60-79,female
+GTEX-TSE9_Thyroid,GTEX-TSE9_Thyroid,GTEX-TSE9,Thyroid,64.5,60-79,female
+GTEX-U3ZN_Muscle - S,GTEX-U3ZN_Muscle - S,GTEX-U3ZN,Muscle - Skeletal,34.5,20-39,female
+GTEX-U3ZN_Whole Bloo,GTEX-U3ZN_Whole Bloo,GTEX-U3ZN,Whole Blood,34.5,20-39,female
+GTEX-U3ZN_Skin - Sun,GTEX-U3ZN_Skin - Sun,GTEX-U3ZN,Skin - Sun Exposed (Lower leg),34.5,20-39,female
+GTEX-U3ZN_Adipose - ,GTEX-U3ZN_Adipose - ,GTEX-U3ZN,Adipose - Subcutaneous,34.5,20-39,female
+GTEX-U3ZN_Artery - T,GTEX-U3ZN_Artery - T,GTEX-U3ZN,Artery - Tibial,34.5,20-39,female
+GTEX-U3ZN_Thyroid,GTEX-U3ZN_Thyroid,GTEX-U3ZN,Thyroid,34.5,20-39,female
+GTEX-U4B1_Muscle - S,GTEX-U4B1_Muscle - S,GTEX-U4B1,Muscle - Skeletal,44.5,40-49,male
+GTEX-U4B1_Whole Bloo,GTEX-U4B1_Whole Bloo,GTEX-U4B1,Whole Blood,44.5,40-49,male
+GTEX-U4B1_Skin - Sun,GTEX-U4B1_Skin - Sun,GTEX-U4B1,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-U4B1_Adipose - ,GTEX-U4B1_Adipose - ,GTEX-U4B1,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-U4B1_Artery - T,GTEX-U4B1_Artery - T,GTEX-U4B1,Artery - Tibial,44.5,40-49,male
+GTEX-U4B1_Thyroid,GTEX-U4B1_Thyroid,GTEX-U4B1,Thyroid,44.5,40-49,male
+GTEX-VJYA_Muscle - S,GTEX-VJYA_Muscle - S,GTEX-VJYA,Muscle - Skeletal,64.5,60-79,male
+GTEX-VJYA_Whole Bloo,GTEX-VJYA_Whole Bloo,GTEX-VJYA,Whole Blood,64.5,60-79,male
+GTEX-VJYA_Skin - Sun,GTEX-VJYA_Skin - Sun,GTEX-VJYA,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-VJYA_Adipose - ,GTEX-VJYA_Adipose - ,GTEX-VJYA,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-VJYA_Artery - T,GTEX-VJYA_Artery - T,GTEX-VJYA,Artery - Tibial,64.5,60-79,male
+GTEX-VJYA_Thyroid,GTEX-VJYA_Thyroid,GTEX-VJYA,Thyroid,64.5,60-79,male
+GTEX-VUSG_Muscle - S,GTEX-VUSG_Muscle - S,GTEX-VUSG,Muscle - Skeletal,54.5,50-59,male
+GTEX-VUSG_Whole Bloo,GTEX-VUSG_Whole Bloo,GTEX-VUSG,Whole Blood,54.5,50-59,male
+GTEX-VUSG_Skin - Sun,GTEX-VUSG_Skin - Sun,GTEX-VUSG,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-VUSG_Adipose - ,GTEX-VUSG_Adipose - ,GTEX-VUSG,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-VUSG_Artery - T,GTEX-VUSG_Artery - T,GTEX-VUSG,Artery - Tibial,54.5,50-59,male
+GTEX-VUSG_Thyroid,GTEX-VUSG_Thyroid,GTEX-VUSG,Thyroid,54.5,50-59,male
+GTEX-W5WG_Muscle - S,GTEX-W5WG_Muscle - S,GTEX-W5WG,Muscle - Skeletal,54.5,50-59,female
+GTEX-W5WG_Whole Bloo,GTEX-W5WG_Whole Bloo,GTEX-W5WG,Whole Blood,54.5,50-59,female
+GTEX-W5WG_Skin - Sun,GTEX-W5WG_Skin - Sun,GTEX-W5WG,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-W5WG_Adipose - ,GTEX-W5WG_Adipose - ,GTEX-W5WG,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-W5WG_Artery - T,GTEX-W5WG_Artery - T,GTEX-W5WG,Artery - Tibial,54.5,50-59,female
+GTEX-W5WG_Thyroid,GTEX-W5WG_Thyroid,GTEX-W5WG,Thyroid,54.5,50-59,female
+GTEX-WY7C_Muscle - S,GTEX-WY7C_Muscle - S,GTEX-WY7C,Muscle - Skeletal,54.5,50-59,male
+GTEX-WY7C_Whole Bloo,GTEX-WY7C_Whole Bloo,GTEX-WY7C,Whole Blood,54.5,50-59,male
+GTEX-WY7C_Skin - Sun,GTEX-WY7C_Skin - Sun,GTEX-WY7C,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-WY7C_Adipose - ,GTEX-WY7C_Adipose - ,GTEX-WY7C,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-WY7C_Artery - T,GTEX-WY7C_Artery - T,GTEX-WY7C,Artery - Tibial,54.5,50-59,male
+GTEX-WY7C_Thyroid,GTEX-WY7C_Thyroid,GTEX-WY7C,Thyroid,54.5,50-59,male
+GTEX-WYJK_Muscle - S,GTEX-WYJK_Muscle - S,GTEX-WYJK,Muscle - Skeletal,54.5,50-59,male
+GTEX-WYJK_Whole Bloo,GTEX-WYJK_Whole Bloo,GTEX-WYJK,Whole Blood,54.5,50-59,male
+GTEX-WYJK_Skin - Sun,GTEX-WYJK_Skin - Sun,GTEX-WYJK,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-WYJK_Adipose - ,GTEX-WYJK_Adipose - ,GTEX-WYJK,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-WYJK_Artery - T,GTEX-WYJK_Artery - T,GTEX-WYJK,Artery - Tibial,54.5,50-59,male
+GTEX-WYJK_Thyroid,GTEX-WYJK_Thyroid,GTEX-WYJK,Thyroid,54.5,50-59,male
+GTEX-X261_Muscle - S,GTEX-X261_Muscle - S,GTEX-X261,Muscle - Skeletal,54.5,50-59,male
+GTEX-X261_Whole Bloo,GTEX-X261_Whole Bloo,GTEX-X261,Whole Blood,54.5,50-59,male
+GTEX-X261_Skin - Sun,GTEX-X261_Skin - Sun,GTEX-X261,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-X261_Adipose - ,GTEX-X261_Adipose - ,GTEX-X261,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-X261_Artery - T,GTEX-X261_Artery - T,GTEX-X261,Artery - Tibial,54.5,50-59,male
+GTEX-X261_Thyroid,GTEX-X261_Thyroid,GTEX-X261,Thyroid,54.5,50-59,male
+GTEX-X4XY_Muscle - S,GTEX-X4XY_Muscle - S,GTEX-X4XY,Muscle - Skeletal,64.5,60-79,male
+GTEX-X4XY_Whole Bloo,GTEX-X4XY_Whole Bloo,GTEX-X4XY,Whole Blood,64.5,60-79,male
+GTEX-X4XY_Skin - Sun,GTEX-X4XY_Skin - Sun,GTEX-X4XY,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-X4XY_Adipose - ,GTEX-X4XY_Adipose - ,GTEX-X4XY,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-X4XY_Artery - T,GTEX-X4XY_Artery - T,GTEX-X4XY,Artery - Tibial,64.5,60-79,male
+GTEX-X4XY_Thyroid,GTEX-X4XY_Thyroid,GTEX-X4XY,Thyroid,64.5,60-79,male
+GTEX-X5EB_Muscle - S,GTEX-X5EB_Muscle - S,GTEX-X5EB,Muscle - Skeletal,44.5,40-49,male
+GTEX-X5EB_Whole Bloo,GTEX-X5EB_Whole Bloo,GTEX-X5EB,Whole Blood,44.5,40-49,male
+GTEX-X5EB_Skin - Sun,GTEX-X5EB_Skin - Sun,GTEX-X5EB,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-X5EB_Adipose - ,GTEX-X5EB_Adipose - ,GTEX-X5EB,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-X5EB_Artery - T,GTEX-X5EB_Artery - T,GTEX-X5EB,Artery - Tibial,44.5,40-49,male
+GTEX-X5EB_Thyroid,GTEX-X5EB_Thyroid,GTEX-X5EB,Thyroid,44.5,40-49,male
+GTEX-XBED_Muscle - S,GTEX-XBED_Muscle - S,GTEX-XBED,Muscle - Skeletal,64.5,60-79,male
+GTEX-XBED_Whole Bloo,GTEX-XBED_Whole Bloo,GTEX-XBED,Whole Blood,64.5,60-79,male
+GTEX-XBED_Skin - Sun,GTEX-XBED_Skin - Sun,GTEX-XBED,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-XBED_Adipose - ,GTEX-XBED_Adipose - ,GTEX-XBED,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-XBED_Artery - T,GTEX-XBED_Artery - T,GTEX-XBED,Artery - Tibial,64.5,60-79,male
+GTEX-XBED_Thyroid,GTEX-XBED_Thyroid,GTEX-XBED,Thyroid,64.5,60-79,male
+GTEX-XBEW_Muscle - S,GTEX-XBEW_Muscle - S,GTEX-XBEW,Muscle - Skeletal,44.5,40-49,male
+GTEX-XBEW_Whole Bloo,GTEX-XBEW_Whole Bloo,GTEX-XBEW,Whole Blood,44.5,40-49,male
+GTEX-XBEW_Skin - Sun,GTEX-XBEW_Skin - Sun,GTEX-XBEW,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-XBEW_Adipose - ,GTEX-XBEW_Adipose - ,GTEX-XBEW,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-XBEW_Artery - T,GTEX-XBEW_Artery - T,GTEX-XBEW,Artery - Tibial,44.5,40-49,male
+GTEX-XBEW_Thyroid,GTEX-XBEW_Thyroid,GTEX-XBEW,Thyroid,44.5,40-49,male
+GTEX-XUW1_Muscle - S,GTEX-XUW1_Muscle - S,GTEX-XUW1,Muscle - Skeletal,54.5,50-59,female
+GTEX-XUW1_Whole Bloo,GTEX-XUW1_Whole Bloo,GTEX-XUW1,Whole Blood,54.5,50-59,female
+GTEX-XUW1_Skin - Sun,GTEX-XUW1_Skin - Sun,GTEX-XUW1,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-XUW1_Adipose - ,GTEX-XUW1_Adipose - ,GTEX-XUW1,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-XUW1_Artery - T,GTEX-XUW1_Artery - T,GTEX-XUW1,Artery - Tibial,54.5,50-59,female
+GTEX-XUW1_Thyroid,GTEX-XUW1_Thyroid,GTEX-XUW1,Thyroid,54.5,50-59,female
+GTEX-XUZC_Muscle - S,GTEX-XUZC_Muscle - S,GTEX-XUZC,Muscle - Skeletal,34.5,20-39,female
+GTEX-XUZC_Whole Bloo,GTEX-XUZC_Whole Bloo,GTEX-XUZC,Whole Blood,34.5,20-39,female
+GTEX-XUZC_Skin - Sun,GTEX-XUZC_Skin - Sun,GTEX-XUZC,Skin - Sun Exposed (Lower leg),34.5,20-39,female
+GTEX-XUZC_Adipose - ,GTEX-XUZC_Adipose - ,GTEX-XUZC,Adipose - Subcutaneous,34.5,20-39,female
+GTEX-XUZC_Artery - T,GTEX-XUZC_Artery - T,GTEX-XUZC,Artery - Tibial,34.5,20-39,female
+GTEX-XUZC_Thyroid,GTEX-XUZC_Thyroid,GTEX-XUZC,Thyroid,34.5,20-39,female
+GTEX-XYKS_Muscle - S,GTEX-XYKS_Muscle - S,GTEX-XYKS,Muscle - Skeletal,64.5,60-79,female
+GTEX-XYKS_Whole Bloo,GTEX-XYKS_Whole Bloo,GTEX-XYKS,Whole Blood,64.5,60-79,female
+GTEX-XYKS_Skin - Sun,GTEX-XYKS_Skin - Sun,GTEX-XYKS,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-XYKS_Adipose - ,GTEX-XYKS_Adipose - ,GTEX-XYKS,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-XYKS_Artery - T,GTEX-XYKS_Artery - T,GTEX-XYKS,Artery - Tibial,64.5,60-79,female
+GTEX-XYKS_Thyroid,GTEX-XYKS_Thyroid,GTEX-XYKS,Thyroid,64.5,60-79,female
+GTEX-Y111_Muscle - S,GTEX-Y111_Muscle - S,GTEX-Y111,Muscle - Skeletal,54.5,50-59,male
+GTEX-Y111_Whole Bloo,GTEX-Y111_Whole Bloo,GTEX-Y111,Whole Blood,54.5,50-59,male
+GTEX-Y111_Skin - Sun,GTEX-Y111_Skin - Sun,GTEX-Y111,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-Y111_Adipose - ,GTEX-Y111_Adipose - ,GTEX-Y111,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-Y111_Artery - T,GTEX-Y111_Artery - T,GTEX-Y111,Artery - Tibial,54.5,50-59,male
+GTEX-Y111_Thyroid,GTEX-Y111_Thyroid,GTEX-Y111,Thyroid,54.5,50-59,male
+GTEX-Y114_Muscle - S,GTEX-Y114_Muscle - S,GTEX-Y114,Muscle - Skeletal,54.5,50-59,female
+GTEX-Y114_Whole Bloo,GTEX-Y114_Whole Bloo,GTEX-Y114,Whole Blood,54.5,50-59,female
+GTEX-Y114_Skin - Sun,GTEX-Y114_Skin - Sun,GTEX-Y114,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-Y114_Adipose - ,GTEX-Y114_Adipose - ,GTEX-Y114,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-Y114_Artery - T,GTEX-Y114_Artery - T,GTEX-Y114,Artery - Tibial,54.5,50-59,female
+GTEX-Y114_Thyroid,GTEX-Y114_Thyroid,GTEX-Y114,Thyroid,54.5,50-59,female
+GTEX-Y3IK_Muscle - S,GTEX-Y3IK_Muscle - S,GTEX-Y3IK,Muscle - Skeletal,54.5,50-59,female
+GTEX-Y3IK_Whole Bloo,GTEX-Y3IK_Whole Bloo,GTEX-Y3IK,Whole Blood,54.5,50-59,female
+GTEX-Y3IK_Skin - Sun,GTEX-Y3IK_Skin - Sun,GTEX-Y3IK,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-Y3IK_Adipose - ,GTEX-Y3IK_Adipose - ,GTEX-Y3IK,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-Y3IK_Artery - T,GTEX-Y3IK_Artery - T,GTEX-Y3IK,Artery - Tibial,54.5,50-59,female
+GTEX-Y3IK_Thyroid,GTEX-Y3IK_Thyroid,GTEX-Y3IK,Thyroid,54.5,50-59,female
+GTEX-Y5V5_Muscle - S,GTEX-Y5V5_Muscle - S,GTEX-Y5V5,Muscle - Skeletal,64.5,60-79,female
+GTEX-Y5V5_Whole Bloo,GTEX-Y5V5_Whole Bloo,GTEX-Y5V5,Whole Blood,64.5,60-79,female
+GTEX-Y5V5_Skin - Sun,GTEX-Y5V5_Skin - Sun,GTEX-Y5V5,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-Y5V5_Adipose - ,GTEX-Y5V5_Adipose - ,GTEX-Y5V5,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-Y5V5_Artery - T,GTEX-Y5V5_Artery - T,GTEX-Y5V5,Artery - Tibial,64.5,60-79,female
+GTEX-Y5V5_Thyroid,GTEX-Y5V5_Thyroid,GTEX-Y5V5,Thyroid,64.5,60-79,female
+GTEX-Y5V6_Muscle - S,GTEX-Y5V6_Muscle - S,GTEX-Y5V6,Muscle - Skeletal,64.5,60-79,male
+GTEX-Y5V6_Whole Bloo,GTEX-Y5V6_Whole Bloo,GTEX-Y5V6,Whole Blood,64.5,60-79,male
+GTEX-Y5V6_Skin - Sun,GTEX-Y5V6_Skin - Sun,GTEX-Y5V6,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-Y5V6_Adipose - ,GTEX-Y5V6_Adipose - ,GTEX-Y5V6,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-Y5V6_Artery - T,GTEX-Y5V6_Artery - T,GTEX-Y5V6,Artery - Tibial,64.5,60-79,male
+GTEX-Y5V6_Thyroid,GTEX-Y5V6_Thyroid,GTEX-Y5V6,Thyroid,64.5,60-79,male
+GTEX-YB5E_Muscle - S,GTEX-YB5E_Muscle - S,GTEX-YB5E,Muscle - Skeletal,44.5,40-49,male
+GTEX-YB5E_Whole Bloo,GTEX-YB5E_Whole Bloo,GTEX-YB5E,Whole Blood,44.5,40-49,male
+GTEX-YB5E_Skin - Sun,GTEX-YB5E_Skin - Sun,GTEX-YB5E,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-YB5E_Adipose - ,GTEX-YB5E_Adipose - ,GTEX-YB5E,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-YB5E_Artery - T,GTEX-YB5E_Artery - T,GTEX-YB5E,Artery - Tibial,44.5,40-49,male
+GTEX-YB5E_Thyroid,GTEX-YB5E_Thyroid,GTEX-YB5E,Thyroid,44.5,40-49,male
+GTEX-YB5K_Muscle - S,GTEX-YB5K_Muscle - S,GTEX-YB5K,Muscle - Skeletal,44.5,40-49,female
+GTEX-YB5K_Whole Bloo,GTEX-YB5K_Whole Bloo,GTEX-YB5K,Whole Blood,44.5,40-49,female
+GTEX-YB5K_Skin - Sun,GTEX-YB5K_Skin - Sun,GTEX-YB5K,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-YB5K_Adipose - ,GTEX-YB5K_Adipose - ,GTEX-YB5K,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-YB5K_Artery - T,GTEX-YB5K_Artery - T,GTEX-YB5K,Artery - Tibial,44.5,40-49,female
+GTEX-YB5K_Thyroid,GTEX-YB5K_Thyroid,GTEX-YB5K,Thyroid,44.5,40-49,female
+GTEX-YEC4_Muscle - S,GTEX-YEC4_Muscle - S,GTEX-YEC4,Muscle - Skeletal,44.5,40-49,male
+GTEX-YEC4_Whole Bloo,GTEX-YEC4_Whole Bloo,GTEX-YEC4,Whole Blood,44.5,40-49,male
+GTEX-YEC4_Skin - Sun,GTEX-YEC4_Skin - Sun,GTEX-YEC4,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-YEC4_Adipose - ,GTEX-YEC4_Adipose - ,GTEX-YEC4,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-YEC4_Artery - T,GTEX-YEC4_Artery - T,GTEX-YEC4,Artery - Tibial,44.5,40-49,male
+GTEX-YEC4_Thyroid,GTEX-YEC4_Thyroid,GTEX-YEC4,Thyroid,44.5,40-49,male
+GTEX-YFC4_Muscle - S,GTEX-YFC4_Muscle - S,GTEX-YFC4,Muscle - Skeletal,44.5,40-49,female
+GTEX-YFC4_Whole Bloo,GTEX-YFC4_Whole Bloo,GTEX-YFC4,Whole Blood,44.5,40-49,female
+GTEX-YFC4_Skin - Sun,GTEX-YFC4_Skin - Sun,GTEX-YFC4,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-YFC4_Adipose - ,GTEX-YFC4_Adipose - ,GTEX-YFC4,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-YFC4_Artery - T,GTEX-YFC4_Artery - T,GTEX-YFC4,Artery - Tibial,44.5,40-49,female
+GTEX-YFC4_Thyroid,GTEX-YFC4_Thyroid,GTEX-YFC4,Thyroid,44.5,40-49,female
+GTEX-Z93S_Muscle - S,GTEX-Z93S_Muscle - S,GTEX-Z93S,Muscle - Skeletal,54.5,50-59,male
+GTEX-Z93S_Whole Bloo,GTEX-Z93S_Whole Bloo,GTEX-Z93S,Whole Blood,54.5,50-59,male
+GTEX-Z93S_Skin - Sun,GTEX-Z93S_Skin - Sun,GTEX-Z93S,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-Z93S_Adipose - ,GTEX-Z93S_Adipose - ,GTEX-Z93S,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-Z93S_Artery - T,GTEX-Z93S_Artery - T,GTEX-Z93S,Artery - Tibial,54.5,50-59,male
+GTEX-Z93S_Thyroid,GTEX-Z93S_Thyroid,GTEX-Z93S,Thyroid,54.5,50-59,male
+GTEX-ZC5H_Muscle - S,GTEX-ZC5H_Muscle - S,GTEX-ZC5H,Muscle - Skeletal,44.5,40-49,female
+GTEX-ZC5H_Whole Bloo,GTEX-ZC5H_Whole Bloo,GTEX-ZC5H,Whole Blood,44.5,40-49,female
+GTEX-ZC5H_Skin - Sun,GTEX-ZC5H_Skin - Sun,GTEX-ZC5H,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-ZC5H_Adipose - ,GTEX-ZC5H_Adipose - ,GTEX-ZC5H,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-ZC5H_Artery - T,GTEX-ZC5H_Artery - T,GTEX-ZC5H,Artery - Tibial,44.5,40-49,female
+GTEX-ZC5H_Thyroid,GTEX-ZC5H_Thyroid,GTEX-ZC5H,Thyroid,44.5,40-49,female
+GTEX-ZDTS_Muscle - S,GTEX-ZDTS_Muscle - S,GTEX-ZDTS,Muscle - Skeletal,64.5,60-79,male
+GTEX-ZDTS_Whole Bloo,GTEX-ZDTS_Whole Bloo,GTEX-ZDTS,Whole Blood,64.5,60-79,male
+GTEX-ZDTS_Skin - Sun,GTEX-ZDTS_Skin - Sun,GTEX-ZDTS,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-ZDTS_Adipose - ,GTEX-ZDTS_Adipose - ,GTEX-ZDTS,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-ZDTS_Artery - T,GTEX-ZDTS_Artery - T,GTEX-ZDTS,Artery - Tibial,64.5,60-79,male
+GTEX-ZDTS_Thyroid,GTEX-ZDTS_Thyroid,GTEX-ZDTS,Thyroid,64.5,60-79,male
+GTEX-ZDYS_Muscle - S,GTEX-ZDYS_Muscle - S,GTEX-ZDYS,Muscle - Skeletal,54.5,50-59,male
+GTEX-ZDYS_Whole Bloo,GTEX-ZDYS_Whole Bloo,GTEX-ZDYS,Whole Blood,54.5,50-59,male
+GTEX-ZDYS_Skin - Sun,GTEX-ZDYS_Skin - Sun,GTEX-ZDYS,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-ZDYS_Adipose - ,GTEX-ZDYS_Adipose - ,GTEX-ZDYS,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-ZDYS_Artery - T,GTEX-ZDYS_Artery - T,GTEX-ZDYS,Artery - Tibial,54.5,50-59,male
+GTEX-ZDYS_Thyroid,GTEX-ZDYS_Thyroid,GTEX-ZDYS,Thyroid,54.5,50-59,male
+GTEX-ZF29_Muscle - S,GTEX-ZF29_Muscle - S,GTEX-ZF29,Muscle - Skeletal,64.5,60-79,female
+GTEX-ZF29_Whole Bloo,GTEX-ZF29_Whole Bloo,GTEX-ZF29,Whole Blood,64.5,60-79,female
+GTEX-ZF29_Skin - Sun,GTEX-ZF29_Skin - Sun,GTEX-ZF29,Skin - Sun Exposed (Lower leg),64.5,60-79,female
+GTEX-ZF29_Adipose - ,GTEX-ZF29_Adipose - ,GTEX-ZF29,Adipose - Subcutaneous,64.5,60-79,female
+GTEX-ZF29_Artery - T,GTEX-ZF29_Artery - T,GTEX-ZF29,Artery - Tibial,64.5,60-79,female
+GTEX-ZF29_Thyroid,GTEX-ZF29_Thyroid,GTEX-ZF29,Thyroid,64.5,60-79,female
+GTEX-ZF3C_Muscle - S,GTEX-ZF3C_Muscle - S,GTEX-ZF3C,Muscle - Skeletal,54.5,50-59,female
+GTEX-ZF3C_Whole Bloo,GTEX-ZF3C_Whole Bloo,GTEX-ZF3C,Whole Blood,54.5,50-59,female
+GTEX-ZF3C_Skin - Sun,GTEX-ZF3C_Skin - Sun,GTEX-ZF3C,Skin - Sun Exposed (Lower leg),54.5,50-59,female
+GTEX-ZF3C_Adipose - ,GTEX-ZF3C_Adipose - ,GTEX-ZF3C,Adipose - Subcutaneous,54.5,50-59,female
+GTEX-ZF3C_Artery - T,GTEX-ZF3C_Artery - T,GTEX-ZF3C,Artery - Tibial,54.5,50-59,female
+GTEX-ZF3C_Thyroid,GTEX-ZF3C_Thyroid,GTEX-ZF3C,Thyroid,54.5,50-59,female
+GTEX-ZGAY_Muscle - S,GTEX-ZGAY_Muscle - S,GTEX-ZGAY,Muscle - Skeletal,44.5,40-49,female
+GTEX-ZGAY_Whole Bloo,GTEX-ZGAY_Whole Bloo,GTEX-ZGAY,Whole Blood,44.5,40-49,female
+GTEX-ZGAY_Skin - Sun,GTEX-ZGAY_Skin - Sun,GTEX-ZGAY,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-ZGAY_Adipose - ,GTEX-ZGAY_Adipose - ,GTEX-ZGAY,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-ZGAY_Artery - T,GTEX-ZGAY_Artery - T,GTEX-ZGAY,Artery - Tibial,44.5,40-49,female
+GTEX-ZGAY_Thyroid,GTEX-ZGAY_Thyroid,GTEX-ZGAY,Thyroid,44.5,40-49,female
+GTEX-ZPIC_Muscle - S,GTEX-ZPIC_Muscle - S,GTEX-ZPIC,Muscle - Skeletal,44.5,40-49,female
+GTEX-ZPIC_Whole Bloo,GTEX-ZPIC_Whole Bloo,GTEX-ZPIC,Whole Blood,44.5,40-49,female
+GTEX-ZPIC_Skin - Sun,GTEX-ZPIC_Skin - Sun,GTEX-ZPIC,Skin - Sun Exposed (Lower leg),44.5,40-49,female
+GTEX-ZPIC_Adipose - ,GTEX-ZPIC_Adipose - ,GTEX-ZPIC,Adipose - Subcutaneous,44.5,40-49,female
+GTEX-ZPIC_Artery - T,GTEX-ZPIC_Artery - T,GTEX-ZPIC,Artery - Tibial,44.5,40-49,female
+GTEX-ZPIC_Thyroid,GTEX-ZPIC_Thyroid,GTEX-ZPIC,Thyroid,44.5,40-49,female
+GTEX-ZTPG_Muscle - S,GTEX-ZTPG_Muscle - S,GTEX-ZTPG,Muscle - Skeletal,24.5,20-39,female
+GTEX-ZTPG_Whole Bloo,GTEX-ZTPG_Whole Bloo,GTEX-ZTPG,Whole Blood,24.5,20-39,female
+GTEX-ZTPG_Skin - Sun,GTEX-ZTPG_Skin - Sun,GTEX-ZTPG,Skin - Sun Exposed (Lower leg),24.5,20-39,female
+GTEX-ZTPG_Adipose - ,GTEX-ZTPG_Adipose - ,GTEX-ZTPG,Adipose - Subcutaneous,24.5,20-39,female
+GTEX-ZTPG_Artery - T,GTEX-ZTPG_Artery - T,GTEX-ZTPG,Artery - Tibial,24.5,20-39,female
+GTEX-ZTPG_Thyroid,GTEX-ZTPG_Thyroid,GTEX-ZTPG,Thyroid,24.5,20-39,female
+GTEX-ZTX8_Muscle - S,GTEX-ZTX8_Muscle - S,GTEX-ZTX8,Muscle - Skeletal,24.5,20-39,male
+GTEX-ZTX8_Whole Bloo,GTEX-ZTX8_Whole Bloo,GTEX-ZTX8,Whole Blood,24.5,20-39,male
+GTEX-ZTX8_Skin - Sun,GTEX-ZTX8_Skin - Sun,GTEX-ZTX8,Skin - Sun Exposed (Lower leg),24.5,20-39,male
+GTEX-ZTX8_Adipose - ,GTEX-ZTX8_Adipose - ,GTEX-ZTX8,Adipose - Subcutaneous,24.5,20-39,male
+GTEX-ZTX8_Artery - T,GTEX-ZTX8_Artery - T,GTEX-ZTX8,Artery - Tibial,24.5,20-39,male
+GTEX-ZTX8_Thyroid,GTEX-ZTX8_Thyroid,GTEX-ZTX8,Thyroid,24.5,20-39,male
+GTEX-ZUA1_Muscle - S,GTEX-ZUA1_Muscle - S,GTEX-ZUA1,Muscle - Skeletal,44.5,40-49,male
+GTEX-ZUA1_Whole Bloo,GTEX-ZUA1_Whole Bloo,GTEX-ZUA1,Whole Blood,44.5,40-49,male
+GTEX-ZUA1_Skin - Sun,GTEX-ZUA1_Skin - Sun,GTEX-ZUA1,Skin - Sun Exposed (Lower leg),44.5,40-49,male
+GTEX-ZUA1_Adipose - ,GTEX-ZUA1_Adipose - ,GTEX-ZUA1,Adipose - Subcutaneous,44.5,40-49,male
+GTEX-ZUA1_Artery - T,GTEX-ZUA1_Artery - T,GTEX-ZUA1,Artery - Tibial,44.5,40-49,male
+GTEX-ZUA1_Thyroid,GTEX-ZUA1_Thyroid,GTEX-ZUA1,Thyroid,44.5,40-49,male
+GTEX-ZVZP_Muscle - S,GTEX-ZVZP_Muscle - S,GTEX-ZVZP,Muscle - Skeletal,54.5,50-59,male
+GTEX-ZVZP_Whole Bloo,GTEX-ZVZP_Whole Bloo,GTEX-ZVZP,Whole Blood,54.5,50-59,male
+GTEX-ZVZP_Skin - Sun,GTEX-ZVZP_Skin - Sun,GTEX-ZVZP,Skin - Sun Exposed (Lower leg),54.5,50-59,male
+GTEX-ZVZP_Adipose - ,GTEX-ZVZP_Adipose - ,GTEX-ZVZP,Adipose - Subcutaneous,54.5,50-59,male
+GTEX-ZVZP_Artery - T,GTEX-ZVZP_Artery - T,GTEX-ZVZP,Artery - Tibial,54.5,50-59,male
+GTEX-ZVZP_Thyroid,GTEX-ZVZP_Thyroid,GTEX-ZVZP,Thyroid,54.5,50-59,male
+GTEX-ZXG5_Muscle - S,GTEX-ZXG5_Muscle - S,GTEX-ZXG5,Muscle - Skeletal,64.5,60-79,male
+GTEX-ZXG5_Whole Bloo,GTEX-ZXG5_Whole Bloo,GTEX-ZXG5,Whole Blood,64.5,60-79,male
+GTEX-ZXG5_Skin - Sun,GTEX-ZXG5_Skin - Sun,GTEX-ZXG5,Skin - Sun Exposed (Lower leg),64.5,60-79,male
+GTEX-ZXG5_Adipose - ,GTEX-ZXG5_Adipose - ,GTEX-ZXG5,Adipose - Subcutaneous,64.5,60-79,male
+GTEX-ZXG5_Artery - T,GTEX-ZXG5_Artery - T,GTEX-ZXG5,Artery - Tibial,64.5,60-79,male
+GTEX-ZXG5_Thyroid,GTEX-ZXG5_Thyroid,GTEX-ZXG5,Thyroid,64.5,60-79,male

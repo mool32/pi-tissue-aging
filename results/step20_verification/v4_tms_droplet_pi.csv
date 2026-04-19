@@ -1,0 +1,14 @@
+cell_type,age_group,pi_tissue,n_samples,n_tissues,n_genes,n_cells,platform
+B cell,young,0.5306120173908426,8,4,15250,5918,10x_Chromium
+B cell,old,0.2387854543878906,35,7,16986,17066,10x_Chromium
+T cell,young,0.8055134573672672,7,4,15255,3643,10x_Chromium
+T cell,old,0.24468054391777008,37,7,16480,5283,10x_Chromium
+endothelial cell,young,0.6078764871361892,8,4,15412,1418,10x_Chromium
+endothelial cell,old,0.4182006678214681,26,5,16879,4990,10x_Chromium
+macrophage,young,0.771981562323033,13,6,15750,1290,10x_Chromium
+macrophage,old,0.48965180495590876,35,5,17054,3874,10x_Chromium
+NK cell,young,0.485740823997907,7,3,13245,717,10x_Chromium
+NK cell,old,0.2998261464910644,21,5,13995,891,10x_Chromium
+plasma cell,young,0.33363883060196947,4,2,10483,67,10x_Chromium
+plasma cell,old,0.2790434784388847,14,3,14109,866,10x_Chromium
+leukocyte,old,0.2571568051380423,14,3,15205,726,10x_Chromium

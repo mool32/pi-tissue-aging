@@ -1,0 +1,15 @@
+cell_type,age,pi,n_tissues
+macrophage,3m,0.4424,9
+macrophage,24m,0.4519,9
+endothelial cell,3m,0.3444,11
+endothelial cell,24m,0.3789,10
+B cell,3m,0.2529,10
+B cell,24m,0.3691,11
+T cell,3m,0.332,9
+T cell,24m,0.3835,12
+NK cell,3m,0.3312,7
+NK cell,24m,0.4036,4
+MSC adipose,3m,0.1634,4
+MSC adipose,24m,0.3117,4
+myeloid cell,3m,0.2305,4
+myeloid cell,24m,0.2688,4

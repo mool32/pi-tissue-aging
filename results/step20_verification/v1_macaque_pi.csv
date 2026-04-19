@@ -1,0 +1,5 @@
+age_group,age_midpoint,pi_tissue,n_samples,n_tissues,n_genes
+Juvenile,3.0,0.6671569168235759,30,6,14699
+Young_adult,7.5,0.6652002701481191,30,6,14699
+Middle_aged,14.0,0.8351576064986529,18,6,14699
+Elderly,25.0,0.786284856745915,24,6,14699

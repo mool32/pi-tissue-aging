@@ -1,0 +1,2 @@
+n_patients,n_genes,pi_tumor_median,pi_patient_median,pi_residual_median
+681,14672,0.015667573887032084,0.6660916958199781,0.30217352858520885
