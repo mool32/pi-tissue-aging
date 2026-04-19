@@ -247,7 +247,7 @@ Bootstrap confidence intervals come from 100 resamples of donors (for GTEx tissu
 ### 5.14 Code and data availability
 
 All analysis code, intermediate CSVs, and figures are released at
-https://github.com/vaika-inc/pi-tissue-aging (a local git repository
+https://github.com/mool32/pi-tissue-aging (a local git repository
 accompanies this submission and will be pushed to GitHub on preprint
 deposit). Raw upstream data must be obtained separately: GTEx v8 from
 dbGaP (phs000424.v8, requires approval); Tabula Muris Senis FACS and
