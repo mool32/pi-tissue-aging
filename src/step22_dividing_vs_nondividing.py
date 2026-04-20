@@ -208,11 +208,16 @@ def main():
         mw_stat, mw_p = stats.mannwhitneyu(div_vals, nond_vals, alternative="greater")
         _log(f"\n    Mann-Whitney (dividing > post-mitotic): U = {mw_stat:.1f}, p = {mw_p:.4f}")
 
-    # Figure: tissue barplot, colored by class
+    # Figure: 2-panel — left = per-tissue barplot colored by class,
+    # right = group-level boxplot showing groups DO NOT separate
     CLASS_COLORS = {"dividing": "#d62728", "intermediate": "#ff7f0e", "post_mitotic": "#1f77b4"}
     df_sorted = df.sort_values("median_delta_var", ascending=True)
 
-    fig, ax = plt.subplots(figsize=(9, max(5, 0.4 * len(df))))
+    fig, axes = plt.subplots(1, 2, figsize=(13, max(5, 0.4 * len(df))),
+                              gridspec_kw={"width_ratios": [2, 1]})
+
+    # Left: per-tissue barplot
+    ax = axes[0]
     colors = [CLASS_COLORS[c] for c in df_sorted["class"]]
     y_pos = range(len(df_sorted))
     ax.barh(y_pos, df_sorted["median_delta_var"], color=colors, alpha=0.85,
@@ -226,14 +231,53 @@ def main():
     ax.set_yticks(y_pos)
     ax.set_yticklabels([t.replace(" - ", "\n") for t in df_sorted["tissue"]], fontsize=8)
     ax.set_xlabel("Median Δ variance (old − young), log2(TPM+1) scale")
-    ax.set_title("Per-tissue noise accumulation by turnover architecture\n"
-                 "(95% bootstrap CI over genes)", fontsize=11)
+    ax.set_title("A  Per-tissue noise by turnover class", fontsize=11,
+                 fontweight="bold", loc="left")
     from matplotlib.patches import Patch
     ax.legend(handles=[
         Patch(color=CLASS_COLORS["dividing"], label="Continuously dividing"),
         Patch(color=CLASS_COLORS["intermediate"], label="Intermediate"),
         Patch(color=CLASS_COLORS["post_mitotic"], label="Post-mitotic / stationary"),
-    ], loc="lower right", fontsize=9)
+    ], loc="lower right", fontsize=8)
+
+    # Right: group-level boxplot — shows classes DO NOT separate
+    ax = axes[1]
+    group_order = ["dividing", "intermediate", "post_mitotic"]
+    group_labels = ["Dividing", "Intermediate", "Post-mitotic"]
+    group_values = [df[df["class"] == g]["median_delta_var"].values for g in group_order]
+    bp = ax.boxplot(group_values, positions=range(3), widths=0.5,
+                    patch_artist=True, showfliers=False)
+    for patch, g in zip(bp["boxes"], group_order):
+        patch.set_facecolor(CLASS_COLORS[g])
+        patch.set_alpha(0.5)
+        patch.set_edgecolor("black")
+    for median in bp["medians"]:
+        median.set_color("black")
+    # Overlay individual points with labels
+    rng = np.random.RandomState(1)
+    for gi, g in enumerate(group_order):
+        sub = df[df["class"] == g]
+        jit = rng.normal(0, 0.06, len(sub))
+        ax.scatter(np.full(len(sub), gi) + jit, sub["median_delta_var"],
+                    c="black", s=30, zorder=3, alpha=0.9)
+        for (_, r), j in zip(sub.iterrows(), jit):
+            ax.annotate(r["tissue"].split(" - ")[-1][:10], (gi + j, r["median_delta_var"]),
+                        fontsize=6, ha="left", va="bottom",
+                        xytext=(3, 2), textcoords="offset points")
+    ax.axhline(0, color="black", linewidth=0.5)
+    ax.set_xticks(range(3))
+    ax.set_xticklabels(group_labels, fontsize=9)
+    ax.set_ylabel("Median Δ variance")
+    # Test + annotate
+    div_vals = df[df["class"] == "dividing"]["median_delta_var"].values
+    pm_vals = df[df["class"] == "post_mitotic"]["median_delta_var"].values
+    try:
+        _, mw_p = stats.mannwhitneyu(div_vals, pm_vals, alternative="two-sided")
+    except Exception:
+        mw_p = np.nan
+    ax.set_title(f"B  Groups do not separate\n(dividing vs post-mitotic Mann-Whitney p = {mw_p:.2f})",
+                 fontsize=10, fontweight="bold", loc="left")
+
     fig.tight_layout()
     fig.savefig(RESULTS_DIR / "dividing_vs_nondividing.png", dpi=300, bbox_inches="tight")
     plt.close()
