@@ -141,7 +141,7 @@ class PaperPDF(FPDF):
         self.ln(5)
         self.set_font("Helvetica", "I", 9)
         self.set_text_color(80, 80, 80)
-        self.cell(0, 5, "Vaika, Inc., East Aurora, NY, USA", align="C")
+        self.cell(0, 5, "Vaika, Inc., 1933 Sweet Rd., East Aurora, NY 14052-3016, USA", align="C")
         self.ln(4)
         self.cell(0, 5, "theospirin@gmail.com", align="C")
         self.ln(5)

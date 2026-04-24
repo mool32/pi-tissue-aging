@@ -123,8 +123,8 @@ Please also cite the underlying data sources per their own policies
 
 ## Contact
 
-Theodor Spiro · Vaika, Inc., East Aurora, NY, USA ·
-theospirin@gmail.com
+Theodor Spiro · Vaika, Inc., 1933 Sweet Rd., East Aurora,
+NY 14052-3016, USA · theospirin@gmail.com
 
 ## Acknowledgements
 
