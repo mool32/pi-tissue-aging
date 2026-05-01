@@ -4,7 +4,7 @@
 
 Theodor Spiro¹
 
-¹Vaika, Inc., 1933 Sweet Rd., East Aurora, NY 14052-3016, USA. Correspondence: theospirin@gmail.com
+¹Vaika, Inc., 1933 Sweet Rd., East Aurora, NY 14052-3016, USA. Correspondence: tspiro@vaika.org
 
 **Draft v4** — 2026-04-19
 

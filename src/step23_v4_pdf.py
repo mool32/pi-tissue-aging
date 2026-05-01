@@ -12,7 +12,7 @@ BASE = Path("/Users/teo/Desktop/research/pi_tissue_paper")
 MD_PATH = BASE / "manuscript" / "pi_tissue_paper_v4.md"
 FIG_DIR = BASE / "manuscript" / "figures"
 STEP22_FIG = BASE / "results" / "step22_dividing" / "dividing_vs_nondividing.png"
-OUT_PDF = BASE / "manuscript" / "pi_tissue_paper_v4.pdf"
+OUT_PDF = BASE / "paper" / "pi_tissue_paper_v4.pdf"
 
 # Figure mapping: section title substring → (image path, caption)
 FIGURE_MAP = {
@@ -143,7 +143,7 @@ class PaperPDF(FPDF):
         self.set_text_color(80, 80, 80)
         self.cell(0, 5, "Vaika, Inc., 1933 Sweet Rd., East Aurora, NY 14052-3016, USA", align="C")
         self.ln(4)
-        self.cell(0, 5, "theospirin@gmail.com", align="C")
+        self.cell(0, 5, "tspiro@vaika.org", align="C")
         self.ln(5)
         self.cell(0, 5, "Draft v4 -- 2026-04-19", align="C")
         self.ln(10)
