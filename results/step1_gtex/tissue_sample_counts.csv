@@ -1,0 +1,55 @@
+SMTSD,n_samples,n_donors,n_male,n_female
+Muscle - Skeletal,772,772,521,251
+Whole Blood,726,726,481,245
+Skin - Sun Exposed (Lower leg),673,673,448,225
+Adipose - Subcutaneous,642,642,432,210
+Artery - Tibial,635,635,435,200
+Thyroid,629,629,419,210
+Nerve - Tibial,591,591,401,190
+Skin - Not Sun Exposed (Suprapubic),582,582,395,187
+Lung,552,552,378,174
+Esophagus - Mucosa,537,537,351,186
+Adipose - Visceral (Omentum),525,525,359,166
+Esophagus - Muscularis,500,500,326,174
+Cells - Cultured fibroblasts,480,480,314,166
+Breast - Mammary Tissue,438,438,279,159
+Artery - Aorta,413,413,269,144
+Heart - Left Ventricle,412,412,281,131
+Heart - Atrial Appendage,412,412,283,129
+Colon - Transverse,402,402,257,145
+Colon - Sigmoid,364,364,236,128
+Esophagus - Gastroesophageal Junction,363,363,243,120
+Stomach,356,356,224,132
+Testis,342,342,342,0
+Pancreas,325,325,206,119
+Pituitary,262,262,192,70
+Adrenal Gland,249,249,150,99
+Spleen,239,239,153,86
+Brain - Cortex,237,237,170,67
+Brain - Nucleus accumbens (basal ganglia),232,232,175,57
+Prostate,232,232,232,0
+Brain - Caudate (basal ganglia),232,232,176,56
+Artery - Coronary,230,230,141,89
+Brain - Cerebellum,222,222,162,60
+Liver,213,213,151,62
+Brain - Frontal Cortex (BA9),200,200,148,52
+Brain - Cerebellar Hemisphere,198,198,147,51
+Brain - Putamen (basal ganglia),193,193,149,44
+Brain - Hypothalamus,188,188,139,49
+Small Intestine - Terminal Ileum,185,185,118,67
+Brain - Hippocampus,184,184,136,48
+Ovary,173,173,0,173
+Cells - EBV-transformed lymphocytes,171,171,109,62
+Brain - Anterior cingulate cortex (BA24),163,163,122,41
+Minor Salivary Gland,157,157,111,46
+Vagina,150,150,0,150
+Brain - Spinal cord (cervical c-1),148,148,96,52
+Brain - Amygdala,141,141,101,40
+Uterus,135,135,0,135
+Brain - Substantia nigra,133,133,99,34
+Kidney - Cortex,82,82,63,19
+Bladder,20,20,13,7
+Cervix - Endocervix,10,10,0,10
+Fallopian Tube,9,9,0,9
+Cervix - Ectocervix,9,9,0,9
+Kidney - Medulla,3,3,2,1
